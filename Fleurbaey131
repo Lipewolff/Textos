@@ -1,0 +1,1896 @@
+INTRODUCTION
+
+The Four Musketeers
+
+Too much and for too long, we seem to have surrendered personal excellence and
+community values in the mere accumulation of material things. Our gross national product . . . counts the air pollution and cigarette advertising, and ambulances to clear our
+highways of carnage. It counts special locks for our doors and the jails for the people who
+break them. It counts the destruction of the redwoods and the loss of our natural wonders
+in chaotic sprawl. It counts napalm and it counts nuclear warheads, and armored cars for
+the police who ﬁght the riots in our streets. . . .
+Yet the gross national product does not allow for the health of our children, the quality
+of their education, or the joy of their play. It does not include the beauty of our poetry
+or the strength of our marriages; the intelligence of our public debate or the integrity
+of our public oﬃcials. It measures neither our wit nor our courage; neither our wisdom
+nor our learning; neither our compassion nor our devotion to our country; it measures
+everything, in short, except that which makes life worthwhile.
+—Robert F. Kennedy Address, University of Kansas, Lawrence, Kansas, March 18, 19681
+The valuable capacity of the human mind to simplify a complex situation in a compact characterization becomes dangerous when not controlled in terms of deﬁnitely
+stated criteria. With quantitative measurements especially, the deﬁniteness of the result
+suggests, often misleadingly, a precision and simplicity in the outlines of the object
+measured. Measurements of national income are subject to this type of illusion and
+resulting abuse, especially since they deal with matters that are the center of conﬂict of
+opposing social groups where the eﬀectiveness of an argument is often contingent upon
+oversimpliﬁcation.
+—Simon Kuznets, in National Income 1929–1932. A report to the U.S. Senate, 73rd
+Congress, 2nd Session. Washington, DC: US Government Printing Oﬃce, 1934 (p. 5–6)2
+
+1. The speech can be listened to at http://www.youtube.com/watch?v=77IdKFqXbUY.
+2. The quote is taken from Costanza et al. (2009, p. 8).
+( xi )
+
+( xii )
+
+A
+
+Introduction: The Four Musketeers
+
+lthough the economist does not have the politician’s ﬂamboyant style,
+these two quotations show that the common use of GDP or GNP as
+the main indicator of social progress and countries’ success over the last
+decades has been, early on, warned against by its creator and by prominent
+decision-makers. But even if economists cannot be accused of overselling
+the GDP, they should perhaps feel a special responsibility for helping to
+construct better alternatives.
+This is the perspective from which this book is written. This does not
+mean that we believe that economic theory provides a ready-to-go alternative indicator. The design of good indicators of social performance should
+ideally be the collective endeavor of social scientists from many disciplines,
+and should rely on the views of the populations whose well-being is to be
+measured. First of all, it involves addressing hard ethical issues about distributive justice. The evaluation of individual situations and social states
+of aﬀairs requires deﬁning what should be distributed between the members of society (subjective well-being, resources, opportunities . . . ), and
+how it should be distributed, that is, how much priority should be given
+to the worst-oﬀ. These two sets of issues articulate social evaluation and
+interpersonal comparisons, two famously diﬃcult value-laden exercises.
+While the diﬃcult ethical issues cannot be answered once and for all and
+cannot be answered with the scientiﬁc authority of the standard corpus
+of economics and other social sciences, it is important to recognize that
+there are concepts and theories that do shape the questions in a remarkably helpful and clarifying way. And it so happens that welfare concepts
+have been developed by economists, sometimes in relation to moral and
+political philosophy, because of their role as advisors in the assessment
+of economic and social policy. In a nutshell, while the economist cannot
+answer the ethical questions, “welfare economics”, a subﬁeld of economic
+theory that we broadly construe as encompassing social choice theory and
+the theory of fair allocation as well as more traditional ﬁelds such as costbeneﬁt analysis, now provides a useful array of concepts that help formulate
+such questions. We would therefore like this book to help economists, social
+scientists, decision-makers, and interested persons to better identify the
+pros and cons of various approaches and their ethical underpinnings.
+Obviously, we do not have to start from scratch, as a whole industry
+has set out to produce alternative indicators, following an exponential
+growth curve over the last three decades (as described by Gadrey and
+Jany-Catrice 2006). Our goal is to provide a critical examination of the
+main approaches. We have identiﬁed four approaches (the “four musketeers”) that seek to ﬁght the power of GDP, although, for reasons to be
+explained shortly, one should perhaps distinguish ﬁve approaches. The ﬁrst
+approach proposes to gather various indicators of social performance into
+
+Introduction: The Four Musketeers
+
+( xiii )
+
+a hybrid, composite index, in which GDP per capita or total household
+income generally is one component among others such as unemployment,
+health, and poverty. The Human Development Index, regularly published
+for international comparisons since UNDP (1990), and recently revisited in
+UNDP (2010), is the most famous of such indicators. This approach is perhaps the simplest because it does not rely on sophisticated theory—this
+provides a key advantage in terms of potential popularity. It is discussed
+most speciﬁcally in chapter 1 of this book.
+Chapter 2 is devoted to the speciﬁc issue of sustainability. While this
+is not exactly the same issue as measuring the well-being of the present
+generation, it has been quite natural for the inventors of alternative indicators to think of the hazards to future generations induced by unfettered
+economic growth. “Greening” GDP, or measuring the ecological “footprint”
+of the present generation, has become a fashionable approach in this context. This chapter therefore deals with an important aspect of the problem
+of going beyond GDP. It also provides a nice transition between the composite approaches discussed in chapter 1 and the monetary approaches
+examined in chapter 3, because various sustainability indicators have been
+constructed following the composite and the monetary methodologies.
+The monetary approaches, as the name clearly suggests, keep the monetary metric of the GDP but seek to change the contents. A pioneering
+initiative in this vein has been made by Nordhaus and Tobin (1972).
+The monetary approaches are at the extreme opposite of the composite approaches insofar as they are most demanding in terms of economic
+theory background. We will therefore devote two chapters (chapters 3–
+4) to them. As we will explain in these chapters, there is an important
+distinction between the approaches that seek to put a uniform price on
+each dimension of well-being that GDP does not cover (or wrongly covers), and the approaches that use the monetary metric through individual
+willingness-to-pay and “equivalent income,” allowing diﬀerent values for
+diﬀerent people. The latter oﬀer much more ﬂexibility, receive much better
+support from basic principles, and are even able to go beyond the money
+metric itself in order to refer to generalized opportunity sets rather than
+ordinary market-like budget sets. A separate discussion in two chapters
+appeared therefore necessary. In chapter 3 we explain the limits of the
+former approach (uniform pricing), but also discuss the more promising
+idea of keeping a role for total income as a component of an index of
+social welfare. The latter approach (equivalent income) is studied in detail
+in chapter 4, with a review of the criticisms it has been subjected to after it
+was ﬁrst used in the late 1970s and early 1980s. We will argue that these
+criticisms are not insurmountable, so that the approach remains actually
+quite valuable.
+
+( xiv )
+
+Introduction: The Four Musketeers
+
+The third approach discussed in this book involves direct measures of
+subjective well-being. Interest in this approach has soared in the last 20
+years, mostly drawn by the development of happiness data and the application of econometric techniques to them. For an economist it is quite
+a revolution, in view of the long skepticism about such measures in the
+discipline in most of the twentieth century. In Chapter 5 we analyze the
+ethical underpinnings of subjective well-being indicators, their connections
+to psychological and philosophical background theories, their relation to
+economic concepts, and also the empirical strategies for possible improvements to data collection. The key issues discussed in that chapter have to
+do with the practical and ethical problem of comparing subjective declarations across individuals in order to estimate the distribution of well-being
+in a given population. Subjective well-being data are often believed to provide a direct measure of well-being, or at least a good proxy, but things are
+not so simple. There is a real danger that they are signiﬁcantly misleading.
+The fourth approach, dealt with in chapter 6, is Amartya Sen’s capability
+approach, which has also become considerably attractive to many scholars
+and activists after it was ﬁrst formulated in the mid-1980s (Sen 1985).
+Although the approach is often associated with the Human Development
+Index, this index is, due to data limitations for wide international comparisons, a pale reﬂection of the general and ambitious methodology proposed
+by the capability perspective. It is especially interesting to discuss this
+approach, not as a radically diﬀerent view, but as a methodology that relates
+in complex ways to the approaches discussed in the preceding chapters.
+Although it is sometimes described as mainly focused on objective dimensions of life, it actually makes room for subjective aspects of well-being, but
+not as much as the equivalent income approach of chapter 4 and the subjective well-being approach of chapter 5 do. This, however, remains a matter
+for discussion, as the ambition to respect the values and preferences of the
+population whose well-being is to be measured is widely shared among the
+approaches described in this book.
+To a substantial extent, the ideal of respecting the population’s values
+and preferences provides the thread of the book, as each approach rebels
+against GDP for its failure to live by that ideal, and each approach tries to
+incorporate new elements that go in that direction. We will show in this
+book that the various approaches unequally succeed in capturing the population’s values and preferences. Our conclusion will be that most if not
+all of these approaches deserve to be pursued, but some of them must
+acknowledge that they involve a substantial degree of paternalism and perfectionism, more than their advocates typically admit. While the obsession
+with GDP puts “the mere accumulation of material things” above “personal
+
+Introduction: The Four Musketeers
+
+( xv )
+
+excellence and community values” (Kennedy), many of the alternative indicators are not more neutral and promote other values, such as good feelings
+or particular freedoms. Among the approaches examined in this book, the
+equivalent income will be shown to be the most respectful of people’s goals
+in life—which is an advantage over the other approaches only if people’s
+goals are respectable!
+The authors of this book have been involved in the works of the StiglitzSen-Fitoussi Commission,3 whose mandate was to reconcile the diverging
+outlooks provided by standard indicators and by the perceptions of the population. The report of the Commission identiﬁes various areas in which
+more eﬀort should be made by statistical institutions and those who use
+the data. These include in particular the three approaches discussed in
+our chapters 4, 5, and 6, as well as the sustainability issues analyzed in
+chapter 2.
+This book is built upon some of the work that has been done by
+the authors for the Commission, some of which has been published or
+made available on the Commission or INSEE websites (Fleurbaey 2009;
+Afsa et al. 2008; Blanchet, Le Cacheux, and Marcus 2009). While survey papers and committee reports provide essential elements, they often
+remain superﬁcial on the technical aspects and the ethical ramiﬁcations.
+With this book, we seek to provide additional material for those who would
+like to go further and better understand the issues and the possible solutions. The problem of designing a good indicator of social progress is a
+tremendous opportunity to connect various areas of economics and other
+social sciences and is a great source of inspiration given the number and
+scope of debates and questions that remain open to this day.
+Surveys and reports also obey certain rules of restraint and balance,
+whereas a book like this one is a better place to explore original ideas. While
+we sought to remain comprehensive, we have not hesitated to adopt a critical tone and a more personal perspective in the assessment of the various
+arguments and approaches, and to propose new ideas and new articulations
+of the various approaches.
+The book is written for readers who are already familiar with the main
+concepts and issues rather than for readers who seek an easy introduction
+to the topic. But most of the text is written so as to be widely accessible
+to readers with an undergraduate background in economics. It should also
+be accessible to motivated readers with a mere elementary background in
+calculus, because the technical concepts from economic theory are always
+3. Details about the Commission, including its downloadable report, can be found at
+www.stiglitz-sen-ﬁtoussi.fr.
+
+( xvi )
+
+Introduction: The Four Musketeers
+
+deﬁned and introduced when they are used in the argument. This is not a
+textbook, and the text contains few formal results; it focuses on the ideas
+and arguments in the quest for alternative indicators.
+In terms of technical diﬃculty, chapter 3 is the most demanding, but
+because it is mostly critical of the use of pricing in monetary indicators, it
+is also the least necessary to grasp the main messages of the book, so that it
+can be skipped by the reader without losing much. Note, however, that this
+chapter contains a constructive part, dealing with the question of writing
+a formula for social welfare as a function of eﬃciency and equity components, in which total income could appear as an element among others.
+Chapter 2 on sustainability can also be skipped without losing the thread
+in the other chapters, but obviously this does not mean that sustainability
+issues are less important. A reader who is especially interested in happiness
+or capabilities can start with chapter 5 or 6 and look at the other chapters
+when references are made to them.
+Acknowledgments In the preparation of this book, we have beneﬁted a lot
+from interactions and collaboration with many colleagues, in particular in
+the Stiglitz-Sen-Fitoussi Commission, which was a very stimulating experience. Our coauthors in earlier work dealing with the topics discussed here
+have been very inﬂuential and inspiring, although any responsibility for
+the shortcomings of this text should not be attributed to them. Various
+parts of the manuscript have greatly beneﬁted from detailed comments,
+for which we are very grateful, by Angus Deaton, Koen Decancq, Juan
+Moreno-Ternero, Erik Schokkaert, and Giacomo Valletta. Reactions from
+the audience at an Urrutia-Erejalde summer school session in 2012 have
+also been helpful. Discussions with Geir Asheim, Larry Pervin, and Justin
+Wolfers are also gratefully acknowledged. Joe Jackson, Terry Vaughn, and
+the editorial team at Oxford University Press have been steadily helpful,
+eﬃcient, and encouraging. Last but not least, our families deserve our
+warmest gratitude for their wonderful support during the long months of
+preparation of the manuscript.
+
+CHAPTER 1
+
+A Wealth of Indicators
+
+1.1 INTRODUCTION
+
+I
+
+n this ﬁrst chapter, we provide an introductory overview of the alternative indicators that are already available and recall the institutional
+and historical context in which they have been produced. This introduction sets the stage for the analysis of the foundations and possible future
+developments to which the bulk of this book is devoted.
+A detailed and exhaustive review would, however, be impossible in
+a single chapter. Building alternatives to GDP is a not-so-recent industry. It started at the onset of the 1970s, and it enjoyed an exceptional
+boom over the last decade, fueled by both supply and demand factors.
+On the supply side one has the increasing availability of international
+data of all kinds that constitute this industry’s raw material. On the
+demand side one witnesses the mounting dissatisfaction of citizens with
+the image of society returned by oﬃcial statistics, calling for alternative numbers. The conﬂuence of these two trends beneﬁted from modern
+instruments of dissemination: it is now easy to post new proposals and
+make them accessible to a large worldwide community, sometimes bypassing the lengthy circuits of academic or technical validation. To get a feeling
+of how the resulting activity is burgeoning and heterogeneous, one just has
+to visit some dedicated websites, and inter alia the “wikiprogress” platform
+(http://www.wikiprogress.org), which is the main window of the “Global
+Project on Measuring the Progress of Societies,” a federative project hosted
+by OECD, supported by several international organizations, and opened to
+all forms of initiatives, oﬃcial or nonoﬃcial. A glance at this site conﬁrms
+
+(1)
+
+(2)
+
+A Wealth of Indicators
+
+the diﬃculty of an exhaustive presentation. Even if exhaustiveness was at
+hand, the proposed picture would rapidly turn obsolete.
+Our ambition here remains therefore more limited. It is to give a basic
+idea of the main currents of thought that structure this ﬁeld: Where
+do they come from? How do they relate to one another? What are
+their most emblematic representatives? What questions do they raise? To
+this aim, one strongly beneﬁts from reference surveys that are already
+available (Boarini, Johansson, and Mira d’Ercole 2006; Gadrey and JanyCatrice 2006) and to which the reader can refer for further details.1
+Presenting the background of available indicators will enable us to raise
+and take a ﬁrst look at key methodological questions that will run throughout this book. While the shortcomings of GDP are widely acknowledged,
+there are vivid debates about how to enrich the available information about
+social welfare. Two issues are particularly salient. First, there is the issue
+of how far from GDP one should seek to go. Modest corrections to GDP
+are possible, but adopting a radically new index based on totally diﬀerent
+data, for example, an index of national happiness, is also advocated by some
+authors. In this vein, monetary approaches are often opposed to nonmonetary approaches, an important criticism against the former being that they
+too easily substitute one dimension of performance for another.
+The other important debate is whether one should seek a single alternative to GDP or retain a multidimensional approach, with several indicators for diﬀerent dimensions (GDP remaining possibly one of them).
+Aggregation has its advocates and its opponents, with theoretical and pragmatic arguments being invoked on the two sides of the debate. Elements of
+these debates will appear in this chapter and will motivate many parts of
+the book.
+
+1.2 A BIRD’S-EYE VIEW
+Let us start with a very synthetic overview, oﬀered by ﬁgure 1.1. It tentatively orders approaches or initiatives by approximate time of apparition
+(on the horizontal axis) and by degree of proximity with GDP or other
+concepts of national accounts (along the vertical axis). A distinction is
+also made between indexes (gray boxes) and other elements of interest
+(white boxes). “Indexes” include both one-shot prototypes and indicators
+that have been more or less regularly produced and generally go on being
+1. Vanoli’s history of national accounts also oﬀers many very informed insights on
+this literature, from a national accountant’s point of view (Vanoli 2005).
+
+1960
+
+1970
+
+Subjective
+approaches
+
+1980
+
+1990
+
+2000
+Happiness data
+
+Easterlin (1974)
+
+Human Development
+Index (HDI)
+
+Composite or
+hybrid
+indexes
+
+Happy Life
+Index (HLI)
+
+Social
+accounts
+
+Nordhaus
+and Tobin
+(MEW and
+SMEW)
+
+Capital-based
+approach to
+sustainability
+
+Global project on measuring
+the progress of societies
+(OECD and other institutions)
+GDP and
+Beyond (UE)
+
+Millennium Development
+Goals (UN)
+
+System of integrated environmental
+and economic accounting (UN)
+- Index of Sustainable
+Economic Welfare (ISEW)
+- Genuine Progress
+Indicator (GPI)
+
+Happy Planet
+Index (HPI)
+
+Ecological Footprint (EF)
+
+Dashboards of
+sustainable development
+(UN, EU and national
+declinations)
+
+SSF
+report
+
+Sponsorship
+group (ESSC)
+
+TFSD (UNECE/
+Eurostat/OECD)
+
+WGSSD (UNECE/
+Eurostat/OCDE)
+
+Green GDPs
+Genuine savings
+
+Your Better
+Life Index
+(OECD)
+
+Adjusted Net Savings
+(World Bank)
+
+Equivalent
+income
+approaches
+
+Notes: Gray boxes correspond to indexes or sets of indexes, including both one-shot prototypes and those that have benefited from some regular production. White boxes correspond to all other forms of
+related initiatives: reports, task forces, more or less structured research or production programs. Italics refer to indexes or initiatives excusively focussed on sustainability. Datations are very indicative. Arrows
+outline the main dependencies or filiations.
+Non usual acronyms: UNECE = United Nations Economic Commission for Europe; ESSC = European Statistical System Committee, WGSSD = Working Group on Statistics for Sustainable Development,
+TFSD = Task Force for Measuring Sustainable Development, SSF = Stiglitz-Sen-Fitoussi report.
+
+Figure 1.1
+Alternatives to GDP : a bird’s-eye view
+
+(3)
+
+Accounting/
+monetary
+approaches
+
+"Social
+indicators"
+movement
+
+Agenda 21
+(UN)
+
+Happy Income
+Index (HII)
+
+1 . 2 A B I R D ’S - E Y E V I E W
+
+Brundtland
+report
+
+Sustainable Society
+Index (SSI)
+
+Environmental
+Performance Index (EPI)
+
+Index of Social Health (ISH)
+Index of Economic Well-being (IEWB)
+
+Dashboards
+
+2010
+
+(4)
+
+A Wealth of Indicators
+
+so. The “other” category includes seminal papers, reports, working groups,
+formal or informal research programs, and so on. We also tried to represent
+some of the ﬁliations linking these items to each other, but only the most
+important or speciﬁc ones. In some cases, links are so numerous that they
+could not be displayed. This is generally the case with federative projects
+that generally borrow from all preexisting trends or material.
+The time origin that has been retained is 1960. It is surely not at this
+time that limits to GDP (or GNP) started being discovered. They had been
+already known for a long time. Some of them had been warned about as
+soon as concepts of national accounts started being coined and implemented during the 1940s. Yet the necessity of correcting or complementing
+GDP had no reason to strongly emerge before it had acquired its dominant
+position, that is, in the middle of the big expansion that followed World
+War II.
+The ﬁrst route opened at this time was on the social side. In parallel with the development and harmonization of national accounts as one
+of their core activities, National Statistical Organizations (NSOs) started
+extending the ﬁeld of social statistics, mostly relying on household surveys covering the main aspects of people’s living conditions: labor market
+outcomes, health, and so forth. The idea of integrating these social statistics into a fully integrated system of “social accounts” was pushed forward
+during the 1970s (Stone 1975) but failed to be applied at this stage. The
+reason is probably that this ﬁeld is less prone to rigorous integration than
+stocks and ﬂows of resources measured in monetary terms. But a current
+of thought had emerged, and it temporarily materialized during the 1960s
+for the regrouping of such statistics within sets of “social indicators,” aiming at counterbalancing the increasing preeminence of GDP. In addition to
+various national initiatives,2 the OECD launched an ambitious statistical
+program of such social indicators during the 1970s. Interest in this way of
+promoting social data then partially faded away, but the impulsion that had
+been given to statistical production remained, and more recent initiatives
+naturally draw upon the implicit legacy of this early movement.
+
+2. For a history of this movement, see in particular Cobb and Rixford 1998. In the
+United States, regular reporting of social indicators received strong support under the
+Johnson administration and was then progressively abandoned during the 1970s. To
+take the French case as another example, interest in this question was strong at the end
+of the 1960s and contributed to improving the coverage and quality of social statistics, as well as developing the system of satellite accounts. But the idea of a regular
+and standardized reporting of such indicators progressively lost support during the
+1970s, in parallel with the progressive decline of the French planiﬁcation system (see
+Perret 2002).
+
+1 . 2 A B I R D ’S - E Y E V I E W
+
+(5)
+
+It is about the same period that another step was taken, along another
+direction, with the publication of the seminal work by Nordhaus and
+Tobin (1972). This publication represented the ﬁrst noticeable eﬀort to correct GDP “from the inside,” that is, in a consistent accounting framework,
+combining a social dimension with a partial account of environmental
+issues. This publication took place in a context of emerging concern for
+the ﬁniteness of the resources upon which the rapid growth of post-World
+War II decades had been built. This concern had been spurred by the publication of the ﬁrst edition of the “limits to growth” report by the Club of
+Rome (Meadows et al. 1972).
+Here also, a period of reﬂux followed, however, interest in these questions turning paradoxically weaker after the ﬁrst oil shock. Slow economic
+growth and its social consequences restored prominence to policies aiming at stimulating activity, and to GDP as the main monitoring tool. But
+this did not completely interrupt the quest for alternatives to GDP. The
+Nordhaus and Tobin endeavor had several successors still trying to make
+GDP closer to well-being by subtracting from it all that does not contribute to welfare and trying to reaggregate to it things that do and that
+are not usually captured in monetary accounts: the Index of Sustainable
+Economic Welfare (ISEW)3 and the Genuine Progress Indicator (GPI) are
+examples that we shall brieﬂy present later. More recently, indirect descendants of the Nordhaus and Tobin tradition are attempts to built corrected
+GDPs through the equivalent income approach that will be reviewed more
+extensively in chapter 4.
+However, another very dominant strand of the literature considers that
+monetary valuation is inadequate for most of the components of wellbeing that do not spontaneously come out in monetary terms. It adopts a
+much simpler and more radical way of aggregating heterogenous information, the methodology of composite indexes. This methology of composite
+indexes is used in several domains. It is often used when one wishes to summarize complex phenomena measured in heterogeneous ways, sometimes
+even purely qualitative. There are composite indexes for the performance
+of countries in many ﬁelds: labor or product market regulation, friendliness
+to business activities, individual freedom, and so on. The global measurement of progress and human well-being is one of the domains where this
+practice is the most developed, with the emblematic example of the Human
+
+3. Bibliographical references will not be systematically provided for all the quoted
+indexes. Links to the relevant information can generally be retrieved through the
+Wikiprogress platform.
+
+(6)
+
+A Wealth of Indicators
+
+Development Index (HDI). Some of the other examples of this kind mentioned in the upper half of ﬁgure 1.1 are the Index of Economic Well-Being
+(IEWB), the Social Sustainability Index (SSI), and, still more recent, the
+Better Life Index launched in 2011 by the OECD.
+Four other points complete the picture provided by ﬁgure 1.1: indexes
+exclusively devoted to sustainability, the “dashboard” approach, subjective
+approaches to well-being, and a bunch of recent federative initiatives, often
+interacting or overlapping, that have developed over the very last years.
+Concerning sustainability, we mentioned how oil shocks had the paradoxical eﬀect of helping preserve a leading role for GDP. But concern for
+ecological constraints never disappeared and has now fully reemerged at
+the forefront of public preoccupations. This explains why the term “sustainable” appears in so many “generalist” composite indexes. It explains the
+eﬀorts made by statisticians to elaborate a common System of Integrated
+Environmental and Economic Accounts (SIEEA), under the auspices of the
+United Nations, including some attempts to develop a “green GDP.” And
+it has also led to the development of indexes more exclusively devoted
+to this sustainability issue: either essentially along the environmental
+dimension, such as the Ecological Footprint (EF) or the Environmental
+Sustainability Index (ESI), or in a more comprehensive perspective encompassing all the potential determinants of future well-being, the successive
+concepts of Genuine Savings (GS) or Adjusted Net Savings (ANS), the latter now implemented and regularly published by the World Bank (World
+Bank 2011).
+This concern for sustainability and development naturally beneﬁted
+from the impetus given by the publication of the very inﬂuential Brundtland report (Brundtland 1987) and the Rio summit (in 1992), whose
+twentieth anniversary has been very recently celebrated. The results of this
+new “Rio + 20” summit have been often judged disappointing in terms
+of political action, but it reaﬃrmed the need for “broader measures of
+progress to complement GDP” (ﬁnal declaration, point 38). Now, more than
+the production of monodimensional indicators of the EF or ANS types,
+the impulse given by the Brundtland report has above all led to the development of a large variety of “dashboards,” that is, sets of indicators that
+bring us back to the initial idea of the “social indicators” movement of the
+1960s, but strongly reinforced on the environmental side. Alongside “dashboards of sustainable development” that exist in various forms and for
+various geographical levels, our diagram mentions the set of Millennium
+Development Goals (MDGs) adopted by the United Nations in 2000
+(http://www.unmillenniumproject.org/goals/gti.htm). Such “dashboard”
+approaches are both diametrically opposed and fully complementary to
+
+1 . 2 A B I R D ’S - E Y E V I E W
+
+(7)
+
+the strategy of building composite indicators. This complementarity is
+two-sided. There is always an implicit dashboard behind any composite
+indicator, made of all its distinct components, and, symmetrically, it is
+often very tempting and relatively easy to try to summarize a dashboard by
+building an associated headline composite indicator that will help drawing
+public attention onto this dashboard.
+Subjective approaches are an additional way of measuring well-being,
+here represented as an outsider on the upper side of the diagram, but
+indeed one that has counted and that has been intensively discussed over
+the last decade. It consists in directly measuring individual well-being
+through answers to questions about how people perceive their lives. This
+approach has a long tradition too. The seminal contribution to this literature has been roughly concomitant with the publication by Nordhaus
+and Tobin. It is in the middle of the 1970s that Easterlin formulated his
+well-known paradox (Easterlin 1974), pointing at the apparent lack of connexion between material progress measured by GDP and the ﬂat trend for
+perceived well-being, as revealed by subjective data. Renewed interest in
+this result some 10-15 years ago has led to a considerable literature upon
+which chapter 5 will comment at length.
+Subjective data can result in indexes that exclusively rely on them, one
+example being the Gallup-Healthways Well-Being Index, not reported in
+the graph but accessible through the Wikiprogress platform. This index
+goes to the point of oﬀering a daily follow-up of Americans’ health and
+well-being. Or subjective data can enter the composition of composite or
+hybrid indexes. Such is —marginally— the case for OECD’s Your Better
+Life Index and much more substantially for the Happy Life Expectancy
+(HLE) index (Veenhoven 1996), which combines a subjective happiness
+measure with life expectancy; for the Happy Income (HI) index (Prinz
+and Bünger 2009), which combines the same kind of subjective measure
+with equivalent household income; and the HPI index, which divides the
+HLE by the Ecological Footprint with the objective of distinguishing those
+countries that can oﬀer long happy lives with minimal pressure on the
+earth’s resources. This latter example shows how the index-building industry can occasionally use already existing indexes as intermediate products
+for new ones, a possibility that can also contribute to the accumulation of
+competing measures.
+Finally, ﬁgure 1.1 also tries to make some room for more or less recent
+federative initiatives, some of which are still under way. This includes the
+already mentioned program on “measuring the well-being and progress
+of societies” that has recently given birth to the “better life” initiative
+launched by OECD for its ﬁftieth anniversary. The Your Better Life Index
+
+(8)
+
+A Wealth of Indicators
+
+quoted above, as the most recent of composite indicators, is a headline product of this initiative. Also worth noticing are a joint working
+group on “statistics for sustained development” (WGSSD) involving the
+OECD, the European statistical Agency (Eurostat), and the United Nations
+Economic Commission for Europe (UNECE/OECD/Eurostat 2008), the
+“GDP and beyond” communication by the European Commission in 2009
+(Commission of the European Communities 2009), and the concomitant
+report of the Commission on Measuring Economic Performance and Social
+Progress (Stiglitz, Sen, and Fitoussi 2009). These three operations, which
+delivered their ﬁnal reports roughly at the same period, have, in turn, given
+birth to two still ongoing task forces: a sponsorship group of the European
+Statistical System Committee (ESSC) and a new OECD/Eurostat/UNECE
+task force for measuring statistical development (TFSD) that can be viewed
+as a phase 2 of the former WGSSD working group.
+From this ﬁrst overview, one clearly sees that the problem with challenging GDP is not the lack of competitors, but rather their multiplicity.
+We shall now look more precisely into the details of some of these options.
+This closer look will suggest some reasons why, at this stage, none of them
+has been able to receive the global support that would have imposed it as
+the deﬁnite challenger to GDP. Leaving the speciﬁc case of purely subjective
+approaches for chapter 5, we shall do it under four main categories that
+rather naturally emerge from ﬁgure 1.1: (a) composite indicators of the HDI
+type, (b) monetary or quasi-monetary indicators of the “corrected GDP”
+type in the Nordhaus and Tobin’s tradition, (c) synthetic sustainability
+indicators, and (d) dashboards.
+
+1.3 AGGREGATING THE NONAGGREGATABLE?
+We begin with composite indicators not because of their anteriority—they
+started expending much after the Nordhaus and Tobin contribution—but
+because of their greater conceptual simplicity. The Human Development
+Index (HDI) has a prominent position within this category, due to its worldwide geographical coverage and the fact of being produced by a United
+Nations institution, the United Nations Development Program (UNDP).
+Since its creation, in 1990, it has constituted a central piece of the Human
+Development Report published yearly by the UNDP. It has been recently
+“reformed” for its twentieth anniversary in 2010.
+The HDI is a composite index mixing economic resources with two other
+dimensions, health and educational achievement, regarded as two major
+ingredients of development and progress. All three components are said
+
+1 . 3 AG G R E G AT I N G T H E N ON AG G R E G ATA B L E ?
+
+(9)
+
+to be given equal weight in the index, with a calibration methodology
+ensuring a [0,1] range of variation. Health outcomes are measured by life
+expectancy at birth, in years. Income was proxied by GDP per capita in the
+initial version of the index, replaced by Gross National Income (GNI) in
+the new one, the diﬀerence being that GNI excludes income that is produced within the country but that beneﬁts residents of other countries,
+such as returns on capital owned by foreign investors. Using GNI instead
+of GDP is indeed more adequate for countries where a large share of production does not beneﬁt the local population due to the high penetration
+of foreign investment. Concerning educational achievement, it was measured in the 1990–2009 version of the index by combining two statistics:
+the adult literacy rate, and the combined primary, secondary, and tertiary
+gross enrollment ratios. These two components have been replaced in 2010
+by the mean years of schooling of people that have passed schooling ages
+(years that a 25-year-old person or older has spent in schools), and the
+expected years of schooling for individuals entering the schooling system,
+(i.e. the years that a ﬁve-year-old child will spend with his education in his
+whole life).
+The HDI index leads to country rankings that indeed diﬀer from those
+based on GDP. According to the 2011 edition, the country with the highest
+HDI is Norway, with a value of 0.943. This country also ranks high in terms
+of GDP per capita, but only in the ﬁfth position, with a level quite far below
+the two GDP champions, Qatar and Luxembourg, which rank respectively
+37th and 25th in terms of HDI. The most extreme case of reranking in the
+2011 edition is Equatorial Guinea, which loses 90 places when moving from
+the GDP hierarchy to the HDI hierarchy. At the same time, as displayed on
+ﬁgure 1.2, HDI and GDP remain relatively well correlated, this being due
+both to the fact that GDP or the related concept of GNI enters the index,
+and to the fact that the other components of the index are themselves
+related, albeit in a non linear fashion, to GDP. Over its 20 years of existence, the basic HDI has been complemented by associated indexes such as
+the inequality-adjusted HDI or the gender inequality index, but keeping the
+spirit of aggregating no more than four or ﬁve elementary components.
+Some of the other indexes that were mentioned on ﬁgure 1.1 are less
+parsimonious than the HDI or its variants in terms of number of elementary components, but are generally so because they have been developed
+for a smaller number of countries, and sometimes only for a single country.
+Among them, the ISH, applied to the United States (Miringoﬀ, Miringoﬀ, and Opdyke 1999), is based on 16 social indicators, grouped by age.
+The Index of Economic Well-Being (IEWB), developed by L. Osberg and
+A. Sharpe (2002), covers current prosperity (mainly based on measures of
+
+A Wealth of Indicators
+
+0.8
+0.6
+0.4
+0.2
+0.0
+
+Human Development Index
+
+1.0
+
+( 10 )
+
+0
+
+20000
+
+40000
+
+60000
+
+80000
+
+Per Capita GDP (in 2005 constant US $)
+
+Figure 1.2
+HDI versus GDP (2007 values)
+Source: UNDP (2011).
+
+consumption), wealth stocks (including natural and immaterial resources),
+equality, and economic security. These four broad dimensions are each fed
+by two to six subindexes. As an example, economic security is captured
+through four social risks: unemployment, illness, single parent poverty,
+and old-age poverty. Among the countries considered, Norway is the country that has experienced the most rapid progression from 1980 to 1999,
+while slow growth or even declines have been registered for Sweden, the
+United States, and the UK, despite signiﬁcant GDP growth for the last two
+countries. Results are, however, partly sensitive to the choice of weighting
+factors. The index has been applied to some other countries. For instance,
+Jany-Catrice and Kampelmann (2007) revised the Index of Economic WellBeing (IEWB) for France with enhanced data over a larger time period.
+Their results conﬁrm the divergence between GDP and IEWB since the end
+of the 1980s, largely due to the lack of improvement in inequality reduction
+and economic security.
+The Social Sustainability Index (SSI) is also an index that aggregates
+a relatively large number of items (24) covering the three pillars of the
+Brundtlandian deﬁnition of sustainable development (van de Kerk and
+Manuel 2008). On the contrary, three other examples that appear in
+ﬁgure 1.1, and whose formulas have been already given, the HLE, the HI,
+and the HPI, have gone back to much simpler compositions, combining subjective well-being with either one or two additional dimensions such as life
+
+1 . 3 AG G R E G AT I N G T H E N ON AG G R E G ATA B L E ?
+
+( 11 )
+
+expectancy, income, and the Ecological Footprint. Subjective data have also
+been included in the OECD’s Your Better Life Index but the dimensionality
+of the index is comparable to that of the IEWB or the SSI, since the subjective dimension is combined with a list of 10 more objective dimensions,
+each of which represented by one to three statistics: income and wealth,
+jobs and earnings, housing, work and life balance, health status, educations and skills, social connections, civic engagement and governance,
+environmental quality, personal security. All the 11 resulting dimensions,
+by default, are equally weighted, but a main innovation of the index is to
+allow testing any alternative set of weights, and see the implied changes
+in rankings for the 34 OECD countries covered by the index, thanks to an
+online interactive application.
+Whatever the number of underlying dimensions and the resulting messages, what are the main problems with this approach? The methodology
+of composite indexes is not speciﬁc to the measurement of well-being, and,
+whatever the domain to which it is applied, it attracts the same criticisms
+concerning its lack of analytical foundations (Ravallion 2010a). The OECD
+has attempted a systematic examination of these limits, to help prevent
+excessively misleading uses of this methodology (OECD/JRC 2008).
+The questions that most immediately come to mind have to do with the
+methodogy of aggregation and the prior treatments applied to the components.4 In the case of monetary indexes such as GDP, aggregation relies on
+the hypothesis that market prices more or less convey information about
+the way people value the elementary physical quantities that the index
+intends to synthetize. As will be shown in chapter 3, this hypothesis is,
+in fact, much less grounded than one could have believed, but it provides
+the feeling of aggregating things on the basis of something that is not fully
+arbitrary.
+As soon as one leaves the ﬁeld of monetary aggregates, this problem
+of arbitrariness becomes much more pressing, with few guidelines about
+how it can be managed. We shall insist here on the example of the HDI,
+not because it is particularly illustrative of what to do or not to do, but
+because it is simple to handle and well known. Since its creation, the HDI
+has simultaneously beneﬁted from a high international visibility and from
+several critical assessments upon which it is possible to rely (Kelley 1991;
+
+4. Another important question is data coverage or quality. It is not speciﬁc to the
+methodology of composite indicators, but takes a particular importance for indexes
+that generally try to cover large sets of countries with statistical systems that are very
+unevenly developed. Imputation methodologies that are used to compensate the low
+quality or the full absence of data cannot be neutral for the relevance of indicators.
+
+( 12 )
+
+A Wealth of Indicators
+
+McGillivray 1991; Srinivasan 1994; Sagara and Najam 1998; MacGillivray
+and White 2006; Ravallion 2010b).
+The ﬁrst step of the HDI methodology consists in rescaling each
+dimension with respect to a range of variation that is partly observed and
+partly conventional. In the 2011 edition, minimum and maximum values
+for life expectancy are set at 20 and 83.4 years respectively, the latter
+value being the level of life expectancy reached in Japan. For a country
+with an observed level of 60 years, the rescaled index of life expectancy
+is (60 − 20)/(83.4 − 20) = 0.631. This value can be interpreted as an
+index of relative deprivation along the life expectancy dimension, since it
+means that a country with a value of 60 for its life expectancy is 63.1%
+of the way between the worst and the best performance for this speciﬁc
+dimension. For the two educational indexes, minimum values are set at 0
+and maximum values are respectively 13.4 for the mean number of years of
+schooling (the level observed in the Czech Republic in 2005) and an arbitrary 18 for the expected number of years of schooling. Concerning GNI
+per capita, the maximum is the 107,721 level observed for Qatar in 2010,
+with the minimum conventionally ﬁxed at 100—a very low value indeed
+but accounting for the fact that, in countries close to this very low level,
+a large part of subsistence also results from nonmonetary or unreported
+income. This rescaling takes place after conversion to logarithms to reﬂect
+the assumed decreasing eﬀect of GDP on well-being as GDP increases.
+This is only one among various possible methodologies for all this
+preliminary “preparation” of the elementary components of the index.
+The other two main possibilities consist in standardizing variables, that
+is, dividing them by their standard deviations after centering around their
+means, or replacing values by ranks, and these choices are not neutral. For
+instance, using ranks will downgrade the relative performance of a country
+that is a strong outlier in terms of the component of interest, a property
+that may seem desirable in some circumstances—especially when large
+values are susceptible of resulting from measurement error—but not in
+others.
+Then comes the step of aggregation stricto sensu, again with various
+possibilities. The initial version of the HDI used linear aggregation with
+equal weights. This version has been criticized for the induced trade-oﬀs it
+allowed between components of the index, in particular between income
+and life expectancy. The new aggregation procedure has been presented
+as oﬀering a more adequate treatment of this issue. But, according to
+Ravallion (2010b) the claim that it succeeds in doing so is not warranted
+at all. Let us examine the details brieﬂy, dropping the education dimension
+that is orthogonal to this longevity/income trade-oﬀ. Using notations Y for
+
+1 . 3 AG G R E G AT I N G T H E N ON AG G R E G ATA B L E ?
+
+( 13 )
+
+income and LE for life expectancy, the two successive versions of the index
+boil down to
+HDIold =
+
+1 LE − LEmin
+1 ln(Y) − ln(Ymin )
+,
++
+3 LEmax − LEmin 3 ln(Ymax ) − ln(Ymin )
+
+and
+
+HDInew =
+
+LE − LEmin
+LEmax − LEmin
+
+1/3 
+
+ln(Y) − ln(Ymin )
+ln(Ymax ) − ln(Ymin )
+
+1/3
+.
+
+In both cases, the implicit valuation of an additional year of life, VLE,
+can be computed by equalizing to zero the global variation of the index
+after joint marginal changes of Y and LE. The general formula will be
+VLE = −
+
+
+ 
+
+
+∂HDI
+∂HDI
+dY 
+.
+=
+dLE HDI=constant
+∂LE
+∂Y
+
+The application of this formula to the old and new versions of the index
+leads to
+VLEold = Y
+
+ln(Ymax ) − ln (Ymin )
+,
+LEmax − LEmin
+
+and
+VLEnew = Y
+
+ln(Y) − ln (Ymin )
+.
+LE − LEmin
+
+The change appears nonnegligible, and its implications are not evident
+at ﬁrst sight. In the ﬁrst version of the index, aggregation led to a marginal
+valuation of life years that was linearly related to income. The new formula
+makes the dependency much stronger, due to the new ln(Y) term on the
+denominator, resulting in very low valuations of life years for countries
+close to the minimum observed income level Ymin . According to Ravallion’s
+computations, in the extreme case of Zimbabwe, one year of average life
+expectancy is only worth $0.51 per person under the new version of the
+index. In other words, if there had existed a policy allowing a $0.51 increase
+in income per capita at the expense of a one year loss in average life
+expectancy, this policy would have been judged as increasing this country’s
+“human development.” Globally, the new index is found to have devalued
+longevity compared to the older version, with only very few exceptions, and
+it has done so much more intensively for poor countries. The ratio of the
+
+( 14 )
+
+A Wealth of Indicators
+
+highest to the lowest VLEnew is 17,000. Even dropping the very extreme
+case of Zimbabwe, this ratio is still 1,600.5
+The paradox of such a situation is that a methodology initially developed, inter alia, to avoid the presumed arbitrariness of monetary aggregation ends up raising exactly similar problems, and possibly in aggravated
+terms. Putting a money value on years of life has always generated understandable ethical reluctance, and one is tempted to welcome a composite
+index that apparently avoids doing such things. But there is no miracle.
+Aggregating GDP and life expectancy within one single scalar indicator
+unavoidably amounts to giving an implicit value to additional years of life,
+with the risk of doing so in a noncontrolled fashion. As argued by Ravallion,
+the apparent transparency of the indicator is illusory. The indicator is only
+transparent in the sense that it is easily replicable and amenable to the
+kind of evaluation provided above. But as long as the user does not make
+the eﬀort of performing such an analysis, the indicator remains completely
+opaque concerning its true normative implications. And the problem does
+not just arise because we have GDP or GNI as one of the components of
+the index. The situation is not fundamentally diﬀerent when none of the
+aggregated variables are monetary. Aggregation always implies assuming
+some more or less important substitution possibilities between the items
+that are aggregated.
+Upstream from these problems comes the overarching question of the
+choice of the items that are to be aggregated. The question is not only
+“how to aggregate,” it is also to know “what to aggregate.” This is a stage
+where some theory should also be welcome, even when it can be no more
+than weak or very soft theory. The point is the need to be as clear as
+possible concerning what exactly one wants to measure, and in what way
+5. On a more positive side, aggregation through geometric means can have some
+useful properties. Among other innovations of the revised HDI, one also ﬁnds the
+“inequality adjusted HDI” (IHDI) that takes into account inequalities across dimensions. A frequent limit of corrections for inequality in composite indexes is that, when
+aggregating subdimensions that have been separately corrected for inequality, cumulative deprivations are ignored, i.e., one neglects the fact that being relatively deprived
+in terms of income generally goes along with relative deprivations in the other dimensions. The correct way to proceed is to ﬁrst compute individual indicators of well-being
+(“individual HDIs”) combining the three dimensions for each individual, and then
+aggregate them in a way that takes their inequality into account. In some sense, the
+IHDI ultimately does this, because inequalities across each dimension are themselves
+computed according to geometric means, and the order in which geometric means are
+computed is neutral for the ﬁnal result. Thanks to such path independence, the IHDI
+can be considered as using the correct form of aggregation, but it does so only under
+the assumption that the geometric mean is the proper way to assess individual levels
+of well-being, and that the geometric means also constitutes the proper way to correct
+for inequality.
+
+1 . 3 AG G R E G AT I N G T H E N ON AG G R E G ATA B L E ?
+
+( 15 )
+
+elementary components of the index will contribute to this global objective,
+trying to avoid gaps and redundancies. When the objective is to measure
+well-being, one needs a reasonable coverage of all that indeed matters for
+well-being, and one must avoid combining elementary indices that measure
+the same thing twice. To use once again the HDI as an example, its choice
+of three main dimensions of well-being—monetary income, health, and
+education—has been presented from the start as an empirical transcription of Sen’s concept of capabilities, discussed in chapter 6, that is, the fact
+that well-being requires access to some basic entitlements over a selected
+number of dimensions. But why restrict oneself to the three dimensions
+chosen for the HDI, excluding, for instance, economic or personal security?
+And what exactly means “adding” the health and education dimensions to
+GDP? One can argue that health and education are dimensions that are
+already incorporated in GDP, through levels of private and public expenditures devoted to these two items, and that the indicator may therefore
+suﬀer from double counting. The answer could be that a diﬀerence has to
+be made between expenditures on these two items and the results in terms
+of actual health or access to education, but in that case, why not remove
+the former from the index? An indicator whose aim is to measure a result
+or an outcome—actual well-being—should not incorporate elements that
+are only instruments for reaching this outcome.
+This lack of analytical clarity concerning the divide between inputs,
+intermediate products, and outputs is frequent in this ﬁeld. Incidentally,
+GDP itself is not immune to this criticism: being a summation of valuesadded, it has the well-known merit of avoiding double counting of intermediate products that are ultimately included in ﬁnal consumption. However,
+adding up consumption and investment, it unduly mixes something that
+is undoubtedly a component of current well-being—consumption—and
+something that should rather be viewed as an input to tomorrow’s wellbeing—investment. This point was taken into account by Nordhaus and
+Tobin, and it will reappear later in our discussion of sustainability in
+chapter 2.
+Another good illustration of this “what to aggregate?” question is given
+by the Happy Planet Index, which combines “Happy Life Expectancy” and
+the Ecological Footprint. For someone who trusts subjective happiness
+data to reveal the real quality of life, it seems to make sense to ﬁrst multiply the ﬂow of happiness by an indicator of how long this ﬂow will be
+enjoyed by each individual. Yet, even at this stage, questions can be raised.
+Are there good reasons for assuming a value of 1 for the elasticity of substitution between the two components: does 10% greater life expectancy
+exactly compensate for 10% less of perceived happiness? It may also be
+
+( 16 )
+
+A Wealth of Indicators
+
+that life expectancy is one of the elements that people already incorporate
+in their assessment of how good their lives are, in which case a problem of
+double counting appears again. But the most important problem is with the
+division by the Ecological Footprint. There is no doubt that well-being and
+sustainability are two important dimensions that deserve measurement,
+but does this mean that it makes sense to integrate them at this point?
+As it stands, the indicator may make no diﬀerence at all between a low
+mortality / high footprint country and a high mortality / low footprint one.
+
+1.4 CORRECTING GDP
+To sum up, the problem raised by composite indexes is that, aiming at
+avoiding the presumed arbitrariness of monetary aggregation, they end
+up aggregating things in ways that are no less arbitrary, with uncontrolled
+consequences for resulting trade-oﬀs between their diﬀerent items.
+Of course, this does not suﬃce to prove that a well-deﬁned monetary aggregation is ultimately preferable to an ill-deﬁned or undeﬁned
+“nonmonetary” aggregation. Nevertheless, many economists have trod the
+road opened by Nordhaus and Tobin in 1972. The idea was to try to retain
+as much as possible of the accounting consistency of the GNP or GDP
+concepts, with the possibility of partly relying on other segments of the
+very rich production of national accounts. This approach requires monetary
+evaluations of all the elements that one wants to subtract from, or add to,
+standard GDP. This approach can be labeled “corrected GDP” or “extended
+accounts.”
+The starting point by Nordhaus and Tobin was that the best option
+for approaching welfare was not GDP itself, which is basically a measure
+of economic activity, but rather one of its subcomponents, namely global
+household consumption. Restarting from there, corrections proposed by
+the two authors were made in two steps. The ﬁrst step derived a Measure
+of Economic Welfare (MEW) by subtracting from total private consumption a number of components that do not contribute positively to welfare
+(such as the costs of commuting or legal services) and by adding monetary estimates of activities that do contribute to welfare (such as leisure or
+work at home). The second step was to convert the MEW in a “sustainable
+measure of economic welfare” (SMEW) that takes into account changes in
+total wealth. The relation between the MEW and the SMEW is akin to that
+between GNP and NNP in standard national accounts: the SMEW measures
+the level of MEW that is compatible with preserving the capital stock, given
+the deﬁnition of capital stock retained by the builders of the index.
+
+1 . 4 C OR R E C T I N G G D P
+
+( 17 )
+
+To convert the MEW into the SMEW, an estimate of total public and
+private wealth was computed that included reproducible capital, nonreproducible capital (limited to land and net foreign assets), educational capital
+(based on the cumulated cost of years spent in education by people belonging to the labor force) and health capital, based on a method of permanent
+inventory with a depreciation rate of 20% per year.
+Nordhaus and Tobin provided an evaluation of the SMEW for the United
+States over the 1929–1965 period, compared not to GDP but rather to
+gross national product (GNP) which, at that time, was the indicator privileged by National Accounts. Two major conclusions emerged. First, levels
+for the SMEW were signiﬁcantly higher than those of GNP, due to the large
+positive contribution of leisure. Second, consistent messages were delivered by both GNP and the SMEW when considering the overall direction of
+socioeconomic progress, even if the magnitudes diﬀered. Over the period
+considered, the growth rate for the SMEW was about two-thirds of total
+GNP growth.
+Nordhaus and Tobin’s conclusion was that, despite its limits, GNP
+growth remained a not-so-inadequate guide for policy. But they remained
+cautious to present their work as being no more than a point of departure. Some further initiatives took place during the 1980s, such as the
+Economic Aspect of Welfare index (EAW) proposed by Zolotas (1981).
+The issue was then reopened in the late 1980s by Cobb and Daly (1989),
+who proposed the index of sustainable welfare (ISEW), further reﬁned by
+Cobb and Cobb (1994). The ISEW has much in common with the MEW or
+the SMEW but with two important additions: (a) an evaluation of natural resource depletion, measured as the investment necessary to generate
+a perpetual equivalent stream of renewable substitutes, and (b) the distribution of income. Nordhaus and Tobin had themselves acknowledged in
+their paper that the distributional issue was one of the dimensions missing
+from their index. On the other hand, the initial ISEW did not include any
+monetary evaluation of leisure time, perceived as being too fragile.
+A very similar indicator has been proposed since 1995 by the nongovernmental organization Redeﬁning Progress, the Genuine Progress Indicator
+(GPI) (see, for instance, Talberth, Cobb, and Slattery 2006). ISEW and GPI
+have been often presented as alternative names for the same index.6
+Messages delivered by these indexes depart from the one that resulted
+from Nordhaus and Tobin’s seminal paper. The levels of these indexes are
+lower than the MEW due to the exclusion of leisure time, and they are
+6. Posner and Costanza (2011) provide a list of 25 applications of this ISEW/GPI
+methodology covering a total of 21 countries.
+
+( 18 )
+
+A Wealth of Indicators
+
+also lower than GDP due to the incorporation of natural resource depletion and of income distribution. The magnitude of the gap varies across
+countries: Bleys (2005) and Gadrey and Jany-Catrice (2006) show that
+the gap between the ISEW and GDP is much higher for the UK and the
+United States than for Sweden, essentially due to diﬀerent levels of income
+inequality. Even more important, growth of the ISEW and the GPI is much
+less than that of GNP or even negative. This has led some authors to argue
+in favor of a so-called threshold hypothesis according to which GDP growth
+contributes to welfare only up to a certain level, beyond which GDP and
+welfare move in opposite directions (Max-Neef 1995).
+Another couple of much more recent papers can also be related to
+the Nordhaus-Tobin tradition. Fleurbaey and Gaulier (2009)7 and Jones
+and Klenow (2010) develop monetary approaches based on the notion of
+“equivalent income,” the theoretical justiﬁcation of which will be discussed
+at length in chapter 4. When individuals diﬀer along nonincome dimensions, reference levels for these dimensions are chosen, and equivalent
+incomes (or consumptions) are computed, that is, the monetary amounts
+that, associated with reference conditions, would render people indiﬀerent
+with their current position.8 These amounts can be evaluated by diﬀerent methods: marginal willingnesses to pay as revealed by market prices
+(e.g., using wages as a way to value leisure) or calibration of structural
+utility functions, as done, for instance, for the valuation of years of life.9
+Equivalent incomes or consumptions within each country are then aggregated in a way that takes inequality into account. Nonmonetary dimensions
+considered by Jones and Klenow are leisure and overall life expectancy, and
+their work applies to a set of 143 countries, with a quantiﬁcation of changes
+recorded between 1980 and 2000. Fleurbaey and Gaulier cover only 24
+OECD countries for year 2004 but include additional nonmonetary items
+such as life expectancy in good health, employment status (unemployment
+is supposed to represent a larger loss in well-being than the sole income
+loss) or the composition of households (a given income leads to higher
+well-being in larger households that beneﬁt from economies of scale).
+In both cases, correlation with GDP remains strong, but corrections
+made for leisure contribute to a large reduction of the gap between the
+7. The French institute CEPII has recently published updated ﬁgures (Lettre du CEPII,
+n◦ 312, 2011).
+8. In fact, the methodology adopted by Jones and Klenow (2010) produces rankings that are inconsistent with preferences due to the use of diﬀerent references for
+diﬀerent countries (see section 4.1).
+9. On this latter point, both studies rely on earlier work by Becker, Philipson, and
+Soares (2005).
+
+1 . 5 S U S TA I N A B I L I T Y A S S E S S M E N T: W E A K OR S T R ON G ?
+
+( 19 )
+
+United States and European countries. Covering developed as well as developing countries, Jones and Klenow also observe that the relative situation
+of the latter is pushed downward due to their higher mortality level. Over
+time, increases in life expectancy account for a large share of the global
+growth of their well-being indicator.
+An important diﬀerence between the equivalent income approach and
+the monetary indexes reviewed earlier in this section is that the former
+relies on an estimation of the population preferences over the various
+dimensions that aﬀect well-being, whereas the latter rely only on market or imputed prices. This diﬀerence will play an important role in this
+book, and it motivates our treatment of the foundations of the various
+monetary approaches in two separate chapters (3 and 4). Incidentally, the
+main shortcoming of the equivalent income computations in Fleurbaey and
+Gaulier (2009) and Jones and Klenow (2010) is that they do not have
+suﬃcient data about individual preferences and therefore provide only
+illustrative prototypes of this methodology.
+The monetary approaches involve complex imputations or estimations
+and therefore lack the simplicity and apparent transparency that has done
+so much for the success of the HDI. But we have seen that this transparency
+could prove illusory. There is therefore a strong case in favor of looking
+closely at more elaborate approaches of this kind, and this will indeed be an
+important focus of this book.
+
+1.5 SUSTAINABILITY ASSESSMENT: WEAK OR STRONG?
+Let us move to the more speciﬁc question of assessing sustainability. This
+sustainability dimension was already present in some of the indicators that
+we have mentioned. Such was already the case in Nordhaus and Tobin’s
+proposal, since this proposal was twofold: an index of economic welfare
+(MEW), and an index of sustainable economic welfare (SMEW). Adopting
+such a dual approach was not for the simple sake of providing two numbers
+where one could have done the job. In Nordhaus and Tobin’s conceptual
+framework, a clear distinction had to be drawn between measuring how
+well we currently live (MEW) and how well we can or could live in a way
+compatible with sustainability, that is, a standard of living susceptible of
+being reproduced by future generations (SMEW). There is no reason at all
+for the two indicators to coincide, and it is precisely the diﬀerence between
+these two indicators that matters for sustainability. Either the MEW is
+lower than the SMEW, in which case sustainability is warranted, or it is not.
+In the ﬁrst case, we can even enjoy the consumption possibilities that are
+
+( 20 )
+
+A Wealth of Indicators
+
+currently oﬀered to us more intensively without condemning future generations to be less well-oﬀ than we would be. If the MEW is higher than the
+SMEW, this is the signal we are living above our means. This clearly illustrates that the SMEW, by nature, is not a suﬃcient sustainability statistic;
+it makes sense only by comparaison with the MEW.
+This point has been unfortunately somewhat forgotten in subsequent
+attempts at the development of indexes. The quest for the ideal single
+number able to fully replace GDP has sometimes led to the favoring of
+SMEW-like indexes as useful summary measures of both current and future
+living conditions, without paying attention to the strong loss of information that such an aggregation implies (Neumayer 2000). This criticism
+applies to the ISEW/GPI indexes that were direct heirs of the SMEW. It
+applies as well to attempts at building “green GDPs”. Greening GDP is often
+intuitively perceived as being the natural way of correcting the environmental limits of standard GDP, but, even if this correction were easy to
+perform—and such is not the case—the kind of message that such a correction sends us about sustainability is much more limited than often believed.
+Green GDPs would admittedly reorder somewhat the hierarchy of countries in terms of economic performance, with “dirty” ones downgraded by
+several places. But, in itself, observing that such or such country’s green
+GDP is only 95% or 90% of its standard GDP does not send any message
+about whether this country’s current standard of living can or cannot be
+maintained in the future.
+This basic limit of green GDP helps explain why progress has been so
+slow on this aspect of green accounting. The point is not only that building green GDPs is demanding, it is also that the expected informational
+gain is not very evident. And this criticism can also be applied to some
+of the composite indexes that can be found on the market. The HDI is
+immune to such a criticism, as it clearly presents itself as an index of current economic achievement, with no prospective content. The last human
+development report (2011), whose main theme was sustainaibility, does
+not deviate from this. It clearly separates the two dimensions of measuring the HDI and assessing how far current HDIs are sustainable. This is
+indeed the right question to ask if you adhere to the choice of the HDI as an
+adequate index of current well-being. But “green HDIs” have nevertheless
+been proposed elsewhere (Desai 1994; Lasso de la Vega and Urrutia 2001;
+Costantini and Monni 2004), simply complementing the current HDI with
+emissions of some pollutants using the same rescaling and agregation technique described above. Clearly, messages sent by such indexes are not easy
+to analyze. For sure, a country with a high HDI that emits large amounts
+of pollutants will see once again its ranking decrease due to this addition,
+
+1 . 5 S U S TA I N A B I L I T Y A S S E S S M E N T: W E A K OR S T R ON G ?
+
+( 21 )
+
+but will this drop adequately measure how far this country negatively contributes to the future well-being of mankind? Does the index send us a
+more exact message about which countries are “sustainable” and which
+are not? And the same kind of problem has been already mentioned concerning the Happy Planet Index: two countries having respectively a low
+life expectancy and a low footprint and a high value for both may end
+up classiﬁed in a similar way, while their positions clearly need to be
+diﬀerentiated.
+On the whole, the issue of sustainability is therefore much better
+addressed by returning to Nordhaus and Tobin’s original way of raising the
+problem: measuring how well we are or how much we consume is one thing,
+measuring whether this corresponds to overconsumption is another. This
+being posited, there are two ways to proceed. Either one follows Nordhaus
+and Tobin’s choice of a (MEW, SMEW) combination, or, more directly, once
+a MEW-like indicator of current well-being has been chosen, we complement it with an indicator or with some indicators that directly inform about
+its sustainability, that is, the diﬀerence SMEW − MEW or any acceptable
+proxy (or proxies) of it.
+What have been the attempts in this direction? In this category, some
+room can be made again for one composite index, the ESI (Environmental
+Sustainability Index) or the EPI (Environmental Performance Index) (Estes
+et al. 2005). The ESI aggregates 76 variables into 21 intermediate indicators, such as air and water quality, waste reduction, and greenhouse gas
+emissions. The EPI is a reduced form of ESI, based on 16 indicators (outcomes) and is more policy oriented. Now, such a compilation of information
+just allows ranking countries according to the eﬀorts they make in favor of
+environmental sustainability, and, incidentally, this is done in disputable
+ways: the ESI and the EPI both have biases in favor of the “sustainability”
+of more advanced countries just because of the relative weight they give to
+institutions and policies that help promote environmental protection. Such
+institutions or policies matter, but they are not by themselves guarantees
+that these countries do less harm to the environment than other countries.
+Globally, neither the EPI nor the ESI really quantiﬁes how far such and such
+country is from sustainability, even from the sole environmental viewpoint.
+As things stand, the pure question of sustainability is addressed by only two
+indicators, and with very contrasting results, Adjusted Net Savings (ANS)
+and the Ecological Footprint (EF).
+Adjusted Net Savings is the name that we will use here for an indicator that, depending upon authors, has been also labeled “genuine savings”
+(Pearce, Hamilton, and Atkinson 1996; Hamilton and Clemens 1999) or
+“genuine investment” (Arrow et al. 2004). The ANS denomination is the
+
+( 22 )
+
+A Wealth of Indicators
+
+one used by a World Bank team that started, in 2004, a program of systematic compilation of this concept for all countries, and it is this latter
+denomination that we shall use hereafter (World Bank 2011). Whatever
+the denomination, the principle is the same. It consists in computing an
+extended notion of national savings that combines net capital accumulation in the usual sense of the term with various kinds of dissavings
+such as consumption of nonrenewable fossil resources, degradations of the
+environment, compensated, on the positive side, by the accumulation of
+knowledge or human capital. This index can also be understood as the
+net variation of an encompassing concept of global or “inclusive” wealth
+combining all the diﬀerent assets that matter for production and quality of life. This way of thinking about sustainability is often presented
+as the “capital-based approach to sustainability.” Adjusted Net Savings
+can also be amended to incorporate consequences of purely exogenous
+technical progress or of population change. Technical progress can help sustain growth or well-being even when the global capital stock is declining.
+Concerning population change, the practice is to consider that sustainability requires maintaining inclusive wealth per capita, meaning that a
+positive population growth rate must be compensated for by larger savings
+(Arrow, Dasgupta, and Mäler 2003b).
+Much more will be provided in chapter 2 concerning the analytical foundations and the limits of this indicator. At this stage, we shall just recall the
+main qualitative criticisms that have been addressed to this way of measuring sustainability (see, e.g., Dietz and Neumayer 2004). The main criticisms
+can be gathered under three headings.
+• A ﬁrst point is that merging variations of very diﬀerent assets into a
+single monetary ﬁgure requires putting money values on each of them,
+that, a system of relative prices, and such prices are diﬃcult to compute
+in an adequate way. In fact, as we have already argued concerning the
+implicit valuations hidden within the HDI, this problem will be shared
+by any form of aggregate sustainability indicator. But it is necessarily
+more striking for an index whose results are expressed in money units.
+How is it managed by builders of the index, and what are the problems raised by their way of doing it? For some assets, prices are directly
+observable on the market. But, even for these, we have no guarantee that
+these prices convey the right information on the long-term collective
+value of these assets. This is especially the case for the few environmental assets for which markets exist. Such markets are very probably
+working in very ineﬃcient ways, due in particular to large externalities. And there are also many assets for which there are no markets at
+
+1 . 5 S U S TA I N A B I L I T Y A S S E S S M E N T: W E A K OR S T R ON G ?
+
+( 23 )
+
+all, hence no observable price. Simply excluding these assets from the
+computation is of course unacceptable, but incorporating them requires
+relying on imputed prices, and the diﬃculty is knowing on which basis
+these imputed prices can be evaluated.
+• The second diﬃculty is closely related to the ﬁrst one. It corresponds
+to the weak/strong sustainability debate.10 Taken literally, the additive
+nature of the ANS suggests that any level of natural capital depreciation can potentially be oﬀset by a suﬃciently high rate of physical or
+human capital accumulation. In other words, the index assumes that
+there always exists a possibility of substituting produced capital goods
+to natural ones, even when stocks for the latter become very low. Such
+a vision does not ﬁt with the strong view of sustainability according to
+which minimal critical stocks of natural resources are necessary for the
+simple maintenance of human life, a fortiori for the maintenance of a
+certain level of well-being. Because it fails to incorporate this constraint,
+the ANS criterion is said to provide only a necessary condition for sustainability, not a suﬃcient one. It is in that sense that it is generally
+understood as a weak sustainability criterion. Here also, the problem
+is not speciﬁc to the fact of having adopted a monetary index, and
+chapter 2 will show that it is not insurmountable in theory. As soon as
+prices are imputed rather than observed in the market, it is always possible to greenwash the index more intensively by adopting very high prices
+for all those “green” assets whose stocks are supposed to be close to critical values that would make their preservation really crucial. But a central
+theme of chapter 2 will be the diﬃculty of doing so in indisputable ways.
+• The third main diﬃculty appears when ANS estimates are compared
+across countries (see, e.g., Everett and Wilks 1999). The most striking
+result from the systematic computation of ANS indicators performed by
+the World Bank is that problems of unsustainability essentially arise in
+developing countries. Figure 1.3 indeed displays a positive association
+between the ANS expressed as a fraction of current GDP and the current
+level of GDP. Most of the countries with negative values for this ANS are
+countries with GDP levels lower than $10,000 per inhabitant in 2005.
+The typical case is a poor country that draws most of its income from
+the exploitation of an exhaustible natural resource. In such an economy,
+the only way to ensure long-run sustainability is to reinvest a suﬃcient
+share of this rent into other productive assets, the returns of which will
+progressively compensate for the decline of incomes provided by the
+
+10. For a more complete view on this debate, see Neumayer (2004).
+
+–20
+
+0
+
+20
+
+40
+
+A Wealth of Indicators
+
+–40
+
+Adjusted Net Saving (% of GDP)
+
+( 24 )
+
+0
+
+20000
+
+40000
+
+60000
+
+80000
+
+Per Capita GDP (in 2005 constant US $)
+
+Figure 1.3
+Adjusted Net Savings (2005–2099 values) and GDP (2007 values)
+Source: World Bank (2011) and UNDP (2011).
+
+vanishing natural resource. This is the so-called Hartwick rule for sustainability (Hartwick 1977). Unsustainable poor countries are countries
+that do not try or, more realistically, cannot aﬀord to conform to this
+rule. Admittedly, there can be some elements of truth in the message
+that such countries are on unsustainable paths. At least until recently,
+economic growth indeed appeared more fragile or unstable in many less
+developed countries than in already developed ones. But, if we focus on
+environmental issues, the idea that there is no sustainability problem in
+developed countries is strongly at odds with the idea that they are the
+major contributors to environmental problems such as global warming.
+All this explains why many have a marked preference for the completely
+opposite messages conveyed by the Ecological Footprint. The EF compares
+each country’s direct or indirect pressure on natural resources either to its
+own resources or to the average of resources available per head at the worldwide level (Wackernagel and Rees 1995). This indicator is generally considered as being much more in line with the strong view of sustainability, that
+is, the idea that sustainability requires a separate preservation of all environmental assets, whatever the accumulation of other produced assets. It
+also conveys a message more in line with the idea that developed countries’
+modes of consumption bear a large responsibility in the degradation of
+the world ecosystem (Figure 1.4). It also shows how rapidly the situation
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+( 25 )
+
+0
+
+Ecological Footprint (global hectares per capita)
+
+1 . 5 S U S TA I N A B I L I T Y A S S E S S M E N T: W E A K OR S T R ON G ?
+
+0
+
+20000
+
+40000
+
+60000
+
+80000
+
+Per Capita GDP (in 2005 constant US $)
+
+Figure 1.4
+Ecological Footprint and GDP (2007 values)
+Source: Global Footprint Network (2010) and UNDP (2011).
+
+seems to have deteriorated over the last decades. At the worldwide level, a
+global footprint that still remained below the regenerating capacity of the
+ecosystem in the 1960s is now far over this capacity, a strong message of
+unsustainability indeed that does not show up with the ANS considered at
+the worldwide level.
+But several criticisms have been also addressed to this indicator.11 They
+can be classiﬁed under two headings, internal or external. Internal criticisms admit the general idea of the index but discuss the details of its
+implementation. It is beyond the scope of this chapter and of the whole
+volume to discuss these practical issues at length, but one must recall that,
+exactly as is done by monetary indicators, the Ecological Footprint needs
+some rules for weighting diﬀerent forms of pressure on the environment.
+This is the inescapable price to pay for aggregation, and the fact of aggregating things in a unit that is not monetary —global hectares— changes
+the nature of the problem only in appareance, not in reality.
+
+11. A forum had been devoted to the Ecological Footprint in volume 32 of Ecological
+Economics. Several other papers have been devoted to the index since then by the same
+journal and by other outlets. The interested reader can ﬁnd a very extensive bibliography in Wiedmann and Barrett (2010), who also include a review of perceptions and
+policy uses of the footprint based on a questionnaire submitted to a panel of some 50
+experts.
+
+( 26 )
+
+A Wealth of Indicators
+
+Without going into details, a few consequences of the accounting rules
+adopted by EF are worth emphasizing. First, in some respect, the index is
+less green than one could expect. For instance, it does not really incorporate the pressure on arable land due to excessively aggressive agricultural
+techniques. More precisely, since resources in arable land are postulated to
+be exactly equal to the arable land actually used by agriculture, weighted by
+its current average yield, this component of the footprint is mechanically
+balanced at the worldwide level. The only message delivered by the indicator on this aspect of sustainability is that very densely populated countries
+overconsume their arable land while sparse populations do not. Such a message is not necessarily interesting: it is not a sign of unsustainability per se
+that countries with diﬀerent land endowments specialize in a way consistent with their endowments. This is all the more true at the intranational
+level: it is natural for a city to “consume” more land than the actual surface
+that it covers. It is only once everything is consolidated that a message of
+sustainability or unsustainability can be delivered, but, once again, this will
+unfortunately not be the case here due the convention of equalizing land
+resources to those that are actually used at the worldwide level.
+Second, by focusing on renewable resources, it also ignores how sustainability is threatened by the consumption of fossil resources. For instance,
+in the EF, oil consumption raises a problem for sustainability only through
+its consequences on CO2 emissions, valued according to the number of
+hectares of forest that would theoretically be needed to absorb these emissions. In fact, at the end of the day, it is essentially this factor that explains
+the explosion of the footprint over the last decades, other components of
+the index being, by contrast, surprisingly ﬂat. This suggests isolating this
+important factor and then looking for better ways of capturing imbalances
+along the other dimensions. Indeed, over the last years, the concept of carbon footprint has started taking precedence over the initial EF indicator
+(Wiedmann and Minx 2008), and footprint-like approaches have started
+being developed for some other items not initially covered by the EF, such
+as the water footprint (Hoekstra 2009).
+As far as external criticism is concerned, discomfort with this index
+points to its complete ignorance of possibilities oﬀered by substitution
+with other factors of production—the weak/strong sustainability debate
+once again—or through technical progress. Critics argue that even if substitution possibilities between produced and nonproduced assets are not
+inﬁnite, they are real, and that indicators that neglect them give an overly
+pessimistic view of future eco-environmental prospects. One can also point
+out that an indicator that focuses on natural resources is no more suﬃcient than the ANS for sustainability. For instance, an economy that has
+
+1 . 6 C OP I N G W I T H M U LT I DI M E N S I O N A L I T Y : DA S H B OA R D S
+
+( 27 )
+
+a very parsimonious use of its natural resources but that stops investing
+in physical capital or in education is on a path that is no more sustainable than an economy that does exactly the opposite. Indicators such
+as the EF miss this aspect of sustainability, because they only focus on
+the environmental dimension. It is precisely one of the attractive aspects
+of the ANS approach that it tries to combine both environmental and
+nonenvironmental dimensions of development.
+In a nutshell, also considering the EPI/ESI,12 sustainability is probably
+the domain where a consensus seems the most out of reach. The situation
+appears much more diﬃcult than for current well-being. In this latter case,
+although alternatives to GDP can lead to signiﬁcant corrections, they generally do not result in a complete reversal of the hierarchy of countries: the
+high correlation between GDP and the HDI shown by ﬁgure 1.2 is illustrative of that. When one turns to sustainability, one is confronted by two
+completely opposite paradigms. One might seek a way of picking up what
+seems to make sense on both sides. But subsuming the opposition under
+one single metaindicator looks problematic. The alternative strategy is to
+let the divergent indicators live their own lives, improving them whenever
+needed, but putting them on comparable levels, as incorporting two distinct and complementary views of sustainability that are not reducible to
+one another. It is then the responsibility of civil society or of policymakers
+to see how one can cope with these contradictory signals. This is precisely
+the philosophy of the last approach we need to examine, which consists in
+equipping users with multidimensional dashboards combining indicators
+of various sorts.
+
+1.6 COPING WITH MULTIDIMENSIONALITY: DASHBOARDS
+As already emphasized, the “dashboard” approach to measuring well-being
+or its sustainability has a long tradition that can be traced back to the
+social indicators movement of the 1960s. After the period of setback that
+followed the ﬁrst oil shock, interest in this way of presenting statistics
+came into favor again during the 1990s, now with a stronger focus on
+environmental issues, and, as mentioned, international organizations have
+played a large role in this reemergence. The main outcome of the Rio
+summit in 1992 was the adoption of Agenda 21, whose fortieth chapter
+invited signatory countries to develop quantitative information on their
+12. For a more detailed comparative analysis that simultaneously covers the ANS, the
+EF, and ESI/EPI, see Pillarisetti and van den Bergh (2010).
+
+( 28 )
+
+A Wealth of Indicators
+
+actions and realizations along the three “Bruntlandian” pillars of economic
+eﬃciency, social equity, and environmental sustainability. The direct result
+of this recommendation has been a work program launched in 1995 by
+the United Nations Commission on Sustainable Development (UNCSD),
+which ﬁrst came out with a preliminary list of 134 indicators, later reduced
+to 58 indicators after some pilot-testing conducted between 1996 and
+1999. The third revision of this list (UN Department of Economic and
+Social Aﬀairs 2007) now includes about 50 core indicators completed by
+an equivalent number of “other” indicators.
+Several parallel or related initiatives took place at some other international levels. The OECD, again, has been active in the ﬁeld by continuing
+the publication of the list of social indicators it started to publish in the
+1970s and by developing a new set of key environmental indicators whose
+publication started in 2001. At the European level, the European Council
+adopted its own strategy for sustainable development in 2001, later revised
+in 2006, leading to still another Dashboard of Sustainable Development,
+with 11 key indicators and a complete list of about 100 indicators. National
+actions have followed or preceded this general movement, albeit in a somewhat scattered way. A review made for Eurostat in 2004 among members of
+the European Union showed large variations across countries at this time:
+between 14 and 218 indicators for the broadest versions of their countryspeciﬁc dashboards, and between 14 and 25 for their narrower versions
+focusing on headline indicators —when such versions existed.
+To illustrate what dashboards are and to help discuss their pros and cons,
+table 1.1 fully reproduces the contents of the UNCSD dashboard, in its 2007
+version. What are the merits of this methodology? First, under the presentation adopted in the UNCSD dashboard, messages from GDP, while not
+hidden, are very clearly relegated to a nonprominent place. Second, from
+the point of view of statisticians, dashboards are a good way to advertise
+the many facets of their production, without the problematic step of trying to summarize this information in the form of composite indexes. This
+does not mean that aggregation is fully ruled out, but it is left to ﬁnal
+users. Oﬃcial statisticians prefer not to be in charge of saying by how much
+income must be weighted against additional years of life or other nonmonetary aspects of well-being. This is supposed to be a matter of personal
+values, not of scientiﬁc judgment. As mentioned above, the possibility of
+testing diﬀerent weighting factors has been already proposed by Osberg
+and Sharpe (2002). Modern communication tools allow doing this in a
+much more systematic way, with clients of statistical websites being able
+to perform their own online aggregations and vizualise their results in various forms. We have seen that it is the strategy followed by OECD with
+
+Table 1.1. AN ILLUSTR ATIVE DA SHBOARD: THE UNCSD INDIC ATORS OF SUSTAINABLE
+DEVELOPMENT, THIRD REVISION
+
+Theme
+Poverty
+
+Subtheme
+
+Core indicator
+
+Income poverty
+
+Proportion of population living below national poverty line
+
+Income inequality
+
+Ratio of share in national income of highest to lowest quintile
+
+Sanitation
+
+Proportion of population using an improved sanitation facility
+
+Drinking water
+
+Proportion of population using an improved water source
+
+Access to energy
+
+Share of households without electricity or other modern
+
+Living conditions
+
+Proportion of urban population living in slums
+
+energy services
+Governance
+Health
+
+Corruption
+
+Percentage of population having paid bribes
+
+Crime
+
+Number of intentional homicides per 100,000 population
+
+Mortality
+
+Under-ﬁve mortality rate
+
+Health care delivery
+
+Other indicator
+Proportion of population below $1 a day
+
+Percentage of population using solid fuels
+for cooking
+
+Life expectancy at birth
+
+Healthy life expectancy at birth
+
+Percentage of population with access to primary health care
+
+Contraceptive prevalence rate
+
+facilities
+Immunization against infectious childhood diseases
+Nutritional status
+
+Nutritional status of children
+
+Health status and risks
+
+Morbidity of major diseases such as HIV/AIDS, malaria,
+
+Prevalence of tobacco use
+
+tuberculosis
+Suicide rate
+Education
+
+Education level
+
+Gross intake ratio to last grade of primary education
+
+Lifelong learning
+
+Net enrolment rate in primary education
+Adult secondary (tertiary) schooling attainment level
+Literacy
+
+Adult literacy rate
+Continued
+
+Table 1.1. (continued)
+Theme
+Demographics
+
+Subtheme
+Population
+
+Core indicator
+Population growth rate
+
+Other indicator
+Total fertility rate
+
+Dependency ratio
+Tourism
+
+Ratio of local residents to tourists in major
+tourist regions and destinations
+
+Natural hazards
+Atmosphere
+
+( 30 )
+
+Land
+
+Vulnerability to natural hazards
+
+Percentage of population living in hazard prone areas
+
+Disaster preparedness and response
+
+Human and economic loss due to natural disasters
+
+Climate change
+
+Carbon dioxide emissions
+
+Ozone layer depletion
+
+Consumption of ozone depleting substances
+
+Air quality
+
+Ambient concentration of air pollutants in urban areas
+
+Land use and status
+
+Emissions of greenhouse gases
+
+Land use change
+Land degradation
+
+Desertiﬁcation
+Agriculture
+
+Land aﬀected by desertiﬁcation
+Arable and permanent cropland area
+
+Fertilizer use eﬃciency
+Use of agricultural pesticides
+Area under organic farming
+
+Forests
+
+Proportion of land area covered by forests
+
+Percentage of forest trees damaged by
+defoliation
+Area of forest under sustainable forest
+management
+
+Coastal zone
+Source: United Nations 2007
+
+Percentage of total population living in coastal areas
+
+Bathing water quality
+
+Table 1.1. (continued)
+Theme
+Oceans, seas,
+and coasts
+
+Subtheme
+
+Core indicator
+
+Fisheries
+
+Proportion of ﬁsh stocks within safe biological limits
+
+Marine environment
+
+Proportion of marine area protected
+
+Other indicator
+
+Marine trophic index
+
+Area of coral reef ecosystems and percentage live cover
+Freshwater
+
+Water quantity
+
+Proportion of total water resources used
+Water use intensity by economic activity
+
+Water quality
+
+Presence of faecal coliforms in freshwater
+
+Biochemical oxygen demand in water bodies
+Wastewater treatment
+
+Biodiversity
+
+Ecosystem
+
+Proportion of terrestrial area protected, total and by ecological
+region
+
+Management eﬀectiveness of protected
+areas
+
+( 31 )
+
+Area of selected key ecosystems
+Fragmentation of habitats
+Species
+
+Change in threat status of species
+
+Abundance of selected key species
+Abundance of invasive alien species
+
+Economic
+development
+
+Macroeconomic
+performance
+
+Gross domestic product per capita
+
+Gross saving
+
+Investment share in GDP
+
+Adjusted Net Savings as percentage of gross
+national income (GNI)
+Inﬂation rate
+
+Sustainable public ﬁnance
+
+Debt to GNI ratio
+
+Employment
+
+Employment-population ratio
+
+Vulnerable employment
+
+Labor productivity and unit labor costs
+Share of women in wage employment in the nonagricultural
+sector
+Continued
+
+Table 1.1. (continued)
+Theme
+
+Subtheme
+Information and communication
+
+Core indicator
+Internet users per 100 population
+
+technologies
+
+Other indicator
+Fixed telephone lines per 100 population
+Mobile cellular telephone subscribers per
+100 population
+
+Research and development
+
+Gross domestic expenditure on R&D as a
+percentage of GDP
+
+Global economic
+
+Tourism
+
+Tourism contribution to GDP
+
+Trade
+
+Current account deﬁcit as percentage of GDP
+
+partnership
+
+Share of imports from developing countries
+and from LDCs
+Average tariﬀ barriers imposed on exports
+from developing countries and LDCs
+
+External ﬁnancing
+
+Net Oﬃcial Development Assistance (ODA) given or
+received as a percentage of GNI
+
+Foreign direct investment (FDI) net inﬂows
+and net outﬂows as percentage of GDP
+Remittances as percentage of GNI
+
+Consumption and
+production
+
+Material consumption
+
+Material intensity of the economy
+
+Domestic material consumption
+
+Energy use
+
+Annual energy consumption, total and by main user
+
+Share of renewable energy sources in total
+
+patterns
+
+category
+
+energy use
+
+Intensity of energy use, total and by economic activity
+Waste generation
+and management
+Transportation
+
+Generation of hazardous waste
+
+Generation of waste
+
+Waste treatment and disposal
+
+Management of radioactive waste
+
+Modal split of passenger transportation
+
+Modal split of freight transport
+Energy intensity of transport
+
+1 . 7 T H E C OR E Q U E S T ION : HO W FA R C A N AG G R E G AT ION G O ?
+
+( 33 )
+
+its Your Better Life Index. This is part of a more general communication
+strategy developed by statistical (national or international) organizations
+to reconqueer the conﬁdence of citizens after years of progressive deterioration due to the increasing gap between oﬃcial statistics and individual
+perceptions of socioeconomic change.
+Furthermore, beyond being a convenient way to promote existing statistics, dashboards are also one way to help develop new ones. Trying to
+implement a comprehensive dashboard of socioeconomic development
+helps in identifying gaps in statistical production, or needs for improved
+international harmonization of statistics. Dashboards also have the advantage of being relatively easy to tailor to the needs of policymakers or to
+the requests of representatives of civil society: their development can be
+participatory, especially for dashboards developed at a local level.
+But the main drawback of dashboards comes from their richness. The
+natural criticism of these dashboards is their very hybrid character and the
+fact that their composition often looks arbitrary. One can also be worried
+about the lack or harmonization of dashboards, the frequent changes that
+occur in their compositions, or the fact that they deliver too much information to be eﬃcient communication tools, even when their main messages
+are summed up in a limited set of headline indicators.
+
+1.7 THE CORE QUESTION: HOW FAR CAN AGGREGATION GO?
+What lessons can be retained from this introductory chapter? As announced in its preamble, we have the conﬁrmation that the problem with challenging GDP is not the lack of competitors nor the fact that this research
+ﬁeld has been left abandoned for decades — quite the opposite. Initiatives
+have mushroomed after the stream of “social indicators” and Nordhaus
+and Tobin’s seminal work in the 1960–1970s. Initatives have emerged
+from various horizons, carried through or sponsored by academics, international organizations, and various nongovernmental organizations. The
+resulting landscape is quite intricate and heterogeneous, still evolving,
+and we did not in this chapter pretend to oﬀer a thorough visit to all its
+recesses. The aim was mainly to provide an illustrated taxonomy of its main
+elements.
+Hopefully, this has been enough to reveal the problems that are at stake.
+The major one is to ﬁnd an acceptable compromise in terms of aggregation.
+At one extreme, extensive dashboards allow full pictures of the performance of countries in many respects. They are useful, but their choice of
+avoiding any loss of information is both their strength and their limit.
+
+( 34 )
+
+A Wealth of Indicators
+
+The impossibility of deriving any clear synthetic message from such large
+dashboards explains the recurrent tendency to go back to the much simpler
+messages provided by GDP. If the situation remains that of having GDP on
+one side, and plethoric dashboards on the other, it is likely that the former’s preeminence will remain durably uncontested. Single numbers have
+a natural power of attraction against which excessively rich sets of detailed
+ﬁgures cannot compete.
+Is there conversely some scope for arranging the heterogeneous information of existing dashboards in a way that could provide a better challenger to GDP? What has been said on limits of composite indicators casts
+some doubts about the relevance of this track. It is therefore likely that the
+optimal solution lies somewhere in between, with an intermediate level of
+aggregation that will preserve complementary points of views on items that
+are the most diﬃcult to reduce to one another. But this requires two things:
+a clear view of what are the few dimensions of well-being and its durability that deserve separate measures, and, since aggregation will remain
+necessary within each of these dimensions, what rules can be followed to
+have it done as appropriately as possible. Can aggregation still be done in
+monetary units, as Nordhaus and Tobin proposed, or would other metrics
+be more appropriate? These questions will provide the main thread for all
+subsequent chapters, starting with the domain that is perhaps the most
+contentious, sustainability.
