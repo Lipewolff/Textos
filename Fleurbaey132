@@ -1,0 +1,1888 @@
+CHAPTCHAPTER 2
+
+
+
+2.1 INTRODUCTION
+
+Most of this book is about improving measures of current well-being.
+Yet chapter 1 showed that a large share of the literature on alternatives or complements to GDP is also concerned with the sustainability issue
+or, more generally, with intertemporal aspects of well-being. The present
+chapter is the only one we shall devote to these questions, but this is compensated for by our choice of putting it early in our argumentation. Three
+main reasons explain this choice.
+The ﬁrst one is the intrinsic importance of the topic. It would be of
+low interest to promote a better monitoring of current well-being if this
+was fully at the expense of the well-being of future generations. This
+interplay between current development or current well-being and sustainability was at the heart of the Bruntland report by the end of the
+1980s (Bruntland 1987), and it still remains one of its most popular
+messages. Much closer to us, it has been the general theme of a recent
+Human Development Report (UNDP 2011), the idea being to explore
+trade-oﬀs and synergies between the maximization of current HDIs and
+long-run prospects, especially in the environmental dimension. GDP has
+been repeatedly blamed for being blind to all these matters; therefore alternatives to it must address this sustainability dimension. It is important not
+to treat it as subsidiary.
+The second reason for an early examination is one of clariﬁcation. A
+central idea of this chapter is that, because of its importance and its speciﬁcities, the measurement of sustainability has to be done separately from
+the measurement of current well-being. This might seem to go without
+saying, yet it has not always been the position adopted by the literature.
+Several proposals proceed as if the proper challenger of GDP has to be an
+index of sustainable well-being, hence mixing in a single ﬁgure the two ideas
+of measuring well-being and its sustainability. Reasons for not following
+this route must be exposed before proceeding any further.
+The third reason is that this issue of sustainability allows a ﬁrst look
+at a question that will occupy a large share of this volume, the opposition between monetary and nonmonetary approaches to well-being. In fact,
+chapter 1 showed that this issue combined with the previous one provides a way to classify alternatives to GDP along two axes. The ﬁrst axis
+opposes those indicators that try to measure well-being and its sustainability at the same time and those that clearly separate these dimensions—as
+advocated here. The second axis contrasts indicators whose results are
+expressed in monetary equivalents and indicators relying on other metrics. This double classiﬁcation leads to four classes, and none of them is
+empty.
+Within the ﬁrst class, the seminal example of a comprehensive monetary
+index of well-being incorporating a sustainability dimension was Nordhaus
+and Tobin’s “sustainable measure of economic welfare” (SMEW). Green
+GDPs also belong to this category. Still monetary, but exclusively focused
+on sustainability, hence belonging to the second class, were the concepts
+of “Genuine Savings” and “Adjusted Net Savings.” Next, the very popular
+notion of ecological footprint has been described as representative of a
+nonmonetary approach of the third class that exclusively sends messages
+about sustainability, and not at all about current well-being. According to
+this footprint indicator, best-performing countries are often very poor ones
+that one would hardly identify as success stories in terms of current wellbeing. But several other composite indicators tend to reaggregate these two
+notions of current well-being and sustainability.
+Beyond or besides all this, dashboards of sustainable development that
+have ﬂourished since the early 1990s under the “Agenda 21” program, by
+nature, mix all these ways to look at the problem, as they generally combine
+monetary and nonmonetary components and components devoted either
+to development—that is, current well-being and its short-term trends—or
+to its long-run sustainability.
+This opposition between monetary and nonmonetary indicators is often
+assimilated to the one between weak and strong views of sustainability.
+Let us focus on the two indicators clearly dedicated to sustainability stricto
+sensu, Adjusted Net Savings and the Ecological Footprint. We have already
+seen how diﬀerent the messages delivered by these two indicators are. This
+is conﬁrmed again by ﬁgure 2.1. The correlation that is depicted is between
+the ANS and the concept of ecological surplus rather than the Ecological
+
+ 
+( 37 )
+
+10
+5
+0
+–10
+
+–5
+
+Ecological Surplus
+
+15
+
+20
+
+2 . 1 I N T R O D U C T ION
+
+–40
+
+–20
+0
+20
+Adjusted Net Savings (% of GNI)
+
+40
+
+Figure 2.1
+Divergent messages from two sustainability indicators
+Reading: Adjusted Net Savings is the generalized notion of savings including depreciation of natural resources
+and the net accumulation of human capital: all these items are expressed in monetary units, and the result is
+expressed in % of gross national income (GNI). The ecological surplus is the diﬀerence between each country’s
+average bio-capacity and its consumption of renewable resources. It is expressed in “global hectares per capita”.
+A negative value means that a country consumes more than its endowment.
+Source: Values for both indexes are taken from the 2011 human development report (UNDP, 2011).
+
+Footprint, in order to have two indexes expected to move in the same way.
+Yet the correlation, if any, appears to be rather negative: countries presented as sustainable by one of the indicators are often on nonsustainable
+paths from the point of view of the other. This is often taken as a typical
+illustration of the weak/strong sustainability controversy, with the monetary ANS showing excessive optimism about the possibility of replacing
+depleting natural resources by physical or human capital, and the footprint
+representing the opposite bias, fully ignoring opportunities oﬀered by technical progress. The possibilities of overcoming this opposition will be the
+other major topic of this chapter.
+More precisely, the organization of the chapter will be the following.
+We shall ﬁrst discuss the shortcomings of approaches in terms of either
+intertemporal or sustainable well-being. We shall start with the way the
+intertemporal dimension of well-being comes up in the assessment of individual well-being, how it suggests measuring well-being in terms of global
+wealth and how concepts of sustainable consumption or well-being derive
+from this idea. Notions such as net domestic product (NDP) or green GDP
+are economy-wide counterparts of these concepts, and we shall examine why such an approach raises more problems than expected, arguing
+deﬁnitely in favor of measuring sustainability separately.
+
+ 
+( 38 )
+
+
+
+Then, we shall focus on the second divide, that is, between monetary and
+nonmonetary approaches, but not without some rephrasing. Manichaean
+objections to the monetary approach will have to be left aside. Opposing
+“monetary” evaluation is legitimate when this term is a synonym for naive
+trust in all price signals sent by markets. But monetary evaluation does not
+reduce to this. Once we escape this narrow view, monetization just becomes
+a conventional way of expressing the relative weights we give to components of sustainability. This is not at all to say that the choice of units is
+fully indiﬀerent. Some units tell more to the user, depending on the question at stake, and one reason for the success of the Ecological Footprint is to
+have adopted a metric often perceived as better suited for measuring pressure on the earth’s resources. Yet the fundamental problem comes ahead of
+this issue. Before choosing an aggregation unit, one needs to know to what
+extent aggregation itself is possible, given the great variety of factors that
+shape long-run socioeconomic and environmental perspectives.
+It is on this point that a large part of our discussion will focus,
+and the conclusion will be ambivalent. On the positive side, we shall
+explore approaches that have the potential advantage of subsuming the
+weak/strong opposition. This conﬁrms that monetary approaches are not
+by construction unable to capture the strong view of sustainability. We
+shall even exhibit an example in which some applications of this monetary
+approach may deliver messages that, in some sense, appear too strong. On
+the negative side, the conclusion will emphasize the very theoretical nature
+of all that can be proposed for fully adequate sustainability indexes. These
+theoretical developments are thus readable in two ways: either as showing
+the lines along which the quest for a universal sustainability indicator could
+go, or as the proof that this quest is akin to that of the holy grail, and that
+we’d better reorient ourselves toward more pragmatic second-best solutions, theory having the more modest role of helping in the design of these.
+Two last points must be made before starting. First, this chapter can
+be viewed at best as an introduction to the sustainability literature, which
+is huge and often very technical. We did not attempt to be fully comprehensive in our assessment of this literature. The reader interested in
+further details will strongly beneﬁt from much more comprehensive surveys, such as Pezzey and Toman (2003),1 Heal and Kriström (2005), and
+Asheim (2007).
+Second, the issue of sustainability is often assimilated to the question
+of “greening” macroeconomic indicators. There is indeed a large overlap
+1. A related volume by the two same authors also gathers some of the most important
+pre-2000 papers published on this issue (Pezzey and Toman 2002).
+
+ 
+2 . 2 W E A LT H A N D S U S TA I N A B L E W E L L - B E I N G
+
+( 39 )
+
+between these two topics, and environmental illustrations are going to be
+used throughout this chapter. Yet neither of these two questions strictly
+reduces to the other. Greening economic indicators is already a necessity
+from the point of view of current well-being, when it is aﬀected by environmental features that are not captured in usual aggregates. This question is
+implicitly or explicitly covered in other chapters of this volume. Conversely,
+assessing sustainability involves many facets that are not environmental
+but are fundamental for the longevity of our living standards: replacement
+or accumulation of productive capital (human or nonhuman, tangible or
+intangible capital) and the evolution of factors such as institutions. In this
+chapter, we concentrate on this general issue of sustainability, in this broad
+acceptation that encompasses both environmental and nonenvironmental
+dimensions.
+
+2.2 WEALTH AND SUSTAINABLE WELL-BEING
+2.2.1 Discounting future streams of well-being?
+Measuring sustainability is one way to introduce long-term economic
+prospects into our assessment of socioeconomic well-being. It is not the
+only one, and some other ways to address the question have played a role
+in designing some of the indicators brieﬂy recalled in the introduction of
+this chapter. Our ﬁrst task is to discuss how these approaches relate to one
+another.
+The question can be introduced by analogy with the way the time
+dimension arises in the assessment of individual well-being. For a given
+individual, there are obvious reasons for pushing measures of well-being
+beyond the current period. Consider two individuals of the same age, enjoying the same satisfaction for the current period, but with individual i facing
+poor prospects for the rest of his life, while individual j knows in advance
+that he will beneﬁt from expanding opportunities, for instance because he
+is at the onset of a career in a category of jobs oﬀering high returns to
+experience.
+There are obvious reasons for incorporating such information in measures of well-being applied to these two individuals. A standard way of evaluating the prospective intertemporal well-being of an individual observed
+at time t is the discounted sum of his future utilities, that is, in the tradition
+of Yaari (1965):
+ 
+
+∞
+
+v(t) =
+t
+
+u(c(τ ))s(τ |t)e−λ(τ −t) dτ .
+
+(2.1)
+
+ 
+( 40 )
+
+
+
+In this expression, s(τ |t) is the probability of surviving until time τ given
+that one is alive at t (expected to become zero past a certain time horizon),
+c(τ ) is the vector of consumption ﬂows or other sources of utility or disutility at time τ , u(.) is the resulting level of instantaneous well-being, and λ
+is a subjective discount factor. Lowercase letters are used to emphasize the
+fact that, at this stage, we are considering individuals rather than collectivities. This is not the only way to aggregate future utilities and to account
+for individual lifetime uncertainty—see Bommier (2006) for an alternative
+view—but entering this debate is not essential for our purpose.
+Another question, if we compare the well-being of persons of diﬀerent
+ages, is how to correct for the fact that these people are expecting diﬀerent
+amounts of remaining years of lives, and of lives that may be of diﬀerent
+qualities. Without any such correction, the prospective well-being of people of older ages would appear mechanically lower, unless we incorporate
+in our valuations of these people’s lives some account of what they have
+also achieved in the past. An intertemporal utility function that is basically
+designed to model how individuals plan the rest of their lives is only halfsuited for a proper valuation of their whole existences. But let us also keep
+aside this second diﬃculty.
+Even then, in practice, one seldom estimates (2.1) as it stands, and statistical evaluations tend to use a related concept of monetary wealth. To be
+exhaustive, this concept of wealth should include not only current assets
+k(t) but also the discounted ﬂow of future net incomes y(t), with a discount
+factor that is now an interest rate r, that is, a technical transformation rate
+between consumptions at diﬀerent periods:
+  ∞
+  ∞
+y(τ )s(τ |t)e−r(τ −t) dτ =
+c(τ )s(τ |t)e−r(τ −t) dτ . (2.2)
+w(t) = k(t) +
+t
+
+t
+
+The justiﬁcation of this way of proxying welfare is the positive link that
+will exist between w(t) and v(t) under the assumption of a ﬁxed r. The
+question here is to know how to translate such concepts for a collectivity.
+Formally, lowercase letters are replaced by uppercase letters, and the typical
+intertemporal function of social welfare takes the form
+ 
+V(t) =
+
+∞
+
+U(C(τ ))e−µ(τ −t) dτ ,
+
+(2.3)
+
+t
+
+while a concept of global wealth represents the global intertemporal budget
+constraint of the economy:
+ 
+
+∞
+
+W(t) = K(t) +
+t
+
+Y(τ )e−r(τ −t) dτ =
+
+ 
+
+∞
+t
+
+C(τ )e−r(τ −t) dτ .
+
+(2.4)
+
+ 
+2 . 2 W E A LT H A N D S U S TA I N A B L E W E L L - B E I N G
+
+( 41 )
+
+A recent applied example of this way of considering long-term well-being
+is the Stern review on climate change (Stern 2007), where the consequences
+of global warming and of policies aiming at its prevention were assessed
+with an indicator that is a hybrid between (2.3) and (2.4). A lively debate
+has followed over the pertinent choice of the discount factor µ, Stern having been criticized for a choice giving excessive weight to the very distant
+future. As will be made clear later, this rate of time preference plays a role
+in sustainability indexes that is a bit diﬀerent from the one it has played
+in this debate, but given the recurrence of this debate, a short reminder of
+what is at stake is necessary here.
+First, it was of course not unintentional that, moving from (2.1) to (2.3),
+we changed notations, replacing the individual discount factor λ by a collective discount factor µ. The reason is that there are no arguments in
+favor of adopting similar values in the two contexts. At the individual level,
+λ is introduced to acccount for the short-sightedness attested in people’s
+behavior. In fact, already at this individual level, it is debatable whether
+we should take this impatience into consideration when assessing welfare.
+If we consider again two individuals i and j with the same instantaneous
+utility functions u(.) but such that λi   λj , it is not obvious that we must
+consider individual i as less well-oﬀ just because of his higher degree of
+time impatience. It is also debated whether time preference reﬂects myopia
+and justiﬁes paternalistic evaluations of individual well-being by public
+agencies.
+This moral objection to discounting is all the more valid at the collective
+level. There are deﬁnitely no reasons to use a characteristic of individual
+psychology as a benchmark for weighting levels of welfare across cohorts.
+Many authors, going back to Ramsey (1928), have argued that the only
+acceptable value at the collective level should be µ = 0, if we want to
+respect interpersonal and intergenerational impartiality. In fact, the basic
+motive for not doing so and keeping a positive µ in equation (2.3) is
+practical: it is to avoid nonconvergence of inﬁnite integrals.
+One traditional rationalization of µ > 0 is that it accounts for a risk
+of extinction of mankind: we must weight future generations according
+to the probability that they will exist or not (Dasgupta and Heal 1974).
+If we follow this tradition, we see that e−µ(τ −t) , rather than being the
+counterpart of e−λ(τ −t) in (2.1), is rather to be considered as the equivalent of the survival function s(τ |t), just shifting from individual survival
+to the global survival of mankind. Yet, as in (2.1), this is not necessarily
+the only way to take into account this nonzero risk of extinction (Bommier
+and Zuber 2008), and, second, it is diﬃcult to rely on this argument for
+attributing a precise value to µ.
+
+ 
+( 42 )
+
+
+
+A second point is that the pure rate of time preference of equation (2.3)
+must be distinguished from the social discount rate of equation (2.4). This
+is true in the short run when we approximate r by the market interest
+rate, which has no reason to exactly reﬂect µ. And this remains true in the
+long run, when market references are no longer available, and r must be
+imputed. Two important additional parameters of the social discount rate
+are the expected general rate of growth for the economy and the degree of
+preference for intergenerational equity. High expected growth can provide
+a justiﬁcation for less eﬀort in favor of future generations even if one is
+equally concerned about their well-being. This will be the case if we trust
+that unabated general economic progress will make them, on the whole,
+much better oﬀ than we are. From that point, there are various possibilities
+to complicate the picture: for instance, the introdution of risk aversion, if
+the continuation of economic progress is increasingly uncertain as we move
+away from the present (Weitzman 2001; Gollier 2012), or the fact that discount factors to be applied to various policy issues may be heterogenous: if
+such and such environmental resource is expected to become increasingly
+scarce in the future and, for this reason, becomes highly constraining for
+the well-being of our descendants, decisions that aﬀect the future path of
+this resource cannot be based on the same relative valuation of the future
+as the decision of building a new factory or investing in some other kind of
+basic public infrastructure. Such an argument has been used in defense of
+actualization choices made in the Stern review (Sterner and Persson 2008;
+see also Guesnerie 2005).
+The question of relative prices will ﬁnd a strong echo when we examine
+later the dynamics of accounting prices to be used for weighting sustainability components against each other. And the uncertain character of
+future economic growth reminds us that, as soon as it is the future that
+we want to quantify, uncertainty cannot be ignored. Ideally, it is not indexes
+that we should produce, but distributions of probabilities for these indexes,
+or indexes with a probabilistic interpretation—something clearly at odds
+with standard statistical production.
+Yet, at this stage, a more basic point is enough for skepticism about the
+feasibility and relevance of statistical indicators in the spirit of (2.3 ) and
+(2.4). Their usefulness for theoretical work is not questionable. And it is
+also relevant to try to use them for cost-beneﬁt analysis of current policies,
+as attempted by the Stern review for global warming prevention. But the
+question here is diﬀerent. Our aim is to enlarge the set of regular statistical
+indicators to overcome their limitations. This commands indicators that
+can be implemented on a regular basis and that speak to users. Discounted
+social well-being is a concept that is clearly oﬀ these marks. If we want to
+
+ 
+2 . 2 W E A LT H A N D S U S TA I N A B L E W E L L - B E I N G
+
+( 43 )
+
+assess prospective well-being according to (2.3), what is required is much
+more than incorporating the projected costs of a phenomenon like global
+warning in otherwise mechanical projections of GDP growth; we need to
+build a full projection of social well-being incorporating all the facets of this
+well-being and its determinants. According to Samuelson’s (1961) wording,
+this involves putting a considerable amount of “futurity” in our evaluation
+of well-being that will make it both diﬃcult to interpret and probably not
+very credible.
+One can read a large part of the subsequent literature as successive
+attempts to overcome this problem, with indexes still oriented toward the
+measurement of the future, but in a way that is more commensurable with
+statistics pertaining to the current socioeconomic situation, and avoiding
+reliance on the kind of long-term projections that are required to properly ﬁll the requirements of (2.3) and (2.4). Our recurrent question will be
+whether these attempts have been successful—our recurrent answer will
+be that they have not.
+
+2.2.2 From intertemporal well-being to sustainable consumption
+Let us ﬁrst address the problem of the lack of commensurability. Some
+users of statistics are fond of those that can come out in impressively huge
+numbers, and such would be the case with sums of prospective levels of
+income or well-being. But ﬁgures are much more understandable when they
+are comparable with quantities we are used to manipulating in our day-today lives, such as yearly individual incomes, savings ratios, and so on. There
+is actually one way to rescale the amounts given by (2.3) and (2.4), which is
+to convert them into equivalent permanent ﬂows of well-being and income,
+that is, the constant levels of these variables that provide exactly the same
+discounted sum. Their expressions are respectively
+ 
+Ū = µ
+
+∞
+
+U(C(τ ))e−µ(τ −t) dτ
+
+(2.5)
+
+t
+
+and
+ 
+C̄ = r
+
+∞
+
+C(τ )e
+t
+
+−r(τ −t)
+
+ 
+
+ 
+
+∞
+
+dτ = r K(t) +
+
+Y(τ )e
+
+−r(τ −t)
+
+
+dτ .
+
+(2.6)
+
+t
+
+The latter concept can be interpreted as sustainable consumption, that
+is, the maximal level of immediate consumption that can be forever perpetuated without violating the intertemporal budget constraint combining
+current assets and the ﬂow of future incomes. At ﬁrst sight, (2.5) or (2.6)
+
+ 
+( 44 )
+
+
+
+only solve our problem of rescaling but without oﬀering any solution to
+our “futurity” problem, to name it as Samuelson did. Evaluations still
+require full projections of either C(τ ) or Y(τ ), even in the more elementary
+case of C̄.
+But what makes or has made the attractiveness of the constantequivalent concept is that, at least in some cases, it can be reexpressed in
+terms that do not seem to request more than data obtainable from current
+observations. In fact, under such conditions, C̄ can be equated with concepts already available in standard national accounts, such as net domestic
+product (NDP), from which the concept of green GDP mentioned in the
+introduction to our chapter is a kind of generalization.
+This point was made by Weitzman (1976), whose contribution can be
+read from two symmetric points of view: either as providing a way to evaluate (2.6), or as providing national accountants with a justiﬁcation for NDP
+computations. Why such a justiﬁcation is welcome is worth emphasizing.
+As is the case for GDP, NDP is a hybrid concept that adds up something
+that directly contributes to current well-being, that is, consumption, and
+something that does not, that is, savings. It seems to do it more correctly
+than GDP because it subtracts from output the share of capital that disappears every year, but adding up consumption and net savings still looks like
+adding up apples and oranges.
+To be more precise, such an addition makes sense from the point of view
+of measuring economic activity: what is consumed and what is saved are
+both outputs of current economic activity, and it is legitimate to add them
+up if it is total activity that we want to measure. But, in that case, there is no
+rationale for deducing capital depletion: the energy we devote to replacing
+depleted capital is also a form of economic activity, it generates employment and incomes that will be reinjected in the economy, and it has to
+be counted as such. Hence NDP is a concept that looks less natural than
+expected.
+The way to rehabilitate NDP from the well-being perspective is to consider that savings, while not contributing to current well-being, constitute
+our current contribution to future well-being, precisely the kind of things
+we want to include in our intertemporal approach. If so, it is clearly net savings that matter: capital destruction has to be counted negatively because,
+contrary to savings, it has a negative impact on well-being prospects.
+This identity between NDP and sustainable consumption is completely
+trivial in the case of a single all-purpose good that is used for both consumption and investment. In that case, with δ the depreciation rate for
+capital, consuming Y − δK at time t ensures that the capital stock will be
+unchanged at the start of period t + dt, warranting an indeﬁnite replication
+
+ 
+2 . 2 W E A LT H A N D S U S TA I N A B L E W E L L - B E I N G
+
+( 45 )
+
+of the process. This exactly responds to the deﬁnition of Hicksian income,
+as “the maximum value [an individual] can consume during a week, and still
+expect to be as well oﬀ at the end of the week as he was at the beginning”
+(Hicks 1946, p. 174).
+The contribution by Weitzman goes one point further, retaining the
+scalar representation for consumption C(t), allowing for a multiplicity
+of capital goods, yet restricting attention to the case of an optimizing
+economy—which is going to be a strong limitation. Let the stocks of capital
+goods be denoted Kk (t), k = 1, . . . , m, possibly including stocks for various
+forms of natural capital. The law of motion for these capital goods is
+K̇k (t) = gk (K(t), C(t)),
+
+(2.7)
+
+meaning that changes in capital stocks in an elementary time period
+depend on initial values for stocks of all these capital goods (the vector
+K(t)) and the current consumption behavior.
+We then consider that the economy works as if it was maximizing the
+utility function (2.3). Let πk (t) denote the costate variable associated with
+the ﬂow equation (2.7). The optimization problem admits the Hamiltonian
+ 
+H(τ ) = U(C(τ ))e−µ(τ −t) −
+πk (τ )gk ((K(τ ), C(τ )),
+k
+
+and the optimal path, in addition to (2.7), must satisfy ∂H/∂C = 0 and
+π̇k = −∂H/∂Kk .
+Let us then call V ∗ (t) the optimal value that is so attained for V(t), which
+is a function of initial capital endowments K(t). From standard results we
+know that
+∂V ∗ (t)/∂Kk = πk .
+This corresponds to the usual interpretation of costate variables: they measure the social intertemporal beneﬁt of additional units of each of the m
+capital goods at time t, that is, their current values or prices in an eﬃcient
+competitive economy. This directly leads to
+ 
+V̇ ∗ (t) =
+πk (t)K̇k (t).
+(2.8)
+k
+
+But along an optimal path that is time-consistent, this variation of V ∗
+over time can also be computed by diﬀerentiating (2.3) with respect to t,
+which yields
+  ∞
+∗
+V̇ (t) = −U(C(t)) + µ
+U(C(τ ))e−µ(τ −t) dτ = −U(C(t)) + µV ∗ (t). (2.9)
+t
+
+ 
+( 46 )
+
+
+
+Hence, combining (2.5), (2.8), and (2.9),
+Ū = µV ∗ (t) = U(C(t)) +
+
+ 
+
+πk (t)K̇k (t),
+
+(2.10)
+
+k
+
+which shows that we have an identity between three concepts:
+• A level of permanent utility Ū that would provide exactly the same
+amount of global utility as the path expected to be followed by the
+economy.
+• A “return” at rate µ on the V ∗ (t) indicator if we reintrepret it as the inclusive wealth of this economy, in the usual interpretation of wealth as the
+future ﬂow of beneﬁts to be derived from initial endowments.
+• A quantity close to the concept of net domestic product—a valuation
+of current consumption plus net changes in capital endowments valued
+at current optimizing prices. The identity with NDP is even exact if we
+assimilate U(C(t)) with C(t).
+At ﬁrst sight, this allows a simultaneous satisfaction of the two requisites expressed at the end of subsection 2.1.2. First it solves the problem
+that we had with the order of magnitude of V(t): global utility discounted
+until the end of times is now scaled down to something comparable to current well-being. Second, we are apparently able to do so without having to
+compute the full sequence of future utility levels, since this indicator can be
+computed on the sole basis of current observations: current consumption
+C(t), current changes in stocks of all the diﬀerent kinds of capital goods
+K̇k (t), and current coeﬃcients πk (t) for the valuation of these changes.
+But how far does this solution really go? Three questions can be raised.
+Is this NDP? Does it tell us whether our current mode of living is sustainable or not? Does it at least tell us what level of consumption would be
+sustainable? Unfortunately, answers to these three questions will all prove
+negative. Let us look at each of them in turn.
+The ﬁrst one is the easiest to answer. Potential diﬀerences with NDP
+as computed by national accountants have probably been obvious to the
+reader as the demonstration proceeded. The identiﬁcation requires an
+assimilation of global monetary consumption with current well-being; it
+also assumes that capital ﬂows measured by national accounts indeed
+include all forms of capital that matter for long-term well-being. It
+assumes, ﬁnally, that prices revealed by capital markets or imputed by
+national accountants correspond to the optimizing prices πk (t). All these
+conditions are indeed crucial.
+
+ 
+2 . 2 W E A LT H A N D S U S TA I N A B L E W E L L - B E I N G
+
+( 47 )
+
+Second, does this new index tell us something about sustainability, that
+is, whether our children will live as well as we do or not? The reason for
+the negative answer is simple. Let us temporarily admit that Ū is a proper
+measure of the level of well-being that could be eventually sustained for
+ever. This information is clearly insuﬃcient to know on which kind of path
+we actually are.
+Figure 2.2 illustrates the problem with the horizontal line characterizing
+this long-term sustainable well-being. Knowing this level is only part of the
+answer to the question of sustainability. The real point is to know whether
+we are currently above or below this value: in itself, the Ū indicator does
+not tell us whether we are in the situation of path B, where excess initial
+consumption, although compatible with short-term growth, will ultimately
+force future generations to reduce their standard of living below the current
+one, or the situation of path C, where current behavior is frugal enough to
+allow the prospect of permanent increases for all future generations.
+To this, one could object that, even if Ū is not the full answer to the
+sustainability issue, it is an important component of it: if we provide
+simultaneous measures for U(C(t)) and Ū to the public or the policymaker,
+we can let them check by themselves whether U(C(t)) ≶ Ū. But this way
+of presenting results may be a source of confusion, as it is the case when
+adjusted GDPs or other so-called measures of sustainable well-being are
+taken as substitutes rather than complements to measures of actual GDP
+or well-being. There is less ambiguity with pairs of indicators more speciﬁcally dedicated to measuring, respectively, current well-being and prospects
+concerning its future growth or decline.
+But there is more than that. Even if we were adopting the (U(C(t)), Ū)
+way of presenting the current state of society and its prospects, the problem
+
+B: Overconsumption
+C: Another path with a sustainable
+level of initial consumption or well-being
+
+Sustainable
+levels
+of
+initial
+wellbeing
+
+Figure 2.2
+Sustainable and nonsustainable paths
+
+A: Strictly sustainable
+well-being
+
+ 
+( 48 )
+
+
+
+is that we cannot even say that Ū represents a sustainable standard of living. In fact, it is not as such that it has been presented in (2.10). A constant
+ﬂow that would provide the same global amount of intertemporal utility as
+V ∗ (t) is not necessarily one that can be realized in practice.
+The best way to show this is to provide a counterexample that, at the
+same time, will synthetize all the points raised up to now in an illustrative
+way. This counterexample will be the one of a simple cake-eating economy (Hotelling 1931) whose income only derives from the exploitation
+of an exhaustible resource. Dropping subscript k, which becomes useless
+in this single-asset framework, the optimization problem of this economy
+reads
+  ∞
+max
+U(C(τ ))e−µ(τ −t) dτ
+(2.11)
+c(τ )
+
+t
+
+under the constraint
+K̇(τ ) = −C(τ )
+with K(t) the initial stock and the condition K(τ ) ≥ 0 for all τ .
+The Hamiltonian becomes
+H(τ ) = U(C(τ ))e−µ(τ −t) − π (τ )C(τ ).
+Since K does not directly appear in the Hamiltonian, the dynamics of
+π (τ ) reduce to π̇ = −∂H/∂K = 0, that is, π (τ ) = π . Assuming a log utility
+function, maximization of H with respect to C then leads to
+C(τ ) =
+
+e−µ(τ −t)
+,
+π
+
+and, after adjusting π to get a full exhaustion of the initial stock as t → ∞,
+C(τ ) = µK(t)e−µ(τ −t) .
+From this expression for the optimal path of consumption, we let the
+reader check that we get
+V ∗ (t) = (log(µK(t)) − 1)/µ,
+hence
+Ū = µV ∗ (t) = log(µK(t)) − 1.
+
+(2.12)
+
+ 
+2 . 3 T H E S AV I N G S A P PR OAC H : A R E F E R E N C E F R A M E W OR K
+
+( 49 )
+
+This expression expresses the fact that this economy, if managed optimally, generates a global amount of intertemporal well-being positively
+related to the initial stock K(t). It will even approximately correspond to
+this stock if µ is low enough to allow a linear approximation to (2.12), and
+we can associate with that an equivalent permanent level of well-being Ū.
+Yet this is not at all a sustainable well-being, for the simple reason that such
+an economy cannot beneﬁt from any positive sustained level of consumption. Given its bounded resources and the impossibility of substituting any
+other factor for this resource, no positive value of C can be sustained in the
+long run. This very simple example exactly shows the limits of the Ū concept. It is just one way to reexpress the integral V ∗ (t) in terms of a ﬂow of
+current well-being, but without any guarantee that permanently beneﬁting
+from such a ﬂow is an option for this economy.
+What would be needed to better characterize this economy? The information on U(C(t)) remains economically signiﬁcant if we want to assess
+how satisﬁed its members currently feel compared to members of some
+other economies. However, from the point of view of sustainability, the
+information that really matters is the fact that such a level of consumption is necessarily obtained at the expense of future generations and that,
+for this reason, sustainability is out of reach. To send this message, it
+is enough to say that we have K̇(t) < 0 and, in this very simple case,
+without the need to compute relative prices for the variations of the different Kk ’s. It is this kind of approach to sustainability that we shall now
+discuss. It is undoubtedly much better ﬁtted to the issue. However, as
+we shall see, it still leaves many problems unsolved, for the simple reason that we have already mentioned. Assessing sustainability necessarily
+involves making projections about the future because it is illusory to believe
+that all the information that we need about the future is already present
+in current observations. No sustainability index can escape this obvious
+constraint.
+
+2.3 THE SAVINGS APPROACH: A REFERENCE FRAMEWORK
+2.3.1 Shifting the focus to sustainability: why?
+Let us take stock. Until now, we have explored two kinds of indicators that,
+in fact, are very close to each other, V(t) and Ū = µV(t), the only diﬀerence
+being the rescaling factor µ. Both of them summarize the global path of
+future utility ﬂows but with no clear message concerning the way it is going
+to be distributed across future cohorts. This lack of concern for intergenerational distribution is at its peak when we assimilate current well-being
+
+ 
+( 50 )
+
+
+
+with global consumption, that is, U(C(τ )) = C(τ ), in which case we are
+completely indiﬀerent about who consumes how much.
+Alternative forms for the current welfare function will give some more
+weight to the way resources are shared between generations: this was
+already the case with the logarithmic form used in our Hotelling example,
+and the way to push this concern further is generally to rely on the more
+general form U(C(τ )) = C(τ )1−γ /(1 − γ ), where γ measures aversion to
+intertemporal inequality, the logarithmic form corresponding to the particular case γ = 1. However, even this category of indicators may still fail to
+distinguish between the three kinds of proﬁles given in ﬁgure 2.2, despite
+the fact that they exhibit a fundamental diﬀerence: on path B, contrary
+to path C, current behavior forces some future generation’s well-being to
+stay below the present generation’s. This is what the sustainability issue is
+about.
+One pause may be necessary at this stage, to end up our comparison
+with the question of individual intertemporal well-being that we used as
+our point of departure. Why do we raise this question of sustainability in
+the collective context while it is seldom raised at the individual level? Where
+is the diﬀerence? After all, we could insist as well on testing whether utility
+paths are ascending or declining over their life cycles for individuals, and
+we do it sometimes, for instance when examining individual prospects concerning elements of welfare such as retirement beneﬁts. But, abstracting
+from this, the question appears less relevant in the individual case because
+it is usually considered that inequalities in u(c(t)) at this individual level
+are, above all, a matter of individual choice. Consider two individuals i and
+j born the same year with the same initial endowments at time t and facing the same future income prospects. If individual i chooses to consume
+most of his resources right now, neglecting his future needs, while individual j chooses to potspone consumption to later stages of life, this can be
+considered individual choices that should not count when comparing these
+two individuals’ well-being. Eventually, if the path followed by i drives him
+into deep proverty, society will help him, but it will do so in a minimal and
+reluctant way if it considers that all this just results from shortsightedness,
+and not from the fact that this individual has been disadvantaged, from the
+beginning, by nature or social determinism.
+The situation is clearly diﬀerent in the collective case. Here, intertemporal inequalities can no longer be viewed as freely assumed intrapersonal
+inequalities across diﬀerent periods of one’s life. It is now diﬀerent people from diﬀerent generations who are compared to each other, and we
+can consider it our moral duty not to impose on future generations any
+form of sacriﬁce that we do not accept for ourselves. It is exactly what the
+
+ 
+2 . 3 T H E S AV I N G S A P PR OAC H : A R E F E R E N C E F R A M E W OR K
+
+( 51 )
+
+concept of sustainability tries to capture. It will only provide a very partial classiﬁcation criterion for the set of future paths of our society, that is,
+a binary classiﬁcation between paths for which current well-being will be
+always at least as great as the current level and those for which it won’t. And
+there is also a risk that the ﬁrst group of paths may be an empty one: such
+was the case in our Hotelling example, and, at the end of the day, one can
+argue that such is necessarily the case in a very long-run perspective. The
+later the better, but mankind will necessarily disappear from the surface of
+the earth one day or later. As a consequence, sustainability will have to be
+thought of only relative to some time horizon and will probably have to be
+compounded with other criteria if we want to choose among the diﬀerent
+sustainability paths available from now on. Yet this criterion undoubtfully
+deserves a large place in our attempts to build alternatives or complements
+to GDP. It is on this criterion that we shall now focus, with the help of the
+conceptual apparatus developed in the previous section.
+
+2.3.2 Sustainability in imperfect but predictable economies
+From our previous discussion, we have seen that we have one candidate for
+assessing sustainability, which is an index measuring evolutions of stocks
+of all the kinds of goods that are expected to matter for future well-being. In
+the Weitzman case, we have seen how to weight these diﬀerent evolutions,
+using co-state variables πk determined along the optimizing path of the
+economy. But this assumption of optimality is clearly problematic, and it
+is all the more so in the domain of long-term eco-environmental change,
+where potential sources of ineﬃciency are numerous. There is a crude need
+for indicators that do not require this optimality assumption.
+What we shall now explore is one proposition for avoiding this optimality assumption along the lines proposed in a series of papers by Arrow,
+Dasgupta, and Mäler (Dasgupta and Mäler 2000; Dasgupta 2001; Arrow,
+Dasgupta, and Mäler 2003a). Fortunately enough, it does not require a
+more complex apparatus, because some of the previous results can be easily
+extended to any form of trajectory potentially followed by the economy.
+It suﬃces to consider that, from the initial state K(t), both K(τ ) and C(τ )
+are expected to evolve according to a trajectory consistent with the laws of
+motion (2.7), without requiring this trajectory to be optimal in any sense
+of the term. If the aim is to evaluate the sustainability of current consumption behavior, we shall for instance characterize this trajectory by a
+constant C with the implied evolutions for K. In the Hotelling example
+examined above it would lead to the exhaustion of the natural resource
+in ﬁnite time, with consumption forced to adjust suddenly to zero at this
+
+ 
+( 52 )
+
+
+
+point. Or, alternatively, it could correspond to a path of progressive exhaustion, but starting from an initial level higher than the optimal one, then
+compensated with a faster rate of decrease, that is,
+
+
+C(τ ) = µ K(t)e−µ (τ −t) ,
+with µ > µ.
+Let us examine what we get if we choose the latter form of nonoptimality. The new value function associated with this nonoptimal path
+will be
+  ∞
+log(µ K(t)) − µ (τ − t) e−µ(τ −t) dτ
+V(t) =
+t
+
+=
+
+ 
+
+1
+µ
+log(µ K(t)) −
+,
+µ
+µ
+
+(2.13)
+
+with which an equivalent permanent ﬂow of utility will still be associated,
+now equal to
+Ū = µV(t) = log(µ K(t)) −
+
+µ
+.
+µ
+
+(2.14)
+
+From this expression, it is still possible to compute an imputed price for
+capital corresponding to the contribution of a marginal increase in K(t) to
+intertemporal well-being, that is,
+π (t) =
+
+∂V(t)
+1
+=
+,
+∂K(t)
+µK(t)
+
+which, in this speciﬁc case, is the same whatever the degree of nonoptimality of the expected path, and that, incidentally, still satisﬁes the
+relation
+π (t)K̇(t) = Ū − U(t) = −
+
+µ
+.
+µ
+
+In other words, we still have an indicator consistent with the message
+that the current consumption level is not sustainable, based on a valuation
+of capital that does not refer anymore to the optimizing values of program
+(2.11), and that can be interpreted in terms of a gap between the current
+utility level and the constant level that would ensure the same global level
+of discounted well-being.
+All this can be generalized. We do so by reintroducing multiple capital
+goods, as in the Weitzman approach, and it is not costly to also consider
+
+ 
+2 . 3 T H E S AV I N G S A P PR OAC H : A R E F E R E N C E F R A M E W OR K
+
+( 53 )
+
+a multiplicity of “consumption goods.” The general formulation for the
+renewal of capital good i, will thus become
+K̇k (t) = Rk (K1 (t), . . . , Km (t), C1 (t), . . . , Cp (t)).
+
+(2.15)
+
+Such a formulation means that all forms of consumptions and all existing stocks of capital goods can simultaneously contribute to changes of
+these stocks, that is, a fairly general setting. Then, given initial conditions
+K1 (t), . . . , Km (t) we consider a “program,” that is, a projected joint trajectory
+of C1 (t), . . . Cp (t) and K1 (t), . . . Km (t) respecting (2.15). To this program, a
+value function can be associated:
+ 
+V(K1 (t) . . . , Km (t)) = e−µ(τ −t) U(C1 (τ ) . . . , Cp (τ ), K1 (τ ) . . . , Km (τ ))dτ ,
+introducing the possibility of having current well-being U(.) depend not
+only on consumption ﬂows but also on amenities provided by the current
+stocks of the diﬀerent capital goods. Then, as before, we can write the
+change over time of V as
+V̇(t) =
+
+ 
+πk K̇k (t),
+
+(2.16)
+
+k
+
+with
+πk =
+
+∂V
+∂Kk
+
+(2.17)
+
+interpreted as an accounting price for the i-th capital good.
+In what sense can we now consider that (2.16) is a sustainability indicator? The basic result is that V̇(t) ≥ 0 is a necessary condition for having
+a path where the current level of well-being is sustained. The proof is
+immediate using the other characterization of V̇(t), that is:
+V̇(t) = −U(t) + µV(t).
+It just requires writing that being at a sustainable initial level of well-being
+implies U(τ ) ≥ U(t) for all τ , hence
+ 
+V(t) ≥
+
+e−µ(τ −t) U(t)dτ = U(t)/µ,
+
+which directly implies V̇(t) ≥ 0.
+
+ 
+( 54 )
+
+
+
+As a consequence, a negative value of V̇(t) warns us that, at some point
+in time, well-being will fall below its current value, a test of nonsustainability. This test is generally presented as only partial in the sense that it only
+provides a necessary condition for sustainability, but cannot ensure that
+sustainability is respected. Indeed, for a given µ, drops in U(τ ) that occur
+over a suﬃciently remote or a suﬃciently short period of time may very
+well remain compatible with a positive V̇(t) if there are some compensating
+positive changes of U(τ ) at other periods.
+But this limit can be partly overcome if we assume that µ is a parameter
+of the indicator that the index builder is allowed to adjust. Let us consider
+trajectories that violate sustainability in the sense that U(τ ) < ψU(t) with
+ψ < 1 for all τ > τ̃ , with U bounded by Umax over the [t, τ̃ ] interval. This
+implies
+V(t) < (τ̃ − t)Umax +
+
+1
+ψU(t),
+µ
+
+hence
+V̇(t) = −U(t) + µV(t) < µ(τ̃ − t)Umax + (ψ − 1)U(t),
+which can be made negative by choosing
+µ<
+
+(1 − ψ)U(t)
+.
+(τ̃ − t)Umax
+
+Thus, in such a case, there exists a µ̃ such that, for all µ < µ̃, V̇(t) will be
+negative and send the proper message of nonsustainability. Here µ has no
+normative meaning, contrary to what we have when discounted well-being
+is used to compare the costs and beneﬁts of policies that aﬀect the future
+path of the economy. The situation is diﬀerent here because we are just in
+an index-building framework, in search of an index summarizing the shape
+of the expected utility path: adjusting the value of µ can be seen as tuning
+the resolution of the index to explore more or less remote segments of this
+social welfare path.
+
+2.3.3 An example
+Let us illustrate the properties of this approach with an example that will
+be just a little more complex that the simple Hotelling model considered
+up to now. This example will mix characteristics of the standard Solow
+
+ 
+2 . 3 T H E S AV I N G S A P PR OAC H : A R E F E R E N C E F R A M E W OR K
+
+( 55 )
+
+growth model with the existence of a natural resource that, contrarily to
+the Hotelling case, is a renewable one, but with a threshold eﬀect: beyond
+some level of pressure, the resource cannot renew itself at a rate compensating for its depreciation. Instead of using subscripts to denote the
+various capital goods, let K(t) and S(t) denote the stocks of these two kinds
+of capital, K(t) being the standard capital good and S(t) the stock of the
+natural resource. We ﬁrst write down a Cobb-Douglas global production
+function:
+Y(t) = K(t)α ,
+with K(t) being accumulated according to the net investment equation:
+K̇(t) = Y(t) − C(t) − δK(t) = σ Y(t) − δK(t),
+where C(t) is consumption of the produced good at t and where σ and δ
+are respectively the savings rate and the depreciation rate. We know that
+such a pattern of evolution for K implies an equilibrium capital stock K∗
+computed by equalizing K̇ to zero. We get.
+K∗ =
+
+σ
+δ
+
+1
+1−α
+
+.
+
+(2.18)
+
+From the pure point of view of K and Y, an economy that starts from
+a capital stock lower than K∗ will be on an ascending path. Conversely, if
+it starts from K(t) > K ∗ , this means that it saves too little to maintain its
+production. This can for instance occur if it has inherited a large capital
+stock due to high savings by previous generations, and suddenly moves to a
+less frugal behavior with lower savings, or if it is confronted to an increasing
+rate of obsolescence for its capital. In both cases, we can anticipate that the
+current well-being of the population will not be sustainable.
+Let us now turn to natural resources. We could have introduced them as
+an additional input for producing Y(t). This would have meant an explicit
+modeling of their rate of extraction. Let us rather choose a more compact
+modeling that consists in assuming that productive activity has a negative
+externality on S, and that this negative eﬀect directly aﬀects well-being
+by introducing S(t) in the utility function. This negative externality of
+production on S(t) will be supposed to creep in only beyond some threshold. Below a value Y = Y ∗ , even if some of this natural resource is consumed
+or damaged in the process, we assume that its spontaneous rate of regeneration is suﬃcient to keep its stock constant. But, above Y ∗ , the natural
+
+ 
+( 56 )
+
+
+
+resource starts depreciating irremediably, at a rate that increases with Y.
+More precisely, we write
+Ṡ(t) = −λ(Y(t))S(t),
+where λ(.) is zero before Y ∗ , increases from 0 to λmax between Y ∗ and a
+second threshold of Y ∗∗ , then remains permanently at this value of λmax .
+The last step is to deﬁne current utility as a function of C(t) and S(t).
+Here also the speciﬁcation is Cobb-Douglas, that is, U(t) = C(t) S(t)η . With
+this deﬁnition of current utility and a discount rate of µ, intertemporal
+utility writes down
+ 
+
+∞
+
+V(t) =
+
+e−µ(τ −t) C(τ )ε S(τ )η dτ .
+
+t
+
+Given this deﬁnition of V(t) and the laws of motion for all parameters of
+the economy, it is possible to compute the sustainability indicator at each
+period according to (2.16) for diﬀerent values of µ. For numerical illustrations, this index will be expressed as a fraction of total current well-being,
+consistent with the fact that accounting prices in (2.17) are expressed in
+utility units, hence
+(t) = [πK (t)K̇(t) + πS (t)Ṡ(t)]/U(t).
+This -indicator is the theoretical counterpart of ANS that one could
+try to construct empirically for this stylized economy, but using the exact
+imputed prices that are correctly associated with the “program” that we
+consider. Due to this use of “correct” prices, it could have deserved as well
+the denomination of “Genuine Savings” used earlier in the literature.
+We shall benchmark this indicator against two “nonmonetary” indicators focusing on the environmental dimension. The ﬁrst one,  
+1 , will
+simply be the current rate of change for the natural resource Ṡ/S, while the
+second,  
+2 , will try to be closer in spirit to the concept of ecological surplus.
+To this end, we use the fact that the threshold value Y ∗ can be interpreted
+as an environmental carrying capacity, that is, the maximum level of production that we can have without degrading our resources in an irreversible
+way. This second indicator at time t will be the relative diﬀerence between
+Y ∗ and Y(t):
+ 
+2 (t) = 1 −
+
+Y(t)
+.
+Y∗
+
+ 
+2 . 3 T H E S AV I N G S A P PR OAC H : A R E F E R E N C E F R A M E W OR K
+
+( 57 )
+
+It will be negative if the economy produces more than what is compatible with the preservation of its natural assets, and positive in the opposite
+situation.
+The three indicators (t),  
+1 (t), and  
+2 (t) are to be interpreted in the
+same qualitative way, with negative values announcing that current wellbeing is unsustainable either in the short run or the long run. Since all
+these indicators are expressed in relative terms, their order of magnitude
+will roughly fall into comparable brackets, and this will make graphical illustrations easier. (t) and  
+2 (t) have the additional property that they can
+also be positive, but such positive values will have diﬀerent meanings. For
+(t) it will necessarily result from a positive accumulation of produced capital, while for  
+2 (t), this will simply mean that the economy is living below
+the carrying capacity of its environment.
+Let us now compare the properties of these indicators under a scenario
+of environmental collapse for a society that is unable to control its production and consumption so that they stay a level that is compatible with
+the preservation of its natural resources. Assumptions are the following.
+Initial stocks are equal to one both for produced and for natural capital.
+The Cobb-Douglas production function has a coeﬃcient α = 13 . Under the
+initial conditions, output Y is equal to 1 and consumption to 0.8. With a
+constant savings rate of σ = 0.2 combined with the depreciation rate of
+δ = 0.05 this economy converges to the long-run capital level given by
+(2.18), that is, K∗ = 8, implying a long-run production level of 2 and a
+long-run consumption level of 1.6.
+From the pure point of view of consumption and production, the
+initial conditions are therefore perfectly sustainable, and, neglecting the
+environmental side of the coin, this sustainability would be correctly
+reﬂected in the positive net savings rate of this economy, initially equal
+to σ Y − δK = 0.15. This conventional measure of savings progressively
+approaches zero as society comes closer to its long-run standard of living,
+but always from above. The predicted path for C(t) appears on the upper
+line of ﬁgure 2.3a, which gives the main projected outcomes for this
+economy, that is, C, S, and U.
+Now, on the environmental side, this expansion of production starts
+leading to nonrenewal of the natural resource when Y(t) passes the ﬁrst
+threshold Y ∗ , which has been ﬁxed here at 1.5, with a depreciation rate for
+this natural capital that progressively increases until a maximum value of
+λmax = 0.25, reached when Y(t) passes the second threshold of Y ∗∗ = 3.
+With such values, net depletion of the natural resource starts at t = 18,
+and the negative consequences of this depletion on current well-being start
+outweighing the positive impact of the increasing C(t) in t = 27. After that,
+
+ 
+0 20 40 60 80 100
+a-Outcomes
+
+20
+0
+
+–0.6
+
+C
+U
+S
+
+–0.8
+
+0.0
+
+0.5
+
+–0.4
+
+–0.2
+
+1.0
+
+Πs (µ = 1%)
+Πs (µ = 5%)
+Πk (µ = 5%)
+Πk (µ = 1%)
+
+40
+
+φ1
+φ2
+Σ (µ = 5%)
+Σ (µ = 1%)
+
+60
+
+
+
+0.0
+
+0.2
+
+1.5
+
+0.4
+
+( 58 )
+
+0 20 40 60 80 100
+b-Sustainability indicators
+
+0 20 40 60 80 100
+c-Imputed prices
+
+Figure 2.3
+The behavior of three indicators under a scenario of environmental collapse
+
+this society that blindly ignores the environmental consequences of its economic expansion sees its level of current well-being U(t) decline inexorably,
+as illustrated by the two bottom lines of ﬁgure 2.3a. Such an evolution is
+certainly not optimal, but the goal here is not to discuss this ineﬃciency
+and the reasons for it. It is only to assess how well the indicators warn us
+about this situation of unsustainability.
+This is what is shown in ﬁgure 2.3b. All indicators warn about future
+unsustainability, since they all end up with negative values, but with
+degrees of anticipation that diﬀer. In fact, under the speciﬁcation retained
+here, the two physical indicators  
+1 and  
+2 do not anticipate the collapse
+very well. Both of them fall below zero when the natural resource starts
+being depleted, that is, before current utility U(t) itself starts declining, but
+much later than ﬁrst signals of nonsustainability sent by the indicator,
+which is here provided for two values of the discount factor µ, to illustrate
+the impact of this discount factor. Once again, the choice of this parameter
+does not need to be understood as expressing an attitude about how the
+welfare of diﬀerent generations has to be weighted. It can be seen as a technical parameter that can be tuned to make the indicator as long-sighted
+as one wishes. Here, choosing µ = 0.01 against µ = 0.05 is suﬃcient to
+immediately deliver the message that the projected path does not satisfy
+U(τ ) ≥ U(0) for all τ .
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 59 )
+
+How does the indicator achieve this result? Elements are provided in ﬁgure 2.3c. One explanation could have been that, from the start, we attribute
+a high value to natural capital. It is actually the case that this initial valuation is high, because the imputed price πS incorporates from the beginning
+the fact that natural capital matters for well-being and will increasingly
+do so due to its increasing relative scarcity. Expectedly, it then skyrockets
+when S(t) actually starts declining. However, under initial conditions, this
+cannot explain the message of nonsustainability delivered by the indicator, since this imputed price is applied to a physical variation Ṡ(t) that is
+initially equal to zero. The explanation can only come from the fact that
+the indicator attributes a negative value to produced capital, immediately
+incorporating the negative consequences that the accumulation of this capital good will have on long-run well-being, as shown on the bottom line of
+ﬁgure 2.3c.
+To sum up, the index has interesting properties, and even the potential for dominating the other two. In particular, a proper evaluation of
+accounting prices is able, in theory, to fully anticipate the consequences of
+environmental externalities of economic growth. In that sense, its use is
+not conﬁned at all to the assessment of situations of “weak” sustainability where capital accumulation is always able to oﬀset consequences of a
+deteriorating environment. In the context simulated here, accelerating capital accumulation in the hope of compensating losses of natural capital will
+aggravate the negative signal provided by , given the negative value of the
+shadow price πk .
+
+2.4 THE SAVINGS APPROACH: MANY PROBLEMS REMAIN
+Let us recap. We have the potential for an indicator that complements both
+GDP and any alternative measure of current welfare. The way it could work
+is the following. GDP measures economic activity but is not equivalent to
+welfare. A speciﬁc measure of current welfare U(t) is asked to tell us the
+level of current well-being that goes with this current level of GDP: some
+components contribute to welfare, others may not, and this current measure of welfare can be aﬀected by many other factors that are not captured
+by GDP. The quest for such an index will be the purpose of the next four
+chapters. But it would be counterproductive to ask this measure to look
+further in the future. This task must be left to another indicator devoted
+to measuring the global direction of the change between today and tomorrow, tomorrow being here understood as a long-term perspective, and this
+is what the index seems to oﬀer.
+
+ 
+( 60 )
+
+
+
+To further illustrate how such a set of indexes (GDP, U(t), and ) could
+work in practice, let us look at their expected behavior in the case of a sudden shock to produced or natural capital. It is a repeated criticism of GDP
+that, in such a case, it can send apparently irrelevant messages. If the consequence of the shock is to intensify economic activity because of repairing
+needs and if GDP is erroneously interpreted as an indicator of well-being,
+then the shock will be presented as a blessing, which is obvious nonsense.
+This paradox disappears when the signal given by GDP is put back in its
+right place within this suggested set of indicators. Several subcases can be
+considered:
+• If the shock is to produced capital (i.e., a storm or an earthquake) and
+if the economy reacts by trying to reconstitute lost capital, it can do
+so in two ways: either by increasing production—hence an increase in
+work intensity—or by increasing its savings—hence a drop in consumption. The ﬁrst case may indeed lead, as initially considered, to more GDP,
+but the U(t) index will prevent us from reading this as pure good news.
+Increased work eﬀort or reduced consumption will show up as a decline
+in the utility index, sending the correct message that the initial catastrophe was deﬁnitely not a blessing. However, under this kind of reaction,
+the index can correctly tell us that, thanks to this temporary eﬀort,
+sustainability is not threatened: the current generation pays its share of
+the bill generated by the catastrophe.
+• If the economy does not react by trying to reconstitute the capital that
+has been lost and maintains its ordinary standard of living without any
+additional production eﬀort, then the message can be a decrease in activity due to the fact that less capital has been available for production, but
+there will be no registered change in current well-being if consumption
+goes on unabated. The message on sustainability then depends upon the
+initial situation of the economy and the magnitude of the shock. If the
+economy, before the shock, was on a more than sustainable path, then
+the lack of defensive reaction to the shock can remain compatible with
+sustainability. But if it was close to strict sustainability, and if the shock
+is large, then the index should tell us that sustainability is no longer
+the case. This is the correct expression of the fact that the bill will have
+to be paid, sooner of later.
+• If the shock is to natural capital, the typology of messages is the same.
+If the society has the possibility to restore the initial level of this capital
+either by positive actions or by temporarily reducing its consumption,
+we can have the same kinds of messages about global economic activity (possibly increasing), current well-being (stable or declining), and
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 61 )
+
+sustainability (maintained or no more warranted). In the less favorable
+case where the damage to the environnement is deﬁnitive and cannot be repaired, in principle, increasing activity is not an option. The
+choice is only between reducing current well-being or threatening its
+sustainability.
+
+2.4.1 Monetization in practice
+So much, however, for positive messages. It cannot have escaped the reader
+how demanding an implementation of this theoretical framework would
+be. It is only in appearance that the
+indicator looks like an indicator
+requiring no more than current observations of ﬂows and values. It creates
+the illusion that we can measure sustainability in the way an accountant
+can assess the ﬁnancial viability of a ﬁrm or the way a household can assess
+whether it overconsumes its resources. In practice, there are very few of
+the components of this indicator that are directly measured or even measurable. Variations of stocks of the various physical, natural, or immaterial
+assets that matter for future well-being seem to be the least diﬃcult part
+of the job, especially in view of the fact that it is only variations that are
+requested, not full measures of global stocks. But even for things as simple as the variation of the diﬀerent forms of produced capital, we know
+that measurement is already imperfect. In particular, depreciation is measured on relatively conventional grounds, due to the lack of systematic
+inventories of equipments.
+The problem is increasingly diﬃcult as we move away from this apparently simple case. Consider the intermediate case of human capital, which
+represents an important part of empirical versions of the ANS. A proxy
+that is sometimes used is gross education expenditures, but this is obviously a very poor proxy. It does not take into account that human capital
+is embodied in individuals and depreciates as these individuals get older;
+it also neglects that a given level of education expenditures can be more
+or less eﬃcient in generating human capital. An alternative approach is to
+directly try to evaluate the stock of human capital as the aggregation of the
+expected discounted ﬂows of earnings that existing individuals can expect
+to draw over the remainder of their working lives given their current ages,
+employment positions, and skills (Jorgenson and Fraumeni 1989). Then it
+suﬃces to examine how this stock changes over time.
+This methodology fulﬁlls some of the requirements of sustainability
+assessment. It measures human capital not by the money that has been
+invested in its accumulation but by its actual earnings potential: an expensive but ineﬃcient education system will not be considered as automatically
+
+ 
+( 62 )
+
+
+
+generating large amounts of human capital. This also takes into account
+depreciation or obsolesence: shorter remaining working lives yield a lower
+valorization of current skills. If properly implemented, it can even correctly
+account for negative shocks to human capital formation that can threaten
+sustainability. For instance, a sudden drop in the eﬃciency of the schooling
+system should lead to an inﬂexion in the accumulation of skills and associated earnings potential. In a similar fashion, an economic crisis, if it is
+expected to have long-lasting eﬀects on the earnings potential of people
+losing their current jobs, should be recorded as having a negative impact on
+the global savings index.
+But all this remains limited in several ways. First, it focuses on contributions of human capital accumulation to productive and earning capacities,
+a point that can be discussed if we consider that education also contributes
+to well-being in ways that are not valued by labor markets—that is, the
+equivalent of the amenity eﬀects that were postulated in the model above
+in the case of natural capital. And despite the fact that it apparently relies
+on current observations—distributions of skills in the labor force and current measures of economic returns to these skills—it already corresponds
+to a projection of the return on these skills in the future. Believing that
+such returns are to remain constant in the long run is an assumption; it is
+not an empirical fact.
+The necessity to ground the indicator on projections rather than just current observations is all the more obvious for components Kk that represent
+natural capital. For part of this natural capital, stocks are not necessarily
+fully known—think of yet undiscovered mineral resources—but ﬂows are,
+and, for such goods, we beneﬁt from market valuations. Combining these
+two pieces of information on ﬂows and prices for evaluating πk K̇k means
+assuming that observed prices properly reﬂect how K̇k impacts the future
+discounted ﬂow of well-being, and exactly for the value of the discount
+rate that we want to use for our index. If not, we have to reconstruct the
+valuation of K̇k on the basis of full projections of U(t) and the resulting discounted sum V(K1 (t) . . . , Km (t)) exactly as we would spontaneously do for
+those natural goods for which no markets exist and for which imputation
+is the only way to provide valuation.
+In addition, the stylized example proposed above has shown that the full
+implementation of the proposed framework not only requires we perform
+imputation for goods without markets or with notoriously ineﬃcient markets, but also for all other goods, since the absence or ineﬃciency of some
+markets potentially biases the information provided by the whole system of
+prices. In the example provided, this went to the extreme point of requiring
+a negative valuation for the accumulation of produced capital. This stylized
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 63 )
+
+example was admittedly conceived so as to yield such a result, but it is sufﬁcient to prove that the problem exists. And this example also shows that
+the fact of not needing more than measures of changes in stocks is itself
+illusory. To get the proper estimate of how to value a given change in the
+stock of good k, we generally need to know the magnitude of the stock, and
+in fact of the stocks of all forms of capital goods. Computing derivatives
+of the form ∂V(K1 (t) . . . , Km (t))/∂Kk cannot be done without knowing the
+whole state (K1 (t) . . . , Km (t)) of the socio-eco-environmental system and
+how it determines the entire future path of this system.
+In short, no miracle happened. Unless we believe the ﬁction that all the
+relevant information about future trends is adequately reﬂected in current
+observed prices, there is no way to measure any characteristic of the future
+without making predictions, and a basic prerequisite of any projection is a
+full knowledge of the current state of the system that we need to predict,
+combined with a full knowledge of the rules governing its future evolution. All this puts a strong demand on index builders and raises, in turn,
+additional questions.
+First, the ultimate utility of the index one seeks to construct has to be
+clariﬁed. If the purpose is to know whether the predicted path for U(t)
+crosses the horizontal line U = U(0) downward at some point in the future,
+direct inspection of a graph of U(t) is suﬃcient, once it has been projected.
+No index is needed for that. Let us, however, ignore this argument. It is
+not uncommon to have summary indicators synthetizing the full results of
+extensive projection exercises: such is, for instance, the case of many sustainability indicators used in the ﬁnancial or ﬁscal domain. The main point
+is more fundamental. It is the fact that such perfect predictions are not
+possible, just because of the several forms of uncertainties that need to be
+dealt with.
+More precisely, three main forms of uncertainty can be roughly distinguished. One can primarily think of the global class of “technological”
+uncertainties, reﬂecting the fact that parameters governing economicenvironmental interactions are far from being known with certainty. Even
+if they were known with precision for the current period, they can evolve
+over time in unpredictable ways, due to various external shocks. A second
+category could be labeled “normative” uncertainty: we wonder about the
+preservation of a level U(0) for the next generations but without being sure
+of the shape of their future preferences. The last category is what could
+be called “behavioral indeterminacy.” The approach proceeds as if future
+behavior were fully predetermined. Yet, even without the other two forms
+of uncertainties, several future paths remain possible for the system. The
+fact of choosing only one of these paths (the “program”) may make the
+
+ 
+( 64 )
+
+
+
+indicator less appropriate than it looks at ﬁrst sight. It is on this last
+point that we shall concentrate ﬁrst.
+
+2.4.2 Behavioral indeterminacy, or when “weak” indicators
+can turn out too strong
+The choice of a reference “program” is a standard practice for projection
+exercises. Projections are predictions of the “what if” type. The approach
+cannot be blamed for also applying this approach. The reference scenario
+can be, for example, a “business as usual” (BAU) scenario assuming the
+indeﬁnite prolongation of current behavior. In that case, the role of the
+indicator is to provide a summary statement of where such a BAU scenario drives us. But BAU scenarios are generally accompanied by variants,
+including scenarios where behavior or policies change at some future points
+in time. The “what if?” inquiry naturally goes along with questions of the
+“what else?” type.
+The simple pedagogical example developed above gives a strong and simple example of how important this point can be. The attentive reader may
+have noticed a paradox of the “what if” scenario used in this example.
+It describes as “unsustainable” the initial consumption/savings behavior
+because of the ultimate consequences of its permanent application all over
+the prediction horizon. Formally, it is fully correct to say that “if” the same
+accumulation behavior goes on unabated, it will ultimately trigger an irreversible deterioration of the environment and of living conditions. Yet this
+message ignores alternative options. For instance, since we start with a
+level of production lower than the environmental threshold Y ∗ , it is possible to accumulate capital and enlarge production capacity at the same pace
+up to this threshold, then suddenly reduce accumulation to replacement
+needs and beneﬁt after that from enhanced consumption opportunities
+without entering the regime of permanent environmental degradation.
+Thus, it is totally unfair to say that people living at time t = 0 and saving at the assumed rate of 20% are transmitting an unsustainable state of
+aﬀairs to their descendants, as was done in subsection 2.3.3 with the most
+farsighted version of the index (i.e., with µ = 0.01). The reverse is the
+truth. By saving more than required for capital replacement, these people
+improve the opportunities of people who live just after them, and they do
+so without compromising the opportunities of people coming even later.
+No immediate irreversibility is created by the fact of accumulating capital
+at early stages of development as long as we stay below the environmental
+threshold.
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 65 )
+
+This result is worth insisting upon, for it clearly shows how simplistic it
+is to associate “monetary” and “weak” approaches to sustainability. Here,
+a so-called “weak” indicator sends messages of unsustainability at periods
+where it should not: it appears too strong. This shows that, despite its elegance and apparent evidence, the approach to sustainability still misses
+important points. It is not the “capital” approach to sustainability that is in
+question. What is at stake is too narrow a way of predicting consequences of
+current accumulation or decumulation of capital goods. The exact question
+about sustainability should not be to know whether one speciﬁc potential
+path for U is always above the initial value U(0). The question must be
+enlarged to the whole set of paths that remain open to future generations
+once current consumption choices have been made. Following the words of
+Pezzey (1997), we need to shift to a more resourcist view of sustainability,
+without any ambition to predict how these resources will be eﬀectively used
+by future cohorts. A similar view can be found in Asheim (2007).
+Hamilton and Clemens (1999) and Pezzey (2004) have noted that the
+index still provides a test of unsustainability that covers all possible future
+paths (not just a particular program) when the current actions in t are
+part of a program that maximizes the intertemporal objective V(t). When
+U (t) > Ū, it is then truly impossible for future generations to maintain
+U (t) over all periods, no matter what they do. Indeed, if it were possible, future generations could then follow a feasible path with a greater Ū,
+therefore a greater V(t), in contradiction to the optimality assumption. This
+observation is interesting, but one should look for a better test, namely, a
+test that applies to suboptimal situations and that provides a necessary and
+suﬃcient condition of sustainability, not just a necessary condition.
+Although this is rare in the literature, we believe that formalizing this
+approach to sustainability is easier in discrete time, because of the need to
+clearly separate the state of the world and the resulting opportunities at
+the beginning of period 1 compared to those that existed at the beginning
+of period 0. Let us adapt our notations to this discrete time framework. Kt
+will again be the vector of “capital” goods that matter for well-being and
+that are available at the beginning of period t. At will be the set of “actions”
+chosen by people during the same discrete period t. These “actions,” in
+particular, include consumption behavior. The set they can be chosen from
+is delimited by the current availability of capital goods, that is, a constraint
+of the form At ∈  
+(Kt ). Such actions, combined with the capital stocks
+available at the beginning of the period, determine what levels of capital
+stocks will be available at the beginning of the next period, through an
+equation Kt+1 = f (At , Kt ), which is the discrete time equivalent to equation (2.7) of our inital continuous time problem. The same variables also
+
+ 
+( 66 )
+
+
+
+determine current utility U(At , Kt ), assuming once again an amenity value
+for capital goods.
+Based on all these deﬁnitions, we can determine  
+(K1 ) the set of future
+actions and resulting capital stocks (A1 , A2 , . . . , K2 , K3 , . . .) that will be feasible starting with the stocks K1 , that is, the set of opportunities that
+remain open once actions have been chosen for period 0. Within this set
+we can compute the maximum level of well-being U such that at least
+one element of  
+(K1 ) satisﬁes U(At , Kt ) ≥ U for all t ≥ 1—this is formally
+equivalent to applying the maximin criterion to the selection of paths, but
+there is no assumption that the maximin path is followed. Let V(K1 ) denote
+this value of U: it represents the upper bound of what K1 can oﬀer to the
+least well-oﬀ of future generations. A natural deﬁnition of sustainability
+is then to say that the current utility level U(A0 , K0 ) is sustainable if it is
+less or equal to V(f (A0 , K0 )), that is, if we maintain for every future generation the possibility of living as well as we do. This requires no a priori
+assumption concerning what future generations will really do with these
+possibilities. For instance, egoistic people living at period 1 may choose
+to overconsume what they inherited, forcing strong drops in utility levels
+for some of their descendants. Alternatively, if these persons are strongly
+altruistic, they may deliberately adopt a standard of living lower than the
+initial U(A0 , K0 ) in order to widen the opportunities oﬀered to their own
+children or grandchildren. In both cases, the resulting trajectories will violate our initial deﬁnition of sustainability, the one that was illustrated by
+ﬁgure 2.2, since these trajectories will at some point fall below the initial utility level of t = 0. But people that lived in period 0 cannot be held
+liable for this. The only requirement we must have for the generation
+living at t = 0 is that their behavior does not force such future welfare
+reductions.
+Incidentally, this approach is compatible with both a monetary or
+“footprint” way of formulating sustainability, conﬁrming than the choice
+between the two metrics is more a matter of presentation than a question
+about fundamental principles. The monetary version comes out if we use
+monetary units to express utility levels: V(K1 ) − U(A0 , K0 ) can be interpreted as a sustainability gap, with the dimensionless alternative of the
+relative gap V(K1 )/U(A0 , K0 ) − 1. But we can as well use this framework
+for a generalized version of the global footprint. Let λ be a parameter
+such that V(f (A0 , λK0 )) = U(A0 , K0 ). This parameter λ represents in which
+proportion the initial capital endowment has to be increased in order to
+ensure sustainability for unchanged values of initial actions A0 . A value
+that is greater than one will indicate that we are living beyond what can
+be sustainably warranted given the true capital stocks K0 .
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 67 )
+
+Such an approach has obvious links with the maximin approach to intergenerational equity, introduced early on in the debate on natural resources
+by Solow (1974) and Hartwick (1977), although the idea is not to assume
+that society behaves in a way that maximizes this criterion, exactly as
+we relaxed the optimality criterion when we moved from the Weitzman
+argument to the elaboration of the index.2
+It also has very close ties with the so-called viability approach of dynamical systems (Aubin 1991). A system is said to be viable as long as there
+remains at least one trajectory from the current point that does not violate
+a set of predeﬁned constraints for variables of interest. Here the constraint
+consists in forbidding drops of the future utility level Ut below its current
+level U0 . Needless to say, however, shedding the assumption of a unique
+reference “program” in this way does not simplify the practical implementation of the index. Even in simple deterministic settings, the deﬁnition of
+viable trajectories or “viability kernels” is not immediate (see examples in
+Bene, Doyen, and Gabay 2001; Martinet and Doyen 2007; or Baumgärtner
+and Quass 2009). At this stage, we are clearly far from being able to
+translate it literally for the building of applied sustainability indicators.
+
+2.4.3 Technological and normative uncertainties
+What if we add the fact that all of this takes place in an uncertain environment, which we labeled as technological uncertainty? Whatever the basic
+principles upon which sustainability indicators are constructed, uncertainty means that they can give no more than a likelihood that we are or
+are not on an unsustainable path, with the symmetrical potential errors of
+warning us unnecessarily of problems that will not materialize or, on the
+other hand, letting us believe that we are on a sustainable path when we
+are not. This issue is discussed in Asheim and Brekke (2002) and Cairns
+and Long (2006).
+Let us sketch out how this can be done within the framework of the
+last subsection. Consider again the maximin “value” of the capital stock
+that is left for the beginning of period 1, V(K1 ), and assume that this value
+has a cumulative distribution function F(v). In this case, 1 − F(U(A0 , K0 ))
+gives us the probability that the current level of well-being U(A0 , K0 ), under
+actions A0 , will be sustainable in the future.
+We can also be interested in more global aspects of the distribution of
+outcomes of current actions. For instance, current policy A0 may give a
+2. Asheim, Buchholz, and Withagen (2003) provide a very useful analysis of the
+Hartwick approach and connect it to the question of sustainability.
+
+ 
+( 68 )
+
+
+
+lower global probability of unsustainability than policy A0 but, in case of
+unsustainability, may have much more negative consequences. One may
+think, for instance, of investment in a technological innovation expected to
+act as a subtitute for the exhaustion of some natural resources. In a majority of cases, this innovation can be expected to be a big help in sustaining
+current well-being, but, in some rare catastrophic cases, it may make our
+descendants much worse oﬀ than would have been the case without it,
+hence the necessity of an arbitrage. It is only if F(v) ≤ F (v) for all v that
+policy A0 can be viewed as deﬁnitely preferable to policy A0 .
+Of paramount diﬃculty here is the fact that the problem is more
+than just putting probability distributions on parameters of an otherwise
+consensual model of socio-eco-environmental interactions. We are in a situation of more radical uncertainty: uncertainty does not apply only to the
+parameters of the model that govern these interactions, it applies to the
+structure of the model itself. It applies also to the measurement of current
+stocks, and even to the list of these natural assets whose stocks and future
+evolutions have to be taken into account. It should come as no surprise
+that there is no way for sustainability indexes to avoid such diﬃculties. And
+these are clearly diﬃculties that bring us once again well beyond the problems usually faced by statisticians whose ordinary job essentially consists
+in measuring the current state of the world. Already at this level, there can
+be measurement problems and divergences in the way to properly measure
+the current state of aﬀairs. But trying to quantify sustainability adds the
+dimension of assessing the future, and heterogeneity of beliefs concerning
+this future come into play with all the consequences one can guess.
+A still more fundamental source of uncertainty comes from our third
+proposed dimension of uncertainty, the normative one. Intuitively, there
+can be as many deﬁnitions of sustainability as there are deﬁnitions of what
+we want to sustain, and it is what we mean here by “normative” uncertainty
+that applies both to current and future preferences. The indicator is completely dependent on the choice made for function U, and this is clearly not
+a minor problem. This applies as well to the alternative approach of the
+previous subsection, where this U function kept a similar role. Empirically,
+one can try to infer the form of U from current observations of how people value environmental factors compared to economic ones. Since this
+cannot be done from observed prices, we must rely on other means, such
+as contingent valuations, or direct measures of the impact of environmental amenities on indexes of subjective well-being. This is going to be the
+question addressed in chapters 4 and 5.
+But the prospective problem remains. Can contingent evaluations or
+subjective measures established today in a certain eco-environmental
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 69 )
+
+setting be used to predict the valuations of future generations in settings
+that may have become very diﬀerent? It may be for instance that our
+descendants will become very sensitive to the relative scarcity of some
+environmental goods to which we pay little attention today because they
+currently remain very abundant. Should the precaution principle command
+to immediately put a high value on these items just because we think that
+our descendants may wish to do so? On the contrary, some antienvironmentalists may argue that future generations may be completely indiﬀerent
+to the disappearance of some environmental amenities that we currently
+value only because we are used to doing so. This brings the additional complexity stemming from the possible path dependence of function U. For
+instance, just to be provocative, a strict Easterlinian believing that people permanently adapt their aspirations to their realizations could argue
+that U(t) is nothing else than a constant and, under such an assumption,
+any growth or degrowth path is a path of sustained well-being. Such is, of
+course, not the position we wish to defend—see chapter 5—but it puts in
+crude light how relative the deﬁnition of sustainability may be.
+To give another aspect of this normative problem, one can also mention the importance of knowing how U aggregates individual preferences,
+that is, the distributive dimensions of current well-being. If for instance
+one considers that a headline indicator of current well-being must be the
+disposable income of the bottom 80% of the population, or of the bottom
+50%, rather than total disposable income, then indicators of sustainability
+must be adapted to such an objective function. In a world with natural tendencies to increasing inequalities within countries, messages concerning
+sustainability will diﬀer depending on the goal that the present generation adopts. A speciﬁc attention to distributional issues may even suggest
+enlarging the list of “capital” goods to be taken into account: “sustainability” of well-being for the bottom x% of the population may require
+some speciﬁc investment in institutions that help protect this population
+from poverty, which implies also considering such institutions as forms of
+“assets.”
+
+2.4.4 An additional problem: the cross-national dimension
+of unsustainability
+Distributive questions also arise when addressing the international dimension of the question. The need for a global view of sustainability is beyond
+discussion and is central in debates about climate change. This will be our
+last point in this chapter.
+
+ 
+( 70 )
+
+
+
+Primarily, the quest of alternatives to GDPs takes place in the perspective of building “national” or “domestic” indicators that will be used to
+compare countries’ performances to one another. Such indicators remain
+nation-based. This is not to say that the level of well-being for people living in country A at time t is not under the inﬂuence of what is done in
+other countries at the same period. Socioeconomic and environmental policies followed by all partners or competitors of country A aﬀect well-being
+in this country. For instance, weak labor regulations adopted in country B
+may create labor market problems in country A. Or pollutions that cross
+the border from B to A may have adverse impacts on health in country A.
+Yet, as long as it is current well-being that is our concern, we do not need
+to look across the borders to capture these eﬀects. In principle, we directly
+observe these consequences within country A: a high unemployment rate,
+low wages, poor health, and so on.
+Moving to the assessment of sustainability, things become more complicated. The future well-being of country A can be aﬀected by choices
+currently made in country B or made later by this same country, with
+consequences that are not immediately observable to the statisticians of
+country A. The way to deal with such interactions is another source of divergence between sustainability indicators such as the ANS and the Ecological
+Footprint. Depending on which index is chosen, the least developed or
+the most developed countries are the most severely concerned with unsustainability, the former because of underinvestment in physical and natural
+capital or because of a poor management of their natural resources, the latter because of their high standard of living that puts pressure on the world
+ecosystem and natural assets. The viability approach leans on the side of
+ANS, as it evaluates whether future generations of a given country have
+the means to maintain their living standards.
+Advocates of the ANS can defend the ﬁrst view by arguing that, if markets work properly, the pressure that developed countries exert on other
+countries’ resources is reﬂected in the prices they pay for importing these
+resources. If, despite the cost of these imports, they are still able to have a
+positive ANS, this means that they invest enough to compensate for their
+consumption of natural resources. It is then the responsibility of exporting
+countries to reinvest the income from their exports in suﬃcient quantities
+if they want to be themselves on sustainable paths.
+Yet prices are informative only under an assumption of eﬃcient markets. If markets are not eﬃcient and if the natural resource is underpriced, then the importing countries beneﬁt from an implicit subsidy
+and the exporting ones are taxed. This means that eﬀective sustainability of the former is overestimated, while the sustainability of the latter is
+
+ 
+2 . 4 T H E S AV I N G S A P PR OAC H : M A N Y PR OB L E M S R E M A I N
+
+( 71 )
+
+underestimated. And this problem will be all the more crucial when there
+are no markets at all, or in the presence of strong externalities.
+As for the single-country case, we cannot accept an approach ignoring
+problems raised by externalities or an ineﬃcient functioning of markets.
+But the task is not easy. Consider the following, extremely stylized twocountry example. Physical capital is ignored. Production takes place with
+labor as the only input, but with external eﬀects on the stock of a natural
+resource that is now a global public good with free access and available in
+quantity S(t) at time t. We also neglect the spontaneous regeneration of
+this good. It is therefore treated as an exhaustible resource.
+We assume that the two countries produce and consume at each period
+in quantities C1 (t) = C2 (t), but with diﬀerent technologies. Country 2 uses
+a clean technology that has no impact on S(t), while country 1 uses a “dirty”
+one that leads to a depreciation of S(t) by an amount proportional to C1 (t),
+that is, dS(t) = −λC1 (t).
+Last, we push further the asymmetry by assuming that it is only country
+2 that is aﬀected by this loss in S(t), for instance with a current utility funcµ −µ
+tion of the same form as before, that is, U2 (C2 , S) = C2 S1 . Country 1 is
+completely indiﬀerent to the level of S(t), for instance because its geographical characteristics fully protect it from the consequences of a declining S(t).
+Its instantaneous utility function may therefore be U1 (C1 , S) = C1 . With
+such a setting it is natural to redeﬁne countries 1 and 2 as being respectively
+“the polluter” and “the polluted.”
+What can be the transcription of the general rules presented in this twocountry setting? One possibility consists in computing country-speciﬁc
+accounting prices for S(t), this diﬀerence reﬂecting the fact that the two
+countries suﬀer diﬀerently from variations in S(t). If V1 and V2 are the
+intertemporal utilities for the two countries, we therefore deﬁne π1 =
+∂V1 /∂S and π2 = ∂V2 /∂S. Next, given that the depreciation of S(t) is
+global, it is the overall variation of S(t) over time that must be deducted
+from each country’s
+weighted with the country-speciﬁc accounting
+prices. We therefore get
+1 (t)
+
+= π1 (t)dS(t) = −π1 (t)λC1 (t),
+
+(2.19)
+
+2 (t)
+
+= π2 (t)dS(t) = −π2 (t)λC1 (t).
+
+(2.20)
+
+and
+
+It is easy to guess that π1 (t) will be identically equal to zero: the polluter is not impacted by changes in S(t); hence it gives no value to this asset
+
+ 
+( 72 )
+
+
+
+and it considers itself sustainable. On the other hand, the polluted will give
+a positive value π2 (t) > 0 to this asset, and its standard of living is not
+sustainable. The viability indicators would deliver the same message.
+From a certain point of view, these results make sense. It is true that the
+polluter is on a sustainable path while the polluted is not. But from another
+point of view, the message to policymakers is misleading. Country 2 can do
+nothing to restore its sustainability. It is only a change in the polluter’s
+technology that can help restore sustainability for the polluted country.
+The solution to this paradox is not necessarily to throw away indicators
+like (2.19) and (2.20)—the information they convey is not meaningless—
+but rather to combine them with another set of indicators that would not
+assess each country’s own sustainability, but rather the contributions of the
+diﬀerent countries to global unsustainability. If we rewrite more generally
+dS1 and dS2 , the contributions by each country to the deterioration of the
+global stock (with dS2 = 0 in our particular example), (2.19) and (2.20) are
+rewritten as
+1 (t)
+
+= π1 (t)[dS1 (t) + dS2 (t)],
+
+2 (t)
+
+= π2 (t)[dS1 (t) + dS2 (t)],
+
+and we see immediately that the elements of these two equations can be
+rearranged as
+
+1 (t)
+
+= [π1 (t) + π2 (t)]dS1 (t),
+
+(2.21)
+
+
+2 (t)
+
+= [π1 (t) + π2 (t)]dS2 (t).
+
+(2.22)
+
+and
+
+In this alternative formulation, the global accounting price π (t) =
+π1 (t) + π2 (t) can be interpreted as a global impact of a given change in
+the global stock dS on an aggregate index of intertemporal well-being
+V = V1 + V2 , and the contribution of each country to global sustainability or unsustainability is equal to its own contribution to dS, weighted
+by this implicit price. This is, for instance, the line that is followed when
+one estimates contributions of countries to climatic change using their
+respective levels of GHG emissions, valued at a common price supposed
+to reﬂect global worldwide damages from the marginal ton of CO2 .
+The double accounting system (2.19–2.20) and (2.21–2.22) illustrates
+that unsustainability and contributions to global unsustainability are two
+diﬀerent things that both deserve measurement. A country with a highly
+
+ 
+2 . 5 C O N C L U S IO N : W H E R E T O G O F R O M H E R E ?
+
+( 73 )
+
+negative dSi and πi = 0 can be sustainable while strongly contributing to
+global unsustainability, and the reverse can be true as well.
+Now, one cannot hide that all this requires, in turn, many disputable
+assumptions. There are, for instance, two additivity assumptions, which are
+respectively the additivity of the dSi ’s and the idea that V = V1 + V2 has
+some sense as a global well-being index, that is, that national well-beings
+can be aggregated in an utilitarian way. And this way of tackling the multidimensional aspect of sustainability still raises the main general problem
+that we have met all through this chapter, that is, our ability to fully project
+long-term consequences of changes in S, now in a simultaneous way for all
+countries in the world.
+
+2.5 CONCLUSION: WHERE TO GO FROM HERE?
+Popular wisdom says that problems that are clearly laid out are half
+resolved. Is it the case here? Yes and no. For those longing for a single
+headline indicator of sustainability immune to any form of contestation,
+the answer sounds clearly negative. We stopped less than halfway to such a
+dream. Many obstacles have surged on the road that seem unsurmountable,
+at least within the realm of ordinary statistical production. The basic reason
+now sounds obvious. Informing about sustainability is informing about the
+future. It is not a pure measurement issue, it is one of global prediction. Yet,
+on a more constructive side, breakthroughs are very signiﬁcant. Even if the
+ultimate goal stays out of reach, we come back with several recommendations for what could be second-best solutions. Let us recapitulate the main
+messages.
+First of all, we know much better what we need to measure and what
+for. Theoretical detours have helped identify objectives that are not very
+interesting to pursue. Aiming at a statistical transcription of the concept
+of discounted social well-being is probably a waste of time. The alternative
+concepts of sustainable standard of living or constant equivalent standard
+of living do not appear very relevant either, despite looking more appealing
+at ﬁrst sight. They correspond to what statisticians have instinctively tried
+to build under the denomination of green GDP, and greening GDP has often
+been perceived as the natural answer to the lack of concern of standard GDP
+for sustainability issues. But it is probably not fortuitous that these eﬀorts
+have not been very successful so far.
+The reason is deeper than the diﬃculty of gathering all the necessary
+information. It is that the return to such an investment is not warranted.
+We do not know exactly how such an indicator could be used if it happened
+
+ 
+( 74 )
+
+
+
+to be built systematically. It would admittedly produce some interesting
+revisions of country rankings, favoring countries that are able to produce
+more with lower pressure on the earth’s resources, but, in itself, this indicator says nothing about sustainability. Even if it were a measure of sustainable consumption—and we have seen that this is not a warranted view—it
+would inform about sustainability only once compared to actual consumption. Messages are deﬁnitely clearer if we can directly communicate the
+results of this comparison, and this is what sustainability indicators should
+be about. What we need are indicators of overconsumption of resources or
+indicators of savings/dissavings.
+If we address the problem along this line, it then splits into two subproblems. The ﬁrst one is the identiﬁcation of all those assets that matter for
+future well-being, their current stocks, and the measurement of how they
+evolve over time. This remains within the competence of statisticans, and
+it is indeed on this front that most of their eﬀorts are currently oriented.
+The second step is where diﬃculties become insurmountable. It is
+about synthetizing all this information. Some factors generally go on being
+accumulated—produced physical capital, human capital, intangible capital
+such as knowledge or institutions—while other capital goods are depleted,
+generally natural capital, either in a reversible way, or fully irreversibly, as
+it is the case for exhaustible ressources. It is when we come to aggregating
+all this information that we are caught up by the “futurity” problem raised
+by Samuelson more than 50 years ago. A confortable solution would have
+been be to assume that people acting on markets are correctly informed
+about how these assets will matter for future well-being and do manage this
+information in an optimal way. Current-price aggregation of the usual kind
+would then have been one solution to consider. But such a belief about the
+clearsightedness of markets is unreasonable. The burden of the evaluation
+is thus shifted to the index builder, and what we ask him is a considerable
+task. We ask him to provide the correct assessment of what counts, be it in
+monetary or nonmonetary terms.
+In such a situation, it is not surprising to ﬁnd room for very diﬀerent assessments of sustainability, reﬂected by the various indicators of
+this kind already available. These diﬀerences simply reﬂect diﬀerent beliefs
+about how future well-being will be generated. What are the prospects
+for substituting such and such produced resource for natural resources
+that are becoming excessively scarce? When are we going to cross thresholds beyond which such and such renewable resource starts deteriorating
+in an irreversible way? What are the environmental externalities of such
+and such aspects of our production process? How do these externalities cross the borders of the diﬀerent countries for which we are asked
+
+ 
+2 . 5 C O N C L U S IO N : W H E R E T O G O F R O M H E R E ?
+
+( 75 )
+
+to build sustainability indicators? Or, to move away from the sole ecoenvironmental ﬁeld, do our institutions evolve in a direction that is favorable to future quality of life? Here the statistician is urged to convert
+himself into a multidisciplinary prospectivist. The task is daunting. It is
+easily understandable why answers to this request, until now, have essentially consisted in providing building blocks for this global prospective, and
+not the full vision.
+Within such a state of aﬀairs, the second-best solution for statisticians
+emerges relatively neatly, that is, focusing on what they think they can do,
+the production of well-structured and as focused as possible dashboards of
+information on these assets and their dynamics, completed where possible with relevant information about what we think to be critical thresholds
+for the stocks of these assets. Eﬀorts toward more comprehensive messages on sustainability are not at all to be given up, and the choice of ﬁnal
+metrics for expressing their results remains open: it can be done in monetary terms or following some generalized version of the “footprint” way
+of quantifying sustainability. But problems encountered in the two cases
+are roughly the same. Due to the many assumptions required for such exercises, they clearly fall into another branch of activity, more exploratory and
+more open to controversy. We shall come back to these messages in the
+general conclusion of the volume.
+Now, another clariﬁcation provided by this chapter is that there can
+be no sustainability assessment without a prior consensus about what we
+want to sustain, that is, what content we give to the notion of current social
+well-being. This is the question addressed in the four next chapters.
