@@ -1,0 +1,1064 @@
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+Chapter 6. Distributional national accounts
+
+Facundo Alvaredo, Lucas Chancel, Thomas Piketty, Emmanuel Saez and Gabriel Zucman
+This chapter summarises concepts, methods, and goals of the WID.world project, the World
+Inequality Database, along with some first results from this source. WID.world builds on
+the experience of the World Top Incomes Database (WTID) to construct time-series on the
+concentration of income at the very top of the distribution in more than 30 countries, to
+include wealth distribution and developing as well as developed countries. The ultimate
+goal of WID.world is to provide annual estimates of the distribution of income and wealth
+using concepts consistent with macro-economic accounts, i.e. to construct distributional
+national accounts (DINA). WID.world also aims to produce synthetic micro-files providing
+online information on income and wealth (i.e. individual level data that do not result from
+direct observation but rather through estimates that reproduce the observed distribution of
+the underlying data). The long-run aim of the WID.world project is to release income and
+wealth synthetic DINA micro-files for all countries on an annual basis.
+
+Facundo Alvaredo is Professor and Co-Director of WID.world at Paris School of Economics and
+IIEP-UBA-Conicet, Lucas Chancel is Co-Director of WID.world at Paris School of Economics and
+IDDRI, Thomas Piketty is Professor and Co-Director of WID.world at Paris School of Economics,
+Emmanuel Saez is Professor and Co-Director of WID.world at University of California, Berkeley,
+and Gabriel Zucman is Professor and Co-Director of WID.world at the University of California,
+Berkeley. This chapter summarises recent work behind the WID.world project. In particular, we
+refer the reader to the following papers: Alvaredo et al., 2016; Piketty, Saez and Zucman, 2016; Saez
+and Zucman, 2016; Garbinti, Goupille-Lebret and Piketty, 2016, 2017; Piketty, Yang and Zucman,
+2017; Alvaredo, Atkinson and Morelli, 2017, 2018; Alvaredo et al., 2017. We would like to thank,
+for helpful discussions at the various meetings and seminars that took place since January 2014, the
+members of the High-Level Expert Group on the Measurement of Economic Performance and Social
+Progress, as well as Marco Mira D’Ercole, Martine Durand, Jorrit Zwijnenburg, Peter Van de Ven
+(all from the OECD Statistics and Data Directorate), and participants at the HLEG Workshop on
+Measuring Inequalities of Income and Wealth (Berlin, September 2015).
+
+The opinions expressed and arguments employed in the contributions below are those of the author(s) and do
+not necessarily reflect the official views of the OECD or of the governments of its member countries.
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 143
+
+144 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+6.1. Introduction
+Renewed interest in the long-run evolution of the distribution of income and wealth has
+given rise to a flourishing literature over the past 15 years. In particular, by combining
+historical tax and national accounts data, a series of studies has constructed time-series of
+the top income share for a large number of countries (see Piketty, 2001, 2003; Piketty and
+Saez, 2003; and the two multi-country volumes on top incomes edited by Atkinson and
+Piketty, 2007, 2010; see also Atkinson, Piketty and Saez, 2011; and Alvaredo et al., 2013
+for surveys of this literature). These projects generated a large volume of data, intended as
+a research resource for further analysis as well as a source to inform the public debate on
+income inequality. To a large extent, this literature has followed the pioneering work and
+methodology of Kuznets (1953) and Atkinson and Harrison (1978) on the long-run
+evolution of income and wealth distribution, extending it to many more countries and years.
+The World Top Incomes Database-WTID (Alvaredo et al., 2011-2015) was created in
+January 2011 to provide convenient and free access to all the existing time series generated
+by this stream of work. Thanks to the contributions of over a hundred researchers, the WTID
+expanded to include time-series on income concentration for more than 30 countries,
+spanning most of the 20th, the early 21st centuries and, in some cases, going back to the
+19th century. The key innovation of this research has been to exploit tax, survey and
+national accounts data in a systematic manner. This has permitted the estimation of longer
+and more reliable time-series on the top income shares than previous inequality databases
+(which generally rely on self-reported survey data, with usually large under-coverage and
+under-reporting problems at the top, and limited time span). These new series had a large
+impact on the discussion on global inequality. In particular, by making it possible to
+compare the shares captured by top income groups (e.g. the top 1%) over long periods of
+time and across countries, they contributed to reveal new facts and refocus the discussion
+on rising inequality.
+In December 2015 the WTID was subsumed into the WID.world, the World Wealth and
+Income Database, renamed in 2017 the World Inequality Database. In addition to the
+WTID top income shares series, the first version of WID.world included an updated
+historical database on the long-run evolution of aggregate wealth-to-income ratios and on
+the changing structure of national wealth and national income first developed in Piketty
+and Zucman (2014).1 The name changed from WTID to WID.world in order to reflect the
+extension in scope and ambition of the database, and the new emphasis on both wealth and
+income.
+In January 2017 a new website was also launched (www.wid.world), with better data
+visualisation tools and more extensive data coverage. The database is currently being
+extended into three main directions. First, the project aims to cover more developing
+countries and not only developed countries; in recent years, tax information has been
+released in a number of emerging economies, including China, Brazil, India, Mexico, and
+South Africa. Second, WID.world plans to provide more and updated series on wealth-toincome ratios and the distribution of wealth, and not only on income. Third, we aim to
+cover the entire distribution of income and wealth, and not only of top groups. The overall
+long-run objective is to produce Distributional National Accounts (DINA).
+The development of economic statistics is a historical lengthy process that involves
+economic theory, the limits of available data, the construction of a body of conventions,
+and the agreement of the community of scholars. Macro-economic aggregates (GDP,
+national income) from the System of National Accounts (SNA) are the most widely used
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+measures of economic activity. In the beginning, national accountants were also experts in
+distributional issues, as the inter-linkages between the estimation of national income and
+its distribution were clearly recognised. However, the focus of the SNA has so far always
+been on the main sectors in the economy, only distinguishing results for the household
+sector as a whole, and not providing insights into disparities within the household sector.
+Partly as a result of these developments, the discrepancies between income levels and
+growth rates displayed in national accounts and the ones displayed in micro statistics and
+underlying distributional data have been growing in all dimensions: income, consumption,
+wealth (see, for example, Deaton, 2005; Bourguignon, 2015 and Nolan, Roser and
+Thewissen, 2016). Scholars have been clearly aware of the discrepancies, and also have
+some ideas to explain the reasons behind them, but systematic and co-ordinated action to
+put them in a consistent framework has started only recently.2 In 2011, the OECD and
+Eurostat launched a joint Expert Group to carry out a feasibility study on compiling
+distributional measures of household income, consumption and saving within the
+framework of national accounts, on the basis of micro data. This group, which was followed
+up by an OECD Expert Group on Disparities in National Accounts (EG DNA) in 2014,
+aimed to systematically combine micro- and macro-results to arrive at more granular
+breakdowns of the household sector available from the national accounts (see Box 6.1 for
+more information on the OECD project on disparities in the national accounts). One reason
+why this work has only started recently is quite clear: it is not a simple task.
+A renovated approach to the measurement of economic inequality consistent with macroaggregates should rebuild the bridges between distributional data available from micro
+sources and national accounts aggregates in a systematic way. This is the main goal of the
+WID.world project pursued through DINA. The aim is to provide annual estimates of the
+distribution of income and wealth using concepts that are consistent with the macroeconomic national accounts. In this way, the analysis of growth and inequality can be
+carried over in a coherent framework. In addition, the WID.world project aims to also
+include the production of synthetic micro-files (i.e. individual level data that are not
+necessarily the result of direct observation but rather through estimations that reproduce
+the observed distribution of the underlying data, including the joint distribution of age,
+gender, numbers of dependent children, income and wealth between adult individuals)
+providing information on income and wealth, which will also be made available online.
+The long-run aim is to release income and wealth synthetic DINA micro-files for all
+countries on an annual basis. Such data could play a critical role in the public debate, and
+be used as a resource for further analysis by various actors in civil society and in the
+academic, business and political communities.
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 145
+
+146 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+Box 6.1. The work of the OECD Expert Group on Disparities in a National Accounts
+Framework
+
+In response to the increased interest in household material well-being and its distribution,
+the OECD and Eurostat launched an expert group in 2011 to carry out a feasibility study
+of compiling distributional measures of household income, consumption and saving
+across household groups within the framework of the national accounts. A methodology
+was developed according to a step-by-step approach that assists countries in building the
+best conceptual link between the micro- and macro-data; closing any gaps between the
+micro data and the national accounts totals; imputing for any items that may be lacking
+in micro data sources; and linking data across sources to arrive at consistent sets of
+accounts for various household groups. This work was continued in 2014 by an OECD
+Expert Group on Disparities in a National Accounts framework (EG DNA) to improve
+the methodology and to look into possibilities to improve the timeliness of the
+distributional results. OECD Member countries have engaged in two exercises to
+compile experimental distributional results and some countries have already started to
+publish their estimates (Australia, the Netherlands and the United Kingdom).
+The EG DNA project has a lot of similarities with the DINA project, as both projects
+aim to compile distributional results in line with national accounts totals and try to
+overcome any discrepancies between the micro- and the macro-totals. Where DINA is
+focusing on income and wealth, the OECD project initially focuses on income,
+consumption and saving, planning to include wealth in the second phase, probably in cooperation with the European Central Bank (ECB) and Eurostat. While there are
+similarities, the projects also differ in some respects. First of all, the aim of the EG DNA
+project is to arrive at breakdowns of the household sector from the national accounts at
+an aggregated level, focusing on specific household groups, e.g. classified by income
+quintile, main source of income or household composition, whereas DINA also aims at
+to produce synthetic micro-data files for income and wealth. Secondly, the two projects
+apply different income definitions in deriving distributional results: whereas DINA aims
+to align the results to national income, i.e. for the economy as a whole (distinguishing
+five income concepts), the EG DNA project specifically targets the income of the
+household sector, with primary income, disposable income and adjusted disposable
+income as main aggregates. A third difference relates to the unit of observation: while
+the DINA project focuses on individuals aged 20 years and older, the EG DNA considers
+the income of households (under the assumption that income is fully shared and that
+consumption decisions are made within the household), using equivalence scales to
+adjust for differences in household size and composition. These two methodological
+differences may lead to differences in distributional results derived from both projects.
+Since the start of the OECD project, member countries have engaged in two exercises
+compiling first sets of experimental distributional results. Figure 6.1 presents an example
+of results derived from the exercise conducted in 2015: it presents estimates of the
+S80/S20 ratio, comparing the income of households in the highest income quintile with
+that of households in the lowest quintile. On the basis of these results, income inequality
+turns out to be very high in Mexico, followed by the United States and Switzerland,
+whereas it is smallest in Slovenia, followed by the Netherlands, France and Sweden. In
+addition to distributional results by income quintile, the experimental results also contain
+breakdowns into main source of income and household composition for a selection of
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+│ 147
+
+countries, as well as information on the socio-demographic composition of the income
+quintiles.
+Figure 6.1. Ratio of household adjusted disposable of households in the top and bottom
+income quintiles
+14
+12
+10
+8
+6
+4
+2
+0
+
+SVN
+
+NLD
+
+FRA
+
+SWE
+
+GBR
+
+AUT
+
+AUS
+
+PRT
+
+ISR
+
+CHE
+
+USA
+
+MEX
+
+Note: Data refers to 2012 and 2011 for Australia, France, Netherlands, Portugal and Switzerland.
+Source: Zwijnenburg, J., S. Bournot and F. Giovannelli (2017), “Expert group on disparities in a national
+accounts framework: Results from the 2015 exercise”, OECD Statistics Working Papers, No. 2016/10, OECD
+Publishing, Paris, http://dx.doi.org/10.1787/2daa921e-en.
+StatLink 2 http://dx.doi.org/10.1787/888933839696
+
+While some countries have already started to publish distributional results according to
+EG DNA methodology, the OECD Expert Group is pursuing its work to improve the
+methodology to arrive at more robust and comparable results across a broader range of
+countries. In that perspective, the project faces similar challenges as the DINA,
+particularly in obtaining a better understanding of the reasons for gaps between micro
+data and national accounts totals, gaps which for some items are very substantial; and in
+improving the methodology to impute for items for which micro data are lacking. This
+should lead to a more robust methodology and to the publication of distributional results
+for a broader range of countries within the next couple of years.
+Source: Text provided by Jorrit Zwijnenburg, OECD Statistics and Data Directorate.
+
+It is worth stressing that the WID.world database has both a macro- and a micro-dimension.
+The objective is to release homogenous time-series both on the macro-level structure of
+national income and national wealth, and on the micro-level distribution of income and
+wealth, using consistent concepts and methods. By doing so, we hope to contribute to
+reconciling inequality measurement and national accounting, i.e. the micro-level
+measurement of economic and social welfare and the macro-level measurement. In some
+cases, this may require revising central aspects of key national accounts concepts and
+estimates. By combining the macro- and micro-dimensions of economic measurement, we
+are following a very long tradition. In particular, it is worth recalling that Simon Kuznets
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+148 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+was both one of the founders of US national accounts (and author of the first national
+income series), and also the first scholar to combine national income series and income tax
+data in order to estimate the evolution of the share of total income going to top fractiles in
+the United States over 1913-48 (Kuznets, 1953).3 This line of research continued with
+Atkinson and Harrison (1978), who made use of historical inheritance tax data and capital
+income data to study the long-run evolution of the distribution of personal wealth in Britain
+over 1922-72. We are simply pushing this effort further by trying to cover more countries
+and years, and by studying wealth and its distribution rather than only income.
+Such an ambitious long-term objective – annual distributional national accounts for both
+income and wealth and for all countries in the world – will require a broad international
+and institutional partnership. The first set of methodological principles and
+recommendations are being set by ongoing work on the first version of the DINA
+Guidelines (Alvaredo et al., 2016). There are still many methodological decisions to be
+taken and agreed upon. It took from the 1910s to the 1950s before scholars (Kuznets,
+Kendrick, Dugé, Stone, Meade, Frankel) could hand over the estimation of national income
+to official statistics bodies. It also took a long time (from the 1950s to the 2000s) before
+official national accounts were able to include standardised stock accounts. In fact, the first
+consistent guidelines for balance sheets – covering stocks of assets and liabilities – appear
+in the SNA manuals of 1995 and 2008 (in some key countries, such as Germany, the first
+official balance sheets were released only in 2010). Along the same lines, the development
+of a system of DINA is expected to take a long time before consensus among scholars and
+the statistical community is reached. In that regard, it is very encouraging that the OECD
+Expert Group on Disparities in National Accounts, which is working on compiling
+distributional results, has already engaged in two exercises, and that the first countries have
+already started to publish distributional results on the basis of the Expert Group’s
+methodology (Box 6.1).
+We should stress at the outset that our methods and time-series are imperfect, fragile and
+subject to revision. The WID.world DINA project attempts to combine the different data
+sources that are available (in particular tax data, survey data and national accounts) in a
+systematic way. We also try to provide a very detailed and explicit description of our
+methodology and sources, so that other users can contribute to improving them. But our
+time-series and methods should be viewed in the perspective of a long, cumulative,
+collective process of data construction and diffusion, rather than as a finished product.
+
+6.2. What are the concepts and methods being discussed?
+The concepts and methods used in WTID series were initially exposed in the two collective
+volumes edited by Atkinson and Piketty (2007 and 2010), and in the corresponding country
+chapters and research articles. All country-level time-series follow the same general
+principles: building on the pioneering work of Kuznets (1953), they combine income tax
+data, national accounts and Pareto interpolation techniques in order to estimate the share of
+total income going to top income groups (typically the top decile and the top percentile).
+However, despite our best efforts, the units of observation, the income concepts and the
+Pareto interpolation techniques were never made fully homogenous over time and across
+countries. Moreover, for the most part attention was restricted to the top income decile,
+rather than the entire distribution of income and wealth.
+In contrast, the DINA time-series and associated synthetic micro-files aim to be fully
+homogenous across all of these dimensions (or at least to make much more explicit the
+remaining heterogeneity in data construction) and, most importantly, to provide more
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+detailed and comprehensive measures of inequality. In the DINA series, inequality is
+always measured using homogenous observation units, and taxable income reported on
+fiscal returns is systematically corrected and upgraded in order to match national accounts
+totals separately for each income category (wages, dividends, etc.) using various sources,
+imputation methods and techniques to align the micro and macro-data. Now WID.world
+aims to provide series on wealth (and not only on income) and on the entire distribution
+(and not only on top shares).
+The two main data sources used in the DINA series continue to be income tax data and
+national accounts (just like in the WTID series), but we use these two core data sources in
+a more systematic and consistent manner, with fully harmonised definitions and methods,
+and together with other sources such as household income and wealth surveys, inheritance,
+estate and wealth tax data, as well as wealth rankings provided by “rich lists” compiled by
+the press. In most cases, the general trends in inequality depicted in the WTID series will
+not be very different in DINA series.4 However the latter will allow for more precise
+comparisons over time and across countries, more systematic world coverage, and more
+consistent analysis of the underlying mechanisms.5
+In the DINA Guidelines (Alvaredo et al., 2016) the following key elements used in
+WID.world are discussed at length:
+
+
+The units of observation.
+
+
+
+The income concepts (pre-tax national income, pre-tax factor income, post-tax
+disposable income, post-tax national income, and fiscal income) and the wealth
+concepts (personal wealth, private wealth, public wealth, corporate wealth, and
+national wealth, as well as the corresponding notions of capital income flows and
+rates of return).
+
+
+
+The methods (e.g. imputation) employed to reconcile income tax returns and
+household survey micro files with national accounts totals, as well as with wealth
+inequality sources.
+
+
+
+The methods employed to produce synthetic micro files on income and wealth.
+
+
+
+The methods that can be used in the case of countries and time periods with more
+limited data sources.
+
+In this section, we briefly refer to the units of observation and the income and wealth
+concepts used in WID.world, but the interested reader should consult the DINA Guidelines
+for the full documentation, and a thorough investigation of details, problems, limitations
+and challenges.
+As was the case with the development of national accounts, the methodological discussion
+starts from the perspective of the developed countries, given the higher (though not perfect)
+quality and availability of data from all sources. A number of additional and important
+problems arise when we consider developing countries. In many cases, e.g. in China, India
+or Mexico today, we only have income tax data for the top of the distribution, and the
+questions involve how to combine them with the household survey data that exist for the
+lower part of the distribution, and even the representativeness of tax data. Piketty, Yang
+and Zucman (2017) provide an illustration for the case of China. In this respect, it should
+also be noted that in developing countries the underground and informal economy may play
+a more significant role than in developed countries, possibly requiring different imputation
+techniques and different means of bridging gaps between micro data and national accounts
+totals. Additionally, the discrepancies of both levels and trends from the existing data
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 149
+
+150 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+sources can be very large (Bourguignon, 2015) and deserve special and case-by-case
+attention.
+
+6.2.1. The units of observation
+One of the major limitations of the WTID series was the lack of homogeneity of the microlevel observation unit. Most WTID series were constructed by using the ‘tax unit’ (as
+defined by the tax law of the country at any given point in time) as the observation unit. In
+joint-taxation countries like France or the United States, the tax unit has always been
+defined as the married couple (for married individuals) or the single adult (for unmarried
+individuals), and the top income shares series that were produced for these two countries
+did not include any correction for the changing structure of tax units (i.e. the combined
+income of married couples is not divided by two, so couples appear artificially richer than
+non-married individuals). This is problematic, since variations in the share of single
+individuals in the population, or in the extent of assortative mating in couples (being in a
+couple with a person similar to you socio-economically), could potentially bias the
+evolution of income inequality in various and contradictory ways. In some other countries,
+the tax system switched to individual taxation over the course of the history of the income
+tax (e.g., in 1990 in the United Kingdom), which creates other comparability problems in
+the WTID series (see Atkinson, 2005, 2007).
+In order to correct for these biases, our DINA series try to use homogenous observation
+units. Generally speaking, our benchmark unit of observation is the adult individual. That
+is, our primary objective is to provide estimates of the distribution of income and wealth
+between all individuals aged 20 years-old and over (such as the shares of income and wealth
+going to the different percentiles of the distributions of income and wealth). Whenever
+possible, we also aim to construct estimates of individual income and wealth distribution
+that can be decomposed by age, gender and number of dependent children. Ideally, we aim
+at producing synthetic micro-files providing the best possible estimates of the joint
+distribution – by age, gender and number of dependent children – of income and wealth
+between adult individuals. But at the very least we want to be able to describe the
+distribution of income and wealth between all adult individuals.
+One key question is how to split income and wealth between adults who belong to a couple
+(married or not) and/or to the same household (i.e. adults who live in the same housing
+unit). To the extent possible, we want to produce for each country two sets of inequality
+series: “equal-split-adults series” and “individualistic-adults series”. In the equal-split
+series, we split income and wealth equally between adults who belong to the same couple.
+In the individualistic series, we attribute income and wealth to each individual income
+recipient and wealth owner (to the extent possible).
+We should make clear that both series are equally valuable in our view. They offer two
+complementary perspectives on different dimensions of inequality. The equal-split
+perspective assumes that couples redistribute income and wealth equally between their
+members. This is arguably a very optimistic perspective on what couples actually do:
+bargaining power is typically very unequal within couples, partly because the two members
+come with unequal income flows or wealth stocks. But the opposite perspective (zero
+sharing of resources) is not realistic either, and tends to underestimate the resources
+available to non-working spouses (and therefore to overestimate inequality in societies with
+low female participation in the labour market). By offering the two sets of series, we give
+the possibility to compare the levels and evolutions of inequality over time and between
+countries under these two different perspectives. Ideally, the best solution would be to
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+organise synthetic micro-files in such a manner that the data users can compute their own
+inequality series based upon some alternative sharing rules (e.g. assuming that a given
+fraction of the combined income of couples is equally split) and/or some alternative
+equivalence scales (e.g. dividing the income of couples by a factor less than two). This is
+our long-run objective.
+Regarding the equal-split series, an important question is whether we should split income
+and wealth within the couple (narrow equal-split) or within the household (broad equalsplit). In countries with significant multi-generational cohabitation (e.g. grandparents
+living with their adult children), this can make a significant difference (typically broad
+equal-split series assume more private redistribution and display less inequality). In
+countries where nuclear families are prevalent, this makes relatively little difference.
+Ideally both series should be offered. We tend to favour the narrow equal-split series as the
+benchmark series, both for data availability reasons (fiscal data are usually available at the
+tax unit level, which in a number of countries means the married couple or the non-married
+adult) and because there is possibly more splitting of resources at the narrow level (which
+is also arguably the reason why fiscal legislation usually offers the possibility of joint filling
+and taxation at the level of the married couple rather than at the level of the broader
+household, whose exact composition can vary and is not regulated by a legal relationship).
+However in countries where fiscal sources are limited and where we mostly rely on
+household survey data (e.g. in China), it is sometime easier to compute the broad equalsplit series. This should be kept in mind when making comparisons between countries (see
+the discussion in Piketty, Yang and Zucman, 2017) and the comparison between DINA
+series for China, France and the United States).
+Finally, when we look at inequality of post-tax disposable income, we introduce dependent
+children into the analysis, in order to be able to compute the relevant cash and in-kind
+transfers to parents (family benefits and tax credits, education allowances, etc.).
+In the individualistic series, observed labour income and pension income is attributed to
+each individual recipient. This is easy to do in individual-taxation countries like the United
+Kingdom today, where by definition we observe incomes at the individual level. In general,
+labour income and pension income are also reported separately for each spouse in the tax
+returns and income declarations used in joint-taxation countries like France. In some cases,
+however, e.g. in US public-use tax files, we only observe the total labour or pension income
+reported by both spouses, in which case we need to use other sources and imputation
+techniques in order to split income appropriately between spouses (see Piketty, Saez and
+Zucman, 2016).
+The issues are more complicated for capital income flows. In individual-taxation countries,
+we usually observe capital income at the individual level. However in joint-taxation
+countries, capital income is usually not reported separately for both spouses, and we
+generally do not have enough information about the marriage contract or property
+arrangements within married couples to be able to split capital income and assets into
+common assets and own assets. So in joint-taxation countries we simply assume in our
+benchmark series that each spouse owns 50% of the wealth of a married couple and receives
+50% of the corresponding capital income flow. If and when adequate data sources become
+available, we might be able to offer a more sophisticated treatment of this important issue.
+
+6.2.2. The income and wealth concepts
+One of the other major limitations of the WTID time-series was the lack of homogeneity of
+the income concept and its dependence on the tax laws of each country. In contrast, the
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 151
+
+152 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+income concepts used in DINA series are defined in the same manner in all countries and
+time periods, and aim to be independent of the tax legislation of the given country/year.
+We use four basic pre-tax and post-tax income concepts to measure income inequality:
+1) pre-tax national income; 2) pre-tax factor income; 3) post-tax disposable income; and
+4) post-tax national income (see Alvaredo et al., 2016, for a detailed discussion of
+definitions and challenges).6 All of them are anchored on the notion of national income (i.e.
+gross domestic product, minus consumption of fixed capital, plus net foreign income, for
+the economy as a whole) defined by using the same concepts as those proposed in the latest
+international guidelines on national accounts, as set forth by the 2008 UN System of
+National Accounts (SNA). However, in attributing income to the household sector we apply
+a broader definition than is used in the 2008 SNA, as we also distribute the income of the
+other sectors in the economy (i.e. corporations, general government and non-profit
+institutions), rather than focusing on the household sector as defined in the national
+accounts. In the same way as for the income concepts, our wealth concepts refer to the
+latest international national accounts guidelines, based on which we define personal wealth,
+private wealth, public wealth, corporate wealth, and national wealth.7
+We should make clear at the outset that our choice of using national accounts income and
+wealth concepts for distributional analysis certainly does not mean that we believe that
+these concepts are perfectly satisfactory or appropriate. Quite the contrary: our view is that
+official national accounts statistics are insufficient and need to be greatly improved. In
+particular, one of the central limitations of official GDP accounting is that it does not
+provide any information about the extent to which the different social groups benefit from
+GDP growth. By using national accounts concepts and producing distributional series based
+upon these concepts, we hope to contribute to addressing one important shortcomings of
+existing national accounts, to reduce the gap between inequality measurement and national
+accounts, and also maybe between the popular individual-level perception of economic
+growth and its macro-economic measurement. The other reason for using national accounts
+concepts is simply that these concepts represent at this stage the only existing systematic
+attempt to define notions such as income and wealth in a common way, which (at least in
+principle) can be applied to all countries independently from country-specific and timespecific legislation and data sources.
+One important limitation of existing official national accounts is the fact that consumption
+of fixed capital does not usually include the consumption of natural resources. In other
+words, official statistics tend to overestimate both the levels and the growth rates of national
+income, which in some cases could be much lower than those obtained for Gross Domestic
+Product. In the future, we plan to gradually introduce such adjustments to the aggregate
+national income series provided in the WID.world database. This is likely to introduce
+significant changes both at the aggregate and distributional level. We should also make
+clear that official national accounts are fairly rudimentary in a number of developing
+countries (and also sometimes in developed countries). Often they do not include the level
+of detail that we need to use the income and wealth definitions proposed below. In
+particular, proper series on consumption of fixed capital and net foreign income are missing
+in a number of countries, so that official series do not always allow national income to be
+computed.8
+
+6.2.3. Countries/years with limited income and wealth data
+The construction of DINA series is very demanding in terms of data needs. Countries do
+not usually have all the data sources required, the limitations being very pronounced in
+many countries/years. This problem was also at the centre of the development of national
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+accounts: designing the SNA meant accepting that the standards could not be set at the level
+of the best, i.e. their implementation had to be feasible in less well-advanced countries.
+Methods need to be developed in the case of countries and periods with more limited data
+sources, typically on the basis of income tax tabulations rather than income tax micro-files,
+and/or with income tax data covering only a subset of the population rather than the entire
+population, and/or inadequacy of income tax data (e.g. due to large or complete exemptions
+for capital incomes). The DINA Guidelines refer to each of these problems and illustrate
+the methods that can be applied with the case of China (a country with limited access to
+income tax data; see Piketty, Yang and Zucman, 2017) and France (a country with detailed
+tax data but where only income tax tabulations – rather than micro-files – are available
+prior to 1970; see Garbinti, Goupille-Lebret and Piketty, 2017).9
+
+6.3. What can we say based on available evidence? First results from WID.world
+and DINA
+6.3.1. Income inequality dynamics: The United States, China, France
+We first present some selected results on income inequality for the United States, China,
+and France (a country that is broadly representative of the West European pattern) in
+Figure 6.2. All series shown follow the same general DINA Guidelines (Alvaredo et al.,
+2016). National accounts, surveys, and fiscal data are combined in a systematic manner in
+order to estimate the full distribution of pre-tax national income (including tax exempt
+capital income and undistributed profits). For more detailed results and discussions, we
+refer to the country-specific papers (Piketty, Saez and Zucman (2016) for the United States;
+Piketty, Yang and Zucman (2017) for China; Garbinti, Goupille-Lebret and Piketty (2017)
+for France).10
+The combination of tax and survey data leads to a markedly upward revision of the official
+inequality estimates of China. The corrected top 1% income share is around 13% of total
+income in 2015, as compared to 6.5% in survey data. We stress that these estimates should
+be viewed as lower bounds, due to tax evasion and other limitations of tax and national
+accounts data, but we regard them as more realistic and plausible than survey-based
+estimates. The estimates illustrate the need for more systematic use of administrative
+records, even for countries where the tax administration is far from perfect. China had very
+low income inequality levels in the late 1970s, but it is now approaching the United States,
+where income concentration is the highest among the countries shown. In particular, we
+observe a complete collapse of the bottom 50% income share in the United States between
+1978 and 2015, from 20% to 12% of total income, while the income share of the top 1%
+rose from 11% to 20%. In contrast, and in spite of a similar qualitative trend, the share of
+the bottom 50% remains higher than the top 1% share in 2015 in China and, even more so,
+in France.11
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 153
+
+154 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+Figure 6.2. Distribution of income in China, the United States and France, 1978-2015
+Panel A. Top 1% income share
+22%
+
+China
+
+US
+
+Panel B. Bottom 50% income share
+France
+
+28%
+
+China
+
+US
+
+France
+
+20%
+
+26%
+
+18%
+
+24%
+
+16%
+
+22%
+
+14%
+
+20%
+
+12%
+
+18%
+
+10%
+
+16%
+
+8%
+
+14%
+
+6%
+
+12%
+
+4%
+1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+
+10%
+1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+
+Note: Distribution of pre-tax national income (before taxes and transfers, except for pensions and
+unemployment insurance benefits) among adults. Corrected estimates combine survey, fiscal, wealth and
+national accounts data. Equal-split adult series (the income of married couples is divided by two).
+Sources: US: Piketty, T., E. Saez and G. Zucman (2016), “Distributional national accounts: Methods and
+estimates for the United States”, NBER Working Paper, No. 22945; France: Garbinti, B., J. Goupille-Lebret
+and T. Piketty (2017), “Income inequality in France, 1900-2014: Evidence from Distributional National
+Accounts (DINA)”, WID.world Working Paper, No. 2017/4; China: Piketty, T., L. Yang and G. Zucman
+(2017), “Capital accumulation, private property and rising inequality in China 1978-2015”, WID.world
+Working Paper, No. 2017/6.
+StatLink 2 http://dx.doi.org/10.1787/888933839677
+
+In light of the massive fall of the pre-tax incomes of the bottom 50% in the United States,
+our findings also suggest that policy discussions about rising global inequality should focus
+on how to equalise the distribution of primary assets – including human capital, financial
+capital, and bargaining power – rather than merely discussing ex-post redistribution
+through taxes and transfers. Policies that could raise the pre-tax incomes of the bottom 50%
+include improved education and access to skills, which may require major changes in the
+system of education finance and admission; reforms of labour market institutions, including
+minimum wage, corporate governance, and workers’ bargaining power through unions and
+representation in the board of directors; and steeply progressive taxation, which can affect
+pay determination and pre-tax distribution, particularly at the top end (Piketty, Saez and
+Stantcheva, 2014; Piketty, 2014).
+The comparison between the United States, China and France illustrates how DINA can be
+used to analyse the distribution of economic growth across income groups. As shown in
+Table 6.1, national income per adult increased in the three countries between 1978 and
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+2015: by 811% in China, by 59% in the United States, and by 39% in France. Nevertheless,
+performance has been very different across the distribution. There has been a clear pattern
+of rising inequality: top income groups enjoyed higher growth. In China, people at the top
+experienced very high growth rates of their income, but average growth was so large that
+the average income of the bottom 50% also grew markedly, by 401%. This is likely to make
+rising inequality more acceptable. In contrast, there was no growth at all for the bottom
+50% in the United States (-1%). France illustrates another type of situation: people at the
+very top of the distribution experienced above-average income growth, but this pattern of
+rising inequality happened only for very high and numerically relatively negligible groups,
+so that it had limited consequences for the majority of the population. In effect, the bottom
+50% income group enjoyed the same income growth as average growth (39%).
+Table 6.1. Real income growth across the distribution, 1978-2015
+Percentages
+Income group (distribution of per-adult pre-tax national income)
+Full Population
+Bottom 50%
+Middle 40%
+Top 10%
+Top 1%
+Top 0.1%
+Top 0.01%
+Top 0.001%
+
+China
+811
+401
+779
+1 294
+1 898
+2 261
+2 685
+3 111
+
+US
+59
+-1
+42
+115
+198
+321
+453
+685
+
+France
+39
+39
+35
+44
+67
+84
+93
+158
+
+Note: Distribution of pre-tax national income (before taxes and transfers, except pensions and unemployment
+insurance benefits) among adults. Corrected estimates combining survey, tax, wealth and national accounts
+data. Equal-split-adult series (income of married couples divided by two).
+Sources: US: Piketty, T., E. Saez and G. Zucman (2016), “Distributional national accounts: Methods and
+estimates for the United States”, NBER Working Paper, No. 22945; France: Garbinti, B., J. Goupille-Lebret
+and T. Piketty (2017), “Income inequality in France, 1900-2014: Evidence from Distributional National
+Accounts (DINA)”, WID.world Working Paper, No. 2017/4; China: Piketty, T., L. Yang and G. Zucman
+(2017), “Capital accumulation, private property and rising inequality in China 1978-2015”, WID.world
+Working Paper, No. 2017/6.
+StatLink 2 http://dx.doi.org/10.1787/888933839658
+
+6.3.2. Private and public wealth-to-income ratios: The United States, China,
+France, the United Kingdom, Japan, Norway and Germany
+Next, we present findings on the evolution of aggregate wealth. We observe a general rise
+of the ratio between net private wealth and national income in nearly all countries in recent
+decades. It is striking to see that this phenomenon was largely unaffected by the 2008
+financial crisis. The unusually large rise of the ratio for China is notable: net private wealth
+was a little above 100% of national income in 1978, while it was above 450% in 2015. The
+private wealth-to-income ratio in China is now approaching the levels observed in the
+United States (500%), the United Kingdom and France (550-600%).
+The structural rise of private wealth-to-income ratios in recent decades is due to a
+combination of factors, which can decomposed into: 1) volume factors (high saving rates,
+which can themselves be due to ageing and/or rising inequality, with differing relative
+importance across countries, combined with growth slowdown); 2) relative asset prices;
+and 3) institutional factors, including the increase of real estate prices (which can be due
+to housing portfolio bias, the gradual lift of rent controls, and lower technical progress in
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 155
+
+156 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+construction and transportation technologies as compared to other sectors) and of stock
+prices (which can reflect higher power of shareholders leading to the observed increase in
+Tobin’s Q ratios – i.e. the ratio between market and book value of corporations).
+Another key institutional factor driving the rise of private wealth-to-income ratios is the
+gradual transfer from public wealth to private wealth. This is particularly spectacular in the
+case of China, where the share of public wealth in national wealth dropped from about 70%
+in 1978 to 35% by 2015, as shown in Figure 6.3. The corresponding rise of private property
+has important consequences for the levels and dynamics of inequality. Net public wealth
+has become negative in the United States, Japan and the United Kingdom, and is only
+slightly positive in Germany and France. This arguably limits government ability to
+redistribute income. The only exceptions to the general decline in public property are oilrich countries with large public sovereign funds, such as Norway.
+Figure 6.3. The decline of public property and the rise of sovereign funds
+Share of public wealth in national wealth
+
+China
+
+US
+
+Japan
+
+France
+
+UK
+
+Germany
+
+Norway
+
+80%
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+-10%
+1978
+
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+2014
+
+Note: Share of net public wealth (public assets minus public debt) in net national wealth (private + public).
+Source: China: Piketty, T., L. Yang and G. Zucman (2017), “Capital accumulation, private property and rising
+inequality in China 1978-2015”, WID.world Working Paper, No. 2017/6; other countries: Piketty, T. and G. Zucman
+(2014), “Capital is back: Wealth-income ratios in rich countries, 1700-2010”, The Quarterly Journal of Economics,
+Vol. 129(3), pp. 1255-1310, and WID.world updates.
+StatLink 2 http://dx.doi.org/10.1787/888933839715
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+6.3.3. Wealth inequality dynamics: The United States, China, France and the
+United Kingdom
+Finally, we present findings on wealth inequality in Figure 6.4. We stress that currently
+available statistics on the distribution of wealth are highly imperfect. More transparency
+and better access to administrative and banking data sources are sorely needed if we want
+to gain knowledge of the underlying evolutions. In WID.world, we combine different
+sources and methods to reach robust conclusions: the income capitalisation method (using
+income tax returns), the estate multiplier method (using inheritance and estate tax returns),
+wealth surveys, national accounts and “rich lists”. Nevertheless, our series should still be
+viewed as imperfect, provisional, and subject to revision. We provide full access to our data
+files and computer codes so that everybody can use them and contribute to improving the
+data collection.12
+Figure 6.4. Top 1% wealth share in China, the United States, France and
+the United Kingdom, 1890-2015
+
+US
+
+UK
+
+France
+
+China
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+1890
+
+1900
+
+1910
+
+1920
+
+1930
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+Note: Distribution of net personal wealth among adults. Corrected estimates (combining survey, fiscal, wealth
+and national accounts data). For China, US and France, equal-split-adult series (wealth of married couples
+divided by two); for UK, adult series.
+Source: US: Saez, E. and G. Zucman (2016), “Wealth inequality in the United States since 1913: Evidence
+from capitalized income tax data”, The Quarterly Journal of Economics, Vol. 131(2), pp. 519-578; UK:
+Alvaredo, F., A.B. Atkinson and S. Morelli (2018), “Top wealth shares in the UK over more than a century”,
+forthcoming, The Journal of Public Economics and Alvaredo, F., A.B. Atkinson and S. Morelli (2017), “Top
+wealth shares in the UK over more than a century”, CEPR Discussion Paper, No. 11759; France: Garbinti, B.,
+J. Goupille-Lebret and T. Piketty (2016), “Accounting for wealth inequality dynamics: Methods, estimates and
+simulations for France (1800-2014)”, WID.world Working Paper, No. 2016/5; China: Piketty, T., L. Yang and
+G. Zucman (2017), “Capital accumulation, private property and rising inequality in China 1978-2015”,
+WID.world Working Paper, No. 2017/6.
+StatLink 2 http://dx.doi.org/10.1787/888933839734
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+│ 157
+
+158 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+We observe a large rise of top wealth shares in the United States and China in recent
+decades, and a more moderate rise in France and the United Kingdom. A combination of
+factors explains these trends. First, higher income inequality and severe bottom-income
+stagnation explain higher wealth inequality in the United States. Next, the very unequal
+process of privatisation and access by Chinese households to quoted and unquoted equity
+probably played an important role in the very fast rise of wealth concentration in China.
+The potentially large mitigating impact of high real estate prices should also be taken into
+account; this effect, which benefitted the middle class, is likely to have been particularly
+strong in France and the United Kingdom, where housing prices have increased
+significantly relative to stock prices.
+Given all these factors, it is not easy to predict whether the observed trend of rising
+concentration of wealth will continue. In the long run, steady-state wealth inequality
+depends on the inequality of saving rates across income and wealth groups, inequality of
+labour incomes and of rates of returns to wealth, and the progressivity of income and wealth
+taxes. Numerical simulations show that the response of steady-state wealth inequality to
+relatively small changes in these structural parameters can be large (Saez and Zucman,
+2016; Garbinti, Goupille-Lebret and Piketty, 2016). This instability reinforces the need for
+increased democratic transparency about the dynamics of income and wealth.
+
+6.4. Conclusions
+We have very briefly described the basic concepts, sources and methods that we apply in
+the World Inequality Database (WID.world) and in the development of the DINA project.
+We should stress again that these methods are fragile, exploratory and subject to revision.
+As more countries join the database, new lessons will be learned, and the methods will be
+refined and updated. Accordingly, new updated versions of the DINA Guidelines will be
+regularly released on WID.world.
+We have also presented selected results on income and wealth inequality dynamics based
+on the DINA project. Global inequality dynamics involve strong and contradictory forces.
+We observe rising top income and wealth shares in nearly all countries in recent decades.
+But the magnitude of rising inequality varies substantially across countries, suggesting that
+different country-specific policies and institutions matter considerably. High-GDP growth
+rates in emerging countries reduce between-country inequality, but this in itself does not
+guarantee acceptable within-country inequality levels and ensure the social sustainability
+of globalisation. Access to more and better data (administrative records, surveys, more
+detailed national accounts, etc.) is critical to monitor global inequality dynamics, as this is
+a key building block both to properly understand the present as well as the forces which
+will dominate in the future, and to design appropriate policy responses.
+
+Notes
+1. See also Piketty (2014) for an interpretative historical synthesis on the basis of this new material
+and of the top income shares time-series.
+2. Social Accounts Matrices are a related precedent.
+3. Kuznets (1953) was preceded by ten years in this by Frankel and Herzfeld (1943), who made
+estimates of the European income distribution in South Africa based on the income tax returns,
+making use of control totals from the census of population and from the national accounts.
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+│ 159
+
+4. Results of these comparisons are already available for France (Garbinti, Goupille-Lebret and
+Piketty, 2017) and the United States (Piketty, Saez and Zucman, 2016).
+5. As new DINA series become available, we will systematically compare the inequality trends
+obtained in the old and the new series, and analyse the sources of biases.
+6. We also keep the fiscal income definition associated with the first top income share series
+(Atkinson and Piketty, 2007, 2010; Alvaredo et al., 2011-15).
+7. Readers are referred to the DINA Guidelines Appendix, where we provide an Excel file with the
+formulas linking the income and wealth definitions to the SNA 2008 classification codes.
+8. WID.world provides estimates of the consumption of fixed capital in countries where these series
+are not available in SNA series. WID.world also estimates missing income from tax havens to correct
+net foreign income flows (see Blanchet and Chancel (2016) for a discussion of methods). While
+these imputations are far from fully satisfactory, they increase the level of comparability of national
+income aggregates across countries.
+9. The DINA Guidelines also discuss how the initial WTID time series, based on a fiscal income
+concept, can be corrected so as to be more directly comparable to new DINA series. In order to
+construct DINA/WID.world series for countries and time periods with limited data, we strongly
+recommend using the “Generalized Pareto interpolation” (gpinter) web interface available on-line
+(http://WID.world/gpinter). See Blanchet, Fournier and Piketty (2017) for full technical details on
+Pareto curves and the corresponding interpolation techniques.
+10. The series for China make use of the data recently released by the tax administration on highincome taxpayers and include a conservative adjustment for the undistributed profit of privately
+owned corporations.
+11. These series refer to pre-tax, pre-transfer inequality. Post-tax, post-transfer series (in progress)
+are likely to reinforce these conclusions, at least regarding the US-France comparison.
+12. We refer to the country-specific papers for detailed discussions: Saez and Zucman, 2016;
+Alvaredo, Atkinson and Morelli, 2017, 2018; Garbinti, Goupille-Lebret and Piketty, 2016; Piketty,
+Yang and Zucman, 2017.
+
+References
+Alvaredo, F., A.B. Atkinson and S. Morelli (2018), “Top wealth shares in the UK over more than a
+century”, forthcoming, The Journal of Public Economics.
+Alvaredo, F., A.B. Atkinson and S. Morelli (2017), “Top wealth shares in the UK over more than a
+century”, CEPR Discussion Paper, No. 11759.
+Alvaredo, F. et al. (2017), “Global inequality dynamics: New findings from WID.world”, The American
+Economic Review Papers & Proceedings, Vol. 107(5), pp. 404-409.
+Alvaredo, F. et al. (2016), “Distributional National Accounts (DINA) guidelines: Concepts and methods
+used in the World Wealth and Income Database”, WID.world Working Paper, No. 2016/2.
+Alvaredo, F. et al. (2011-2015), The World Top Incomes Database, online between January 2011 and
+December 2015.
+Alvaredo, F. et al. (2013), “The top 1% in international and historical perspective”, The Journal of
+Economic Perspectives, Vol. 27(3), pp. 3-20.
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+160 │ 6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+Atkinson, A.B. (2007), “Measuring top incomes: Methodological issues”, in Atkinson, A.B. and T.
+Piketty (eds.), Top Incomes over the 20th Century: A Contrast Between Continental European and
+English-Speaking Countries, Chapter 2, Oxford University Press, Oxford, pp. 18-43.
+Atkinson, A.B. (2005), “Top incomes in the U.K. over the 20th Century”, The Journal of the Royal
+Statistical Society, Vol. 168(2), pp. 325-43.
+Atkinson, A.B. and A.J. Harrison (1978), Distribution of Personal Wealth in Britain, Cambridge
+University Press, Cambridge.
+Atkinson, A.B. and T. Piketty (2010), Top Incomes. A Global Perspective, Oxford University Press,
+Oxford.
+Atkinson, A.B. and T. Piketty (2007), Top Incomes over the 20th Century. A Contrast Between
+Continental European and English-Speaking Countries, Oxford University Press, Oxford.
+Atkinson, A.B., T. Piketty and E. Saez (2011), “Top incomes in the long-run of history”, The Journal of
+Economic Literature, Vol. 49(1), pp. 3-71.
+Blanchet, T. and L. Chancel (2016), “National Accounts series methodology”, WID.world Working
+Paper, No. 2016/1.
+Blanchet, T., J. Fournier and T. Piketty (2017), “Generalized Pareto Curves: Theory and applications to
+income and wealth tax data for France and the United States, 1800-2014”, WID.world Working
+Paper, No. 2017/3.
+Bourguignon, F. (2015), “Appraising income inequality databases in Latin America”, The Journal of
+Economic Inequality, Vol. 13(4), pp. 557-578.
+Deaton, A. (2005), “Measuring poverty in a growing world (or Measuring growth in a poor world)”, The
+Review of Economics and Statistics, Vol. 87(1), pp. 1-19.
+Fesseau, M. and M. Mattonetti (2013), “Distributional measures across household groups in a national
+accounts framework: Results from an experimental cross-country exercise on household income,
+consumption and saving”, OECD Statistics Working Papers, No. 2013/04, OECD Publishing, Paris,
+http://dx.doi.org/10.1787/5k3wdjqr775f-en.
+Frankel, S.H. and H. Herzfeld (1943), “European income distribution in the Union of South Africa and
+the effect thereon of income taxation”, The South African Journal of Economics, Vol. 11(2), pp. 121136.
+Garbinti, B., J. Goupille-Lebret and T. Piketty (2017), “Income inequality in France, 1900-2014:
+Evidence from Distributional National Accounts (DINA)”, WID.world Working Paper, No. 2017/4.
+Garbinti, B., J. Goupille-Lebret and T. Piketty (2016), “Accounting for wealth inequality dynamics:
+Methods, estimates and simulations for France (1800-2014)”, WID.world Working Paper, No. 2016/5.
+Kuznets, S. (1953), Shares Of Upper Income Groups In Income And Savings, The National Bureau of
+Economic Research.
+Nolan, B., M. Roser and S. Thewissen (2016), “GDP per capita versus median household income: What
+gives rise to divergence over time?”, INET Oxford Working Paper, No. 2016-03.
+Piketty, T. (2014), Capital in the 21st Century, Harvard University Press, Cambridge, MA.
+Piketty, T. (2003), “Income inequality in France, 1901-1998”, The Journal of Political Economy,
+Vol. 111, pp. 1004-1042.
+Piketty, T. (2001), Les hauts revenus en France au 20e siècle : Inégalités et redistributions, 1901-1998,
+Grasset, Paris.
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+6. DISTRIBUTIONAL NATIONAL ACCOUNTS
+
+│ 161
+
+Piketty, T. and E. Saez (2003), “Income Inequality in the United States, 1913-1998”, The Quarterly
+Journal of Economics, Vol. 118(1), pp. 1-39.
+Piketty, T., E. Saez and S. Stantcheva (2014), “Optimal taxation of top labour incomes”, The American
+Economic Journal: Economic Policy, Vol. 6(1), pp. 230-271.
+Piketty, T., E. Saez, and G. Zucman (2016), “Distributional national accounts: Methods and estimates for
+the United States”, NBER Working Paper, No. 22945.
+Piketty, T., L. Yang and G. Zucman (2017), “Capital accumulation, private property and rising inequality
+in China 1978-2015”, WID.world Working Paper, No. 2017/6.
+Piketty, T. and G. Zucman (2014), “Capital is back: Wealth-income ratios in rich countries, 1700-2010”,
+The Quarterly Journal of Economics, Vol. 129(3), pp. 1255-1310.
+Saez, E. and G. Zucman (2016), “Wealth inequality in the United States since 1913: Evidence from
+capitalized income tax data”, The Quarterly Journal of Economics, Vol. 131(2), pp. 519-578.
+UNECE (2011), The Canberra Group Handbook on Household Income Statistics, Second Edition,
+Geneva, United Nations,
+www.unece.org/fileadmin/DAM/stats/groups/cgh/Canbera_Handbook_2011_WEB.pdf.
+Zwijnenburg, J. (2016), “Further enhancing the work on household distributional data – Techniques for
+bridging gaps between micro and macro results and nowcasting methodologies for compiling more
+timely results”, Paper prepared for the 34th IARIW General Conference, Dresden.
+Zwijnenburg, J., S. Bournot and F. Giovannelli (2017), “Expert group on disparities in a national
+accounts framework: Results from the 2015 exercise”, OECD Statistics Working Papers,
+No. 2016/10, OECD Publishing, Paris, http://dx.doi.org/10.1787/2daa921e-en.
+
+FOR GOOD MEASURE: ADVANCING RESEARCH ON WELL-BEING METRICS BEYOND GDP © OECD 2018
+
+
