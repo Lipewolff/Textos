@@ -1,0 +1,1561 @@
+J Econ Inequal (2011) 9:289–314
+DOI 10.1007/s10888-011-9181-4
+
+Understandings and misunderstandings
+of multidimensional poverty measurement
+Sabina Alkire · James Foster
+
+Received: 1 March 2011 / Accepted: 20 April 2011 / Published online: 18 June 2011
+© Springer Science+Business Media, LLC 2011
+
+Abstract Multidimensional measures provide an alternative lens through which
+poverty may be viewed and understood. In recent work we have attempted to
+offer a practical approach to identifying the poor and measuring aggregate poverty
+(Alkire and Foster, J Public Econ, 2011). As this is quite a departure from traditional
+unidimensional and multidimensional poverty measurement—particularly with respect to the identification step—further elaboration may be warranted. In this paper
+we elucidate the strengths, limitations, and misunderstandings of multidimensional
+poverty measurement in order to clarify the debate and catalyse further research. We
+begin with general definitions of unidimensional and multidimensional methodologies for measuring poverty. We provide an intuitive description of our measurement
+approach, including a ‘dual cutoff’ identification step that views poverty as the state
+of being multiply deprived, and an aggregation step based on the traditional FGT
+measures. We briefly discuss five characteristics of our methodology that are easily
+overlooked or mistaken and conclude with some brief remarks on the way forward.
+Keywords Poverty measurement · Multidimensional poverty · Deprivation ·
+FGT measures · Decomposability · Joint distribution · Axiom
+JEL Classification I3 · I32 · D63 · O1
+
+S. Alkire (B) · J. Foster
+Oxford Poverty and Human Development Initiative,
+Oxford Department of International Development,
+University of Oxford, Oxford, UK
+e-mail: sabina.alkire@qeh.ox.ac.uk
+J. Foster
+The Institute for International Economic Policy,
+The Elliott School, The George Washington University,
+Washington, DC, USA
+
+290
+
+S. Alkire, J. Foster
+
+[T]he job of a “measure” or an “index” is to distill what is particularly relevant
+for our purpose, and then to focus specifically on that.... The central issues in
+devising an index relate to systematic assessment of importance. Measurement
+has to be integrated with evaluation. This is not an easy task.
+Amartya Sen [43]
+
+1 Introduction
+How we measure poverty can importantly influence how we come to understand
+it, how we analyze it, and how we create policies to influence it. For this reason,
+measurement methodologies can be of tremendous practical relevance.
+In 2003, two signal articles were published in this Journal. One, by François
+Bourguignon and Satya Chakravarty [20], proposed a class of multidimensional
+poverty measures that extended the Foster Greer and Thorbecke (FGT) class
+of indices and discussed interrelationships among dimensions [31]. Another, by
+Anthony Atkinson [17], linked the emerging axiomatic literature on multidimensional poverty measures to the “counting” literature that had been implemented
+in Europe and urged that counting measures be connected more with welfare economics. In recent years, the literature on multidimensional poverty measurement has
+blossomed in a number of different directions. The 1997 Human Development Report
+[48] and the 2000/1 World Development Report [50] vividly introduced poverty as a
+multidimensional phenomenon, and the Millennium Declaration and MDGs have
+highlighted multiple dimensions of poverty since 2000. In the academic literature,
+new measurement methodologies are being created.1 Interest in multidimensional
+poverty measurement is growing.
+In a time of considerable creative ferment, it can be helpful to clarify the
+potentials of different measurement methodologies, and to distinguish misunderstandings from limitations. This paper does so for a multidimensional methodology
+we first developed in 2007 and which has been implemented at the national and
+international levels. A practical aim of Alkire and Foster [4, 7] was to construct
+poverty measurement methods that could be used with discrete and qualitative data
+(for example, functionings like literacy or physical security) as well as continuous and
+cardinal data (as income and consumption are commonly viewed). A theoretical aim
+was to re-examine the identification step (addressing the question ‘who is poor?’),
+which poses a much greater challenge when there are multiple dimensions. The result
+is a methodology for measuring poverty in the sense of Sen [41] that first identifies
+who is poor, then aggregates to obtain overall measures of poverty that reflect the
+multiple deprivations experienced by the poor.
+Our methodology is perhaps best seen as a general framework for measuring
+multidimensional poverty since many key decisions are left to the user. These include
+the selection of dimensions, dimensional cutoffs (to determine when a person is
+
+1 The literature is growing rapidly; some key papers in the axiomatic tradition include Anand and Sen
+
+[12], Brandolini and D’Alessio [21], Chakravarty et al. [24], Tsui [47], Atkinson [17], Bourguignon
+and Chakravarty [20], Deutsch and Silber [26], Duclos et al. [27], Chakravarty and D’Ambrosio
+[22], Kakwani and Silber [34, 35] and Thorbecke [46]. For recent critiques of multidimensional
+measurement, see Ravallion [38, 39].
+
+Understandings and misunderstandings of multidimensional poverty
+
+291
+
+deprived in a dimension), dimensional weights (to indicate the relative importance
+of the different deprivations), and a poverty cutoff (to determine when a person
+has enough deprivations to be considered to be poor).2 We note that this flexibility
+makes it particularly useful for measurement efforts at the country level where
+these decisions can fit the purpose of the measure and can embody normative
+judgements regarding what it means to be poor. The method delivers an aggregate
+poverty measure that reflects the prevalence of poverty and the joint distribution of
+deprivations. Useful partial indices are reported that reveal the intuition and layers
+of information embedded in the summary measure. For example, our most basic
+index is the product of two partial indices that measure prevalence and intensity. The
+overall measure can be additively decomposed by population subgroups and (after
+the poor have been identified) by dimension. The methodology satisfies a set of basic
+axioms for multidimensional poverty measurement.
+The reason to delineate clearly the value-added of any new set of tools—such
+as this methodology—is twofold. First, if the value-added is well understood, and
+if misunderstandings are clarified, then researchers may be able to sharpen the
+contributions of the new technique by developing complementary methodologies, by
+improving applications, or by tackling standing questions. Second, a clear articulation
+of potential applications can enable others to mine the new tools for their full range
+of empirical insights.
+The paper proceeds as follows. Section 2 presents unidimensional approaches to
+poverty measurement while Section 3 describes multidimensional methods. Section 4
+provides an intuitive description of our measurement approach and the insights that
+it generates. Section 5 discusses five characteristics of our methodology that are easily
+overlooked or mistaken, while Section 6 concludes with some brief remarks on the
+way forward.
+
+2 Unidimensional methods
+In his seminal 1976 paper “Poverty: An Ordinal Approach to Measurement,”
+Amartya Sen described two main steps that poverty measurement must address:
+1. identifying the poor among the total population, and
+2. constructing a numerical measure of poverty.
+Sen’s two-step procedure of identification and aggregation has become the standard
+conceptual framework for poverty measurement, and we follow his approach in our
+discussion of unidimensional and multidimensional methods.
+Unidimensional methods can be applied when a well-defined single-dimensional
+resource variable, such as income, has been selected as the basis for poverty evaluation. This variable is typically assumed to be cardinal; however, in some cases
+the variable may only have ordinal significance (i.e., the direction of change is
+discernable, but not its magnitude). Identification in the unidimensional environment
+typically proceeds by setting a poverty line corresponding to a minimum level below
+
+2 The
+
+preliminary step of selecting dimensional variables is closely linked to the selection of
+dimensional weights. For example, choosing one out of several possible variables is tantamount to
+assigning that dimension full weight and the remaining dimensions zero weight.
+
+292
+
+S. Alkire, J. Foster
+
+which one is considered poor. Aggregation is usually achieved through the use
+of a numerical poverty measure that determines the overall level of poverty in a
+distribution given the poverty line.
+To facilitate our discussion, we begin with three examples of unidimensional
+poverty measures drawn from the FGT class. Consider the following vectors constructed from the distribution y of a given resource (say income) and a poverty
+line z. The deprivation vector g0 replaces each income below the poverty line with
+1 and replaces nonpoor incomes with 0. The normalized gap vector g1 replaces each
+poor income yi with the normalized gap (z − yi )/z and assigns 0 to the rest. The
+squared gap vector g2 replaces each poor income yi with the squared normalized gap
+[(z − yi )/z]2 and assigns 0 to the rest. Each of these vectors is censored in that every
+nonpoor person is assigned a value of 0.
+The headcount ratio is simply P0 = μ(g0 ), or the mean of the deprivation vector; it
+indicates the prevalence of poverty. The poverty gap measure is P1 = μ(g1 ); it measures the average depth of poverty across the society as a whole. The squared gap,
+or distribution sensitive FGT, measure is P2 = μ(g2 ); it emphasizes the conditions
+of the poorest of the poor. All three can be applied to cardinal variables; only the
+headcount ratio can also be used with an ordinal variable. The measures satisfy an
+array of axioms, including a subgroup decomposability property that views overall
+poverty as a population share weighted average of subgroup poverty levels. The
+headcount ratio violates an intuitive monotonicity axiom (if a poor person’s resource
+level falls, poverty should rise); the poverty gap measure satisfies monotonicity, but
+not the transfer principle (poverty should fall if two poor resource levels are brought
+closer together by a progressive transfer between them); the final FGT index satisfies
+monotonicity and the transfer principle.
+Unidimensional methods require a single dimensional variable and a single cutoff,
+but place no a priori restrictions on how the resource variable has been constructed.
+It could be a single resource variable, such as income, added up across all sources.
+It could be total expenditure added up across different categories reported in
+an expenditure survey, or perhaps drawn from consumption surveys that require
+respondents to recall quantities and prices. Of course, the interpretation of the
+variable and its cutoff level is very different if total income or total expenditure
+is used, with the former reflecting “what could be” and the latter reflecting “what
+is” [16]. However, the underlying principle of aggregation is the same: adding up
+monetary values to obtain a total resource level that can be compared to a monetary
+cutoff.3
+Unidimensional tools might also be applied to other aggregate variables, such
+as those obtained by combining fundamentally distinct components that are not
+measured in the same units and may have no natural or observable means of
+conversion into a common variable. One method is to use a composite indicator,
+which aggregates across several component variables by multiplying each by a
+factor and adding up; another example might be a utility function that aggregates
+components in a nonlinear fashion. However, there are several challenges with such
+
+3 These
+
+methods may also be used with non-aggregated cardinal variables (such as years of schooling), ordinal variables (such as self-reported health) and categorical variables (such as modes of
+access to drinking water), although the latter two categories will restrict the poverty measures that
+can be used.
+
+Understandings and misunderstandings of multidimensional poverty
+
+293
+
+a strategy. The entire enterprise depends on the validity of the aggregate variable in
+representing the actual resources or achievements of people and the actual tradeoffs
+among component variables, and yet evidence in this regard may be sparse, lending
+little guidance to the selection of weights or of a proper functional form. One or
+more components may be only ordinally meaningful, which rules out the usual forms
+of aggregation across component variables (since every cardinal representation is
+admissible for an ordinal variable). Or the components may well represent distinct
+resources and categories of needs, which cannot be merged or freely traded for
+one another. Applying unidimensional methods to an aggregate composite indicator
+suggests that the presence or the extent of shortfalls in component variables are
+of no particular concern, and thus do not independently affect whether a person is
+poor, or the overall level of poverty. For these reasons it may make sense to explore
+alternatives that can complement unidimensional methods.
+
+3 Multidimensional methods
+Suppose, then, that we have data on achievements in several dimensions, distributed
+across a population. Following Sen [41] we ask: who is poor, and how should overall
+poverty be measured in this setting?
+As noted above, if the underlying concept of poverty admits a natural way of
+aggregating the various dimensions into an overall variable, then a unidimensional
+methodology can be used. In this approach, the poor are identified on the basis of a
+single cutoff, and overall poverty is evaluated using a unidimensional measure such
+as a member of the FGT class. The many dimensions are merged into one and viewed
+through a unidimensional lens.
+What if an aggregate variable cannot be plausibly constructed, and instead there
+are several important distinct dimensions? How should we identify the poor and
+measure poverty in this case? Bourguignon and Chakravarty [20] propose the use of
+dimension-specific lines—which are called deprivation cutof fs in Alkire and Foster
+[4]—as the basis for determining who is deprived and in which dimension. They
+then posit the existence of an identif ication function, which determines whether a
+person is deprived enough to be called poor, and a poverty measure, which evaluates
+how much poverty there is overall. Axioms analogous to the ones used in the
+unidimensional case ensure that the measure properly reflects poverty, and that it
+can be decomposed by subgroup. The axioms also ensure that the poverty measure
+is consistent with the identification function.
+Much of the research in this area has been concerned with finding an appropriate poverty measure, rather than devising new methods of identifying the poor.
+Some measures aggregate across dimensions in a non-linear form. These include
+Tsui [47] and Chakravarty and Silber [23] for cardinal measures; Chakravarty and
+D’Ambrosio [22] and Bossert et al. [19] for ordinal non-additive measures, and
+Rippin [40] for ordinal and cardinal additive measures. Two benchmark identification approaches are discussed by Atkinson [17]: the union and intersection
+approaches. Under union identification, a person who is deprived in any dimension is
+considered poor; under intersection identification, only persons who are deprived in
+all dimensions are considered poor. Both approaches are easy to understand and
+have useful characteristics, such as being able to be applied to ordinal variables.
+
+294
+
+S. Alkire, J. Foster
+
+However, they can be particularly ineffective at separating the poor from the
+nonpoor. In a recent study by Alkire and Seth [9] that uses ten dimensions to identify
+the poor in India, the union approach identifies 97% of the population as poor,
+whereas the intersection approach identifies one-tenth of 1%. Such a range of values
+is common in many studies.
+Bourguignon and Chakravarty’s [20] discussion of identification concerns general
+forms of identification functions rather than specific examples, and it is clear from
+the context that tradeoffs are being made between continuous dimensional variables.
+But this leads the discussion back to the original question of whether a coherent
+aggregate variable can be constructed from the individual dimensions. If the answer
+is no, as postulated above, then it may be somewhat difficult to justify the aggregation
+needed for a general identification function. If yes, then there may be good reason to
+explore a unidimensional method.
+One important omission in this literature is a proper discussion of the axiomatic
+structure for identification functions (or, more generally, for overall methodologies)
+that could help guide the construction of new identification techniques. Indeed,
+too little attention has been paid to developing practical alternatives to the union,
+intersection, and unidimensional identification approaches. This is a key motivation
+behind Alkire and Foster [4, 7].
+Before moving on to a description of our methodology, we would like to mention
+an alternative approach that might be used in this context. Recall that the multidimensional methodologies discussed above draw upon a matrix in which each row
+contains the vector of achievement levels associated with a given person and each
+column contains the vector of people’s achievement levels in a given dimension.
+This general structure allows the measurement method to take advantage of the
+information contained in the joint distribution4 of achievements. In contrast, we
+can define a restricted type of methodology that applies deprivation cutoffs within
+each dimension and ignores all information on links across dimensions. A marginal
+method is one that assigns the same level of poverty to any two matrices that generate
+the same marginal distributions. For example, consider a method that employs a
+union identification approach and aggregates using some increasing function of the
+unidimensional headcount ratios (one for each dimension). The resulting poverty
+level would surely reflect the prevalence of deprivation in society. However, it would
+not be able to say whether the deprivations are spread evenly across the population
+or whether they are concentrated in an underclass of multiply deprived persons. We
+elaborate on this distinction in Section 5.1.
+One useful feature of a marginal method is that it can be estimated using dimensional data from different sources, where the underlying columns of dimensional
+achievements are not linked and may even have different population sizes. Indeed,
+this approach to measurement can be extended to include cases where the columns
+are drawn from dif ferent reference groups within a population, such as children and
+adults. The Human Poverty Index developed by Anand and Sen [12] is an example of
+this form of extended marginal measure, since it aggregates dimensional deprivation
+
+4 Let w, x, and y be three random variables. The joint distribution gives the percentage of the
+population with (w, x, y) or less. The marginal distribution of w gives the percentage of the
+population with w or less, and similarly for x and y.
+
+Understandings and misunderstandings of multidimensional poverty
+
+295
+
+indicators from different populations (namely, adult illiteracy, the probability at birth
+of not surviving until the age of 40, the percentage of households lacking drinking
+water, and the percentage of malnourished children according to weight for age).
+However, while multiply sourced marginal measures can provide useful estimates of
+poverty or aggregate deprivation, they are based on anonymous or unlinked data
+and are unable to identify who is multidimensionally poor—a signal benefit of a
+measurement methodology based on data linked by person or household.5
+
+4 The AF method
+This section provides a systematic overview of the multidimensional methodology
+of Alkire and Foster [4, 7]. We describe how poor people are identified using a
+“dual cutoff” method. We construct the poverty measures and show how to “drill
+down” into each measure to unfold distinctive partial indices that can illuminate
+policy questions. Decompositions are exhibited that explain and clarify the aggregate
+poverty level. The progression closely mirrors the techniques employed in unidimensional poverty measurement, but with some important differences, most notably in
+the identification step. In what follows we will assume that the range of dimensional
+variables has been selected and data are available in the form of an (n × d) data
+matrix Y for n persons and d ≥ 2 dimensions.
+4.1 Identification
+In unidimensional analysis, identification is normally accomplished by the use of a
+poverty line or threshold, with poor people being identified as those whose resource
+or achievement variable level falls below the poverty line. In the multidimensional
+measurement setting, where there are multiple variables, identification is a substantially more challenging exercise. This is the part of our methodology that is most
+commonly overlooked or misunderstood and so we begin the basic elements of our
+dual cutoff identification approach.
+Deprivation cutof fs A vector z = (z1 , ..., zd ) of deprivation cutoffs (one for each
+dimension) is used to determine whether a person is deprived. If the person’s
+achievement level in a given dimension j falls short of the respective deprivation
+cutoff z j, the person is said to be deprived in that dimension; if the person’s level is at
+least as great as the deprivation cutoff, the person is not deprived in that dimension.
+Weights A vector w = (w1 , ..., wd ) of weights or deprivation values is used to
+indicate the relative importance of the different deprivations. If each deprivation
+is viewed as having equal importance, then this leads to a benchmark case where
+
+5 Note
+
+also that marginal measures could not be part of a multidimensional methodology used to
+answer the question “who is poor?” Nor could they be decomposed down to the individual level to
+show the joint distribution of deprivations that each person experiences. Once again, this is because
+the marginal distributions are not linked by person across dimension. A person who is not deprived
+in dimension 1 may well be deprived in dimension 2, but there is no way to determine this.
+
+296
+
+S. Alkire, J. Foster
+
+all the weights are one and sum to the number of dimensions d. If deprivations are
+viewed as having differential importance, this is reflected by a vector whose entries
+sum to d but can vary from one, with higher weights indicating greater importance.
+Note that the deprivation values affect identification as they determine the minimal
+combinations of deprivations which will identify a person as being poor; they also
+affect aggregation by altering the relative contributions of deprivations to overall
+poverty.
+Deprivation counts A column vector c = (c1 . . . cn ) of deprivation counts reflects
+the breadth of each person’s deprivation. The ith person’s deprivation count ci is the
+number of deprivations experienced by i (in the case of equal weights), or the sum of
+the values of the deprivations experienced by i (in the general case).
+Poverty cutof f A poverty cutoff k satisfying 0 < k ≤ d is used to determine whether
+a person has sufficient deprivations to be considered poor. If the ith person’s
+deprivation count ci falls below k, the person is not considered to be poor; if the
+person’s deprivation count is k or above, the person is identified as being poor. The
+title “dual cutoff” refers to the sequential use of deprivation and poverty cutoffs to
+identify the poor. Note that when k is less than or equal to the minimum weight across
+all dimensions we have union identification. When k = d, the intersection approach
+is being used. The deprivation count and poverty cutoff can also be expressed as
+percentages of d.
+Identif ication function The identification function summarizes the outcome of the
+above process and indicates whether a person is poor in Y given deprivation cutoffs
+z, weights w, and poverty cutoff k. If the person is poor, the identification function
+takes on a value of 1; if the person is not poor, the identification function has a value
+of 0.
+One of the interesting properties exhibited by our identification approach is that it
+is applicable even when one or more of the variables are ordinal. All cardinalizations
+of the ordinal variable (found by applying a monotonic transformation to the variable
+and its cutoff) yield identical conclusions, regarding whether a person is deprived in
+the dimension and whether the person is poor. This expands the potential reach of
+the methodology by allowing it to be meaningfully applied to data with lower level
+measurement properties.
+4.2 Censored matrices
+The transition between the identification step and the aggregation step is most easily
+understood by examining a progression of matrices. The achievement matrix Y shows
+the achievements of n persons in each of d dimensions. The deprivation matrix g0
+replaces each entry in Y that is below its respective deprivation cutoff zj with the
+deprivation value wj, and each entry that is not below its deprivation cutoff with 0. It
+provides a snapshot of who is deprived in which dimension and how much weight the
+deprivation carries. The censored deprivation matrix g0 (k) multiplies each row in the
+deprivation matrix by the identification function: if the person is poor, then the row
+
+Understandings and misunderstandings of multidimensional poverty
+
+297
+
+containing the information of the person is unchanged; but if the person is not poor
+the deprivational information of the person is censored and replaced with zeroes. An
+example with equal weights is given below for k = 2.
+Achievement Matrix
+Dimensions
+
+⎡
+
+13.1
+⎢ 15.2
+⎢
+Y=⎣
+12.5
+20
+
+z=
+
+Deprivation Matrix
+
+⎡
+
+0
+⎢0
+0
+g =⎢
+⎣1
+0
+
+0
+1
+1
+1
+
+0
+0
+1
+0
+
+⎤
+0
+1⎥
+⎥
+1⎦
+0
+
+⎡ ⎤
+0
+⎢2⎥
+⎢ ⎥
+⎣4⎦
+1
+
+
+
+13
+
+14
+7
+10
+11
+
+12
+
+4
+5
+1
+3
+
+⎤
+1
+0⎥
+⎥
+0⎦
+1
+
+3
+
+1
+
+Cutoffs
+
+Censored Deprivation Matrix, k = 2
+
+⎡
+
+0
+⎢0
+0
+g (k) = ⎢
+⎣1
+0
+
+0
+1
+1
+0
+
+0
+0
+1
+0
+
+⎤
+0
+1⎥
+⎥
+1⎦
+0
+
+⎡ ⎤
+0
+⎢2⎥
+⎢ ⎥
+⎣4⎦
+0
+
+The original achievement matrix has three persons that are deprived (see the
+underlined entries) in one or more dimensions. The first person (given in the top
+row) has no deprivations at all. The next two persons have deprivation counts that
+are greater than or equal to k = 2. They are considered to be poor and hence
+their entries in the censored deprivation matrix are the same as in the deprivation
+matrix. The fourth person has a single deprivation and hence is not poor. This single
+deprivation is disregarded in the censored deprivation matrix, which only displays
+the deprivations of the poor.6
+If the entries of Y are all cardinally significant, then the normalized gap of a person
+in a deprived dimension can be defined as the difference between the deprivation
+cutoff and the person’s achievement, all divided by the deprivation cutoff. The
+normalized gap matrix g1 replaces each deprived entry in Y with the respective
+normalized gap multiplied by the deprivation value; it replaces each entry that
+is not below its deprivation cutoff with 0. The normalized gap matrix provides a
+snapshot of the depth of deprivation of each person in each dimension, weighted
+by its relative importance. The squared gap matrix g2 replaces each deprived entry
+in Y with the square of the normalized gap multiplied by the deprivation value;
+it replaces each entry that is not below its deprivation cutoff with a value of 0.
+Squaring the normalized gaps puts relatively more emphasis on larger deprivations.
+
+6 This
+
+example has identical deprivation values across dimensions; the general case admits a wide
+variety of identification approaches. For example, if one dimension had overriding importance, and
+its deprivation value were set above or equal to k, then any person deprived in that dimension would
+be considered to be poor.
+
+298
+
+S. Alkire, J. Foster
+
+The censored normalized gap matrix g1 (k), the censored squared gap matrix g2 (k),
+and the censored deprivation counts c(k) are likewise obtained by multiplying
+through by the identification function, and hence they only display the information of
+the poor.
+Censored Normalized Gap Matrix, k = 2;
+Normalized gap = (z j − yij )/z j
+
+⎡
+
+0
+⎢
+0
+g1 (k) = ⎢
+⎣ 0.04
+0
+
+0
+0.04
+0.17
+0
+
+0
+0
+0.67
+0
+
+⎤
+0
+1 ⎥
+⎥
+1 ⎦
+0
+
+Censored Squared Gap Matrix, k = 2
+Squared gap = [(z j − y ij )/z j ]2
+
+⎡
+
+0
+⎢
+0
+g2 (k) = ⎢
+⎣ 0.42
+0
+
+0
+0.422
+0.172
+0
+
+0
+0
+0.672
+0
+
+⎤
+0
+12 ⎥
+⎥
+12 ⎦
+0
+
+The censoring step is key to our methodology, since the censored matrices
+embody our identification step and are the basic constructs used in the aggregation
+step. The original deprivation matrices, by comparison, include information on the
+deprivations of the nonpoor, which should not affect any measure that is focused
+on the poor. Note that there is one case where this distinction is not relevant: when
+the poverty cutoff k becomes small enough (no larger than the smallest deprivation
+value) and our identification method becomes the union approach. Any person
+who is deprived in any dimension is considered poor and the censored and original
+matrices are identical.
+4.3 Aggregation
+The aggregation step of our methodology builds upon the standard FGT technology,
+and likewise generates a parametric class of measures. Each FGT measure can be
+viewed as the mean of an appropriate vector built from the original data and censored
+using the poverty line, and the AF measures have an analogous structure. We focus
+on three main measures corresponding to the key FGT measures.
+Adjusted headcount ratio The adjusted headcount ratio is defined as M0 =
+μ(g0 (k)), or the mean of the censored deprivation matrix. In our example, the sum of
+the entries of g0 (k) is 6 while the number of entries in the matrix is 16, resulting in an
+adjusted headcount ratio of 3/8. Since a completely poor and deprived society has 16
+deprivations, M0 = 3/8 can be interpreted as the actual number of deprivations (6)
+among the poor as a share of the maximum (16).
+ 
+ 
+Dimensions
+c k
+c k d
+⎡
+
+0
+⎢0
+0
+⎢
+g (k) = ⎣
+1
+0
+
+0
+1
+1
+0
+
+0
+0
+1
+0
+
+⎤
+0
+1⎥
+⎥
+1⎦
+0
+
+0
+2
+4
+0
+
+2 4
+4 4
+
+The headcount H is the proportion of people who are poor, which is two out of
+four persons in the above matrix. The intensity A is the average deprivation share
+among the poor, which in this example is the average of 2/4 and 4/4, or 3/4. The
+
+Understandings and misunderstandings of multidimensional poverty
+
+299
+
+adjusted multidimensional headcount ratio M0 is the product of the headcount times
+the intensity (H × A), and is also the mean of the g0 (k) matrix; in this case 3/8.
+A second way of viewing M0 is in terms of partial indices—measures that provide
+basic information on a single aspect of poverty.7 The first partial index is the
+percentage of the population that is poor, or the multidimensional headcount ratio
+H. The second is the average intensity A, which calculates the deprivation share for
+each poor person by dividing the deprivation count by d, and then averages across
+all poor persons. It is easy to see that M0 = HA, which holds in the example since
+H = 1/2 and A = 3/4. This breakdown is not unlike the expression P1 = HI for the
+unidimensional poverty gap measure, where H is the unidimensional headcount and
+I is the so-called income gap ratio, which measures the average depth of poverty
+among the poor. M0 can be used with ordinal data: any monotonic transformation of
+a dimensional variable and its cutoff leads to the same censored deprivation matrix
+and hence the same level of M0 .
+Adjusted poverty gap and adjusted FGT If all the variables are cardinally significant,
+then information on the depth of deprivations can be used to construct two additional
+poverty measures. The adjusted poverty gap measure is defined as M1 = μ(g1 (k)), or
+the mean of the censored normalized gap matrix, while the adjusted FGT measure is
+M2 = μ(g2 (k)), or the mean of the censored squared gap matrix. Each can likewise
+be interpreted using partial indices. Let G denote the average normalized gap, which
+calculates the average value of the normalized gap among all instances where a
+poor person is deprived (and hence where the censored normalized gap is positive);
+similarly, let S denote the average squared gap among all instances where a poor
+person is deprived (and hence where the censored squared gap is positive). G
+provides information on the average depth of deprivations among all poor and
+deprived states; by taking the square of the normalized gaps, S places relatively
+greater emphasis on the larger gaps. It can be shown that M1 = HAG and M2 =
+HAS, so that each is the product of three intuitive partial indices. In our example,
+the sum of the nonzero entries in g1 (k) is (0.04 + 0.42 + 0.17 + 0.67 + 1 + 1) = 3.3
+and so M1 = μ(g1 (k)) = 3.3/16; alternatively, H A = 3/8 and G = 3.3/6 yield M1 =
+H AG = 3.3/16.
+These expressions for the measures suggest a useful line of analysis when applying
+the measures to data over time or space. Suppose for example that M0 has increased
+over time [14]. It could be useful to know whether the increase was primarily due
+to an increase in H, the prevalence of poverty in the population, or to an increase
+in A, the average intensity (or breadth) of poverty among the poor. Analogous
+breakdowns are available for M1 and M2 , with an additional factor being an increase
+in the average depth or average squared gap across deprived states. In conjunction
+with our identification approach, the three poverty measures M0 , M1 , and M2 satisfy
+an increasingly stringent list of axioms, reflecting M0 ’s sensitivity to intensity or
+breadth of deprivation, M1 ’s sensitivity to the depth of a deprivation, and M2 ’s
+
+7 See
+
+for example Foster and Sen [29] or Foster [28].
+
+300
+
+S. Alkire, J. Foster
+
+sensitivity to inequality among deprived states of the poor.8 As we will see below,
+each exhibits two forms of decomposition that are especially useful in empirical
+applications.
+4.4 Decompositions
+In developing multidimensional methods, we would not want to lose the useful
+properties that the unidimensional methods have employed with such success over
+the years. Prime among them is decomposability, which posits that overall poverty
+is a population share weighted average of subgroup poverty levels. This requirement
+has proved to be of great use in analyzing poverty by regions, by ethnic groups, and
+by other subgroups defined in a variety of ways. A related property is subgroup consistency, which requires overall poverty to fall if poverty decreases in one subgroup
+and is unchanged in the other subgroups, given fixed subgroup populations. If this
+property did not hold, so that overall poverty could rise at the same time its level
+falls in subgroups, this could make it difficult indeed to develop appropriate policies
+to combat poverty. Both properties are satisfied by the traditional FGT measures
+and also by the AF methodology. In the latter case, this follows immediately from
+the definition of each measure as the mean of a censored matrix, since the mean is
+likewise decomposable across subgroups using population share weights.
+The level of poverty in a subgroup may be lower (or higher) than the overall
+level of poverty, and this has a direct effect on the overall level as specified by the
+decomposition. Indeed, the subgroup poverty level divided by the overall poverty
+level, all multiplied by the population share of the subgroup, can be viewed as the
+subgroup’s contribution to overall poverty. The subgroup contributions clearly sum
+to one.
+The measures also exhibit a second form of decomposition—by dimension—
+which applies after the identification step when censored matrices have been defined.
+For M0 , the breakdown is expressed in terms of each dimension’s censored headcount
+ratio, which is the percentage of the overall population who are both poor and
+deprived in the given dimension. The dimensional decomposition formula states that
+M0 is equal to a weighted average of the censored headcount ratios, where the weight
+on dimension j is given by w j/d. The percentage contribution of a given dimension
+to overall poverty is its weighted censored headcount ratio divided by the overall
+poverty level.9 In the above example, the censored headcount ratio for the first
+dimension is 1/4 while the weight is 1/4 so that the contribution of the first dimension
+to the overall adjusted headcount ratio M0 is 1/6 = (1/16)/(3/8).
+
+8 The dual-cutoff identification combined with measures M , M , and M yield methodologies that
+0
+1
+2
+satisfy decomposability, replication invariance, symmetry, poverty and deprivation focus, weak and
+dimensional monotonicity, nontriviality, normalisation, and weak rearrangement; while M1 and M2
+satisfy monotonicity; and M2 satisfies a weak transfer property [7]. Our measures are neutral with
+respect to a positive rearrangement among the poor, and hence just satisfy a weak rearrangement
+property. Bourguignon and Chakravarty [20] have emphasized the possibility of alternative directions and strengths of interaction among deprivations, and provide a method that can convert a
+neutral measure into one that reflects varying degrees of substitutability or complementarity.
+9 Alternatively,
+
+the weighted censored headcounts are simply the means of the columns of the
+censored deprivation matrix. So the decomposition says that M0 is the average of the column means;
+while the contribution of a given dimension is its column mean divided by the product of d and M0 .
+
+Understandings and misunderstandings of multidimensional poverty
+
+301
+
+We stress that the dimensional decomposition only holds after identification has
+taken place. Since our identification function cannot be decomposed by dimension
+(one must check across multiple dimensions to see who is poor), the aggregate
+poverty level cannot—except in the extreme case of union identification—be reassembled dimension by dimension before identification. This is a fundamental
+feature of our approach, which arises because our ‘multiple deprivation’ concept of
+poverty is sensitive to the joint distribution of deprivations. In a very interesting paper Chakravarty et al. [24] posit a stronger form of factor decomposition where each
+dimensional term depends only on that dimension’s distribution, and show how this
+property might be useful in practice. However, a cost of this stronger decomposition
+is that the poverty methodology must use a restricted identification approach; the
+identification function cannot be sensitive to multiplicities of deprivations or other
+information derived from the joint distribution. We discuss this further in Section 5.1
+below.
+Dimensional decomposition can be used in conjunction with subgroup decomposability to better understand the patterns of poverty across a population and
+their differential sources. Alkire and Foster [7] provide an example which first
+decomposes a population by ethnic group and then by dimension. They find that
+one ethnic group’s contribution to total poverty is much higher for multidimensional
+poverty than for income poverty, and then examine how the dimensional contributions vary by ethnic group to see what might lie behind this finding. A second
+example drawn from Alkire and Seth [10] provides information on two regions for
+one cross-country implementation of M0 called the MPI. The regions have roughly
+the same population sizes and share M0 levels of 0.39. Decomposition by dimension
+reveals how the underlying structure of deprivations differs across the two for the
+10 indicators (see Fig. 1 and Table 1). In Madhya Pradesh, nutritional deprivations
+contribute the most to multidimensional poverty, whereas in the Congo the relative
+
+Fig. 1 The percentage contribution of indicators to MPI
+
+Deprivation values
+Censored headcount ratio
+Contribution (%)
+Censored headcount ratio
+Contribution (%)
+
+0.56
+0.57
+8.1
+0.52
+7.4
+
+0.56
+0.73
+10.3
+0.67
+9.5
+
+0.56
+0.65
+9.2
+0.57
+8.2
+
+0.56
+0.55
+7.8
+0.31
+4.4
+
+0.56
+0.62
+8.8
+0.65
+9.3
+
+0.56
+0.69
+9.8
+0.25
+3.6
+
+Electr
+1.67
+0.17
+7.2
+0.51
+21.6
+
+1.67
+0.37
+15.7
+0.31
+13.1
+
+Mortal
+
+1.67
+0.40
+17.1
+0.32
+13.7
+
+Attend
+
+Education
+1.67
+0.14
+6.1
+0.22
+9.2
+
+Years
+10.00
+0.39
+100
+0.39
+100
+
+Overall
+
+Data are drawn from the Demographic and health surveys (DHS) for the DR Congo (2007) and Madhya and Pradesh (2006), which are nationally-representative
+household surveys. For details see Alkire and Santos [7].
+
+MP
+
+DRC
+
+Sanita
+
+Nutri
+
+Water
+
+Health
+Floor
+
+Assets
+
+Cook
+
+Living standard
+
+Table 1 Decomposition of MPI in Madhya Pradesh (MP) and Democratic Republic of the Congo (DRC)
+
+302
+S. Alkire, J. Foster
+
+Understandings and misunderstandings of multidimensional poverty
+
+303
+
+contribution of nutritional deprivations is much less than, say, deprivations in school
+attendance. Although the overall poverty levels as measured by M0 are very similar,
+decomposition reveals a very different underlying structure of poverty, which in turn
+could suggest different policy responses.
+
+5 Misunderstandings
+Our methodology is not the last word in multidimensional poverty measurement; we
+hope that there will be improvements in both theory and application. To facilitate
+this process, we need to be as clear as possible about what our methods, are and
+are not, saying. Several aspects of the story are easy to miss or misinterpret, and
+these points could benefit from additional emphasis and clarification [3]. In what
+follows we present some of these misunderstandings of our approach and of the
+whole enterprise of multidimensional poverty measurement.
+5.1 The construct: poverty as multiple deprivations
+Our methods are based on a concept of poverty as multiple deprivations that are
+simultaneously experienced. Persons confronted by a broad range of deprivations
+are poor, while those with limited breadth of deprivation may not be. A censoring
+process, which limits consideration to the deprivations of the poor, connects our identification and aggregation steps. It follows that our methods are sensitive to the joint
+distribution of deprivations, a characteristic that is absent from marginal methods
+and suppressed in unidimensional measures applied to an aggregate variable. This
+is a key feature of our approach that is most easily seen by contrasting with other
+methodologies.
+A marginal method reflects population deprivations within dimensions, but does
+not look across dimensions for the same person and cannot reflect the extent of
+associations among deprivations. Consider the deprivation matrices given below,
+and suppose poverty is evaluated using M0 with k = 2. How would conclusions be
+different if we used a marginal method? Both matrices depict situations in which, for
+each dimension, one fourth of the population is deprived. However, in Matrix 1 it is
+the same fourth of the population that is deprived in all dimensions, while in Matrix 2
+one fourth is deprived in the first dimension, a second fourth is deprived in the second
+dimension, and so on, with no one experiencing more than a single deprivation. Our
+methodology focuses on multiple deprivations and readily distinguishes between the
+two cases. Indeed, M0 is 1/4 in the first case and zero in the second. A marginal
+method would be unable to detect the difference between the two cases given the
+limited form of information it admits — the marginal distributions — which are the
+same in both cases.
+Matrix 1
+
+⎡
+
+0
+⎢
+0
+g0 = ⎢
+⎣0
+1
+
+0
+0
+0
+1
+
+0
+0
+0
+1
+
+Matrix 2
+
+⎤
+⎡ ⎤
+⎡
+0
+0
+1
+⎢0⎥ 0 ⎢0
+0⎥
+⎥···⎢ ⎥ g = ⎢
+⎣0⎦
+⎣0
+0⎦
+1
+1
+0
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+⎤
+⎡ ⎤
+1
+0
+⎢1⎥
+0⎥
+⎥···⎢ ⎥
+⎣1⎦
+0⎦
+1
+4
+
+304
+
+S. Alkire, J. Foster
+
+To illustrate further, recall the dimensional decomposition of M0 as the weighted
+average of the censored headcount ratios—where a censored headcount ratio is the
+share of the population that is both poor and deprived in a particular dimension.
+For Matrix 1, each censored headcount ratio is 1/4 and hence M0 is 1/4; in Matrix
+2, no one is poor, and so the censored headcount ratios and M0 are 0. What
+would happen if instead we used uncensored headcount ratios (or the share of the
+population that is deprived in a dimension) and averaged up to obtain a marginal
+measure? The average would account for all deprivations in society, not just those
+that are experienced by poor persons. This is not a problem in the first scenario
+given above, since all deprivations are experienced by the poor and both forms
+of dimensional headcount ratios are 1/4. In the second scenario, though, where
+no one is poor the uncensored headcount ratios, and hence the marginal measure,
+would remain at 1/4. Depending on the joint distribution, the difference between the
+censored and uncensored values may be small (reflecting few deprivations among
+nonpoor persons) or large (indicating that many deprivations are scattered among
+the nonpoor).10 A marginal measure, by construction, cannot reflect changes in the
+joint distribution that leave the marginal distributions unchanged.11
+The implications are very different for unidimensional measures applied to an aggregate variable. The key question here centrally concerns the aggregation method,
+which collapses all dimensions and their correlations into a single dimension. If the
+aggregation method faithfully combines all the relevant resources (or achievements)
+into the right aggregate for every person, so that data matrices having the same
+aggregate value are in fact identical in all important respects, then a multidimensional
+method is not needed. Dimensional cutoffs and deprivations are irrelevant; only the
+meaningless variation in the joint distribution is being lost. The difficulty arises when
+the aggregate is wrong, or when aggregation is used where aggregation is inappropriate (say, the two dimensions are fundamentally incommensurate achievements).
+If aggregation across achievements is seen as crucial to the entire exercise, this may
+well drive a careful researcher to focus on dimensions that can be readily aggregated
+and omit the rest—no matter how fundamental their link with poverty. A better
+alternative might be to aggregate whenever possible and then to analyze the resulting
+incommensurate achievements using an appropriate multidimensional methodology.
+Our approach seems particularly pertinent when the variables in question relate
+to capability deprivations. At a technical level, this is a case where aggregation
+of achievements is an inherently challenging exercise, and perhaps inadvisable,
+because an achievement above the cutoff in one dimension, like being well educated,
+
+10 The degree of “mismatch” clearly has to do with the degree of positive association among the
+dimensions. This is also closely related to the discussion of robustness of results to changes in the
+various parameters. See Foster et al. [32, 33].
+11 The same logic would apply if uncensored headcount ratios were presented in vector form rather
+than averaged. Each dimension would typically include instances of non-poor deprivations; if poverty
+was the focus, then the censored headcount ratios would seem to be a more appropriate vector
+of dimensional indicators. Put differently, the ministry of health or education would clearly be
+interested in censored or uncensored headcount ratios of health or education; the social development
+ministry, whose main concern is poverty, would be interested in the censored headcount ratios.
+
+Understandings and misunderstandings of multidimensional poverty
+
+305
+
+may not perfectly compensate for a deprivation in another dimension, like being
+unemployed. Each capability, and hence each deprivation, has distinct and intrinsic
+value. Also, when poor people describe their situation, as has been found repeatedly
+in participatory discussions, part of their description often narrates the multiplicity
+of disadvantages that batter their lives at once. Malnutrition is coupled with a lack
+of work, water has to be fetched from an area with regular violence, or there are
+poor services and low incomes. In such cases, part of the experience and problem
+of poverty itself is that several deprivations are coupled, experienced together. Our
+methodology can reflect the joint distribution of disadvantage and the extent of
+simultaneous disadvantages.
+5.2 Data requirements: single survey sourcing
+Our methodology requires data for each variable to be available from the same
+survey and linked at the individual (or household) level.12 It cannot be applied to
+anonymous or unlinked data drawn from different sources. In this it is quite similar
+to other welfare and empirical analyses at the individual or household level and,
+in particular, to traditional unidimensional poverty analyses based on expenditure
+surveys, since clearly all expenditures of the household are needed in order to
+construct the household’s overall expenditure level. We view this as a positive
+attribute of our methodology—that it makes effective use of the data needed to
+understand the phenomenon being evaluated.
+The pressing need for surveys that supply the data required to investigate the joint
+distribution of dimensional achievements was highlighted in the 2009 Commission on
+the Measurement of Economic Performance and Social Progress set up by President
+Sarkozy and chaired by Stiglitz, Sen and Fitoussi [45]. That study recommends
+that, “surveys should be designed to assess the links between various quality of
+life domains for each person, and this information should be used when designing
+policies in various fields.” They elaborate this recommendation as follows:
+[T]he consequences for quality of life of having multiple disadvantages far
+exceed the sum of their individual effects. Developing measures of these
+cumulative effects requires information on the “joint distribution” of the
+most salient features of quality of life across everyone in a country through
+dedicated surveys. Steps in this direction could also be taken by including in
+all surveys some standard questions that allow classifying respondents based
+on a limited set of characteristics. When designing policies in specific fields,
+impacts on indicators pertaining to different quality-of-life dimensions should
+be considered jointly, to address the interactions between dimensions and the
+needs of people who are disadvantaged in several domains (pp. 15–16).
+Data from the same survey are required for all of the measures that reflect the
+joint distribution of disadvantage among multidimensionally poor people, regardless
+of the particular functional form that the measure might take. Hence an investment
+
+12 There are exceptions to this—for example if data for the same respondent can be merged from
+different sources, or if certain variables are uniform across a population subgroup and can be supplied
+for subgroups from alternative surveys.
+
+306
+
+S. Alkire, J. Foster
+
+in the data side could be useful in stimulating the development of alternative measurement methodologies. Furthermore, such data are, as the Sarkozy Commission
+suggested, required not only for poverty measurement but also for the analysis
+of quality of life and welfare. Both welfare and poverty analyses need to reflect
+individuals’ experiences.
+While our fully multidimensional poverty measures require data from the same
+surveys, in a different sense they have far lower data requirements. One of the key
+attributes of the AF technology for measuring poverty, and one that is highlighted
+in the MPI example discussed below, is that it is consistent with qualitative data that
+describe the basic achievements of the poor. The key requirement for ordinal data is
+that if the cutoff and variables are changed by a monotonic transformation, the level
+of poverty must remain unchanged, and the same people must be identified as poor.
+This criterion is satisfied by the dual cutoff identification and the adjusted headcount
+ratio M0 . The M0 methodology can also be used with categorical or dichotomous
+variables so long as a meaningful deprivation cutoff can be fixed. This is an advantage
+not only due to the prevalence of these data, but also because of the fact that data
+for some core functionings are not available in cardinal form.
+5.3 Methodologies and measures: AF compared with the MPI (and the HDI)
+Our methodology is a general framework for multidimensional poverty measurement, which can be filled in different ways. The dimensions and cutoffs could vary,
+as could the weights and poverty cutoff. The measure could be applied at different
+levels. For example, a poverty measure could be implemented at the village, state, or
+national level. And the specific choice of measures might vary: one institution might
+implement a measure with cardinal data to reflect the depth of poverty or inequality
+among the poor underlying M1 or M2 , whereas another could only have ordinal
+data available, and so would report M0 and the breadth of poverty. In sum, our
+methodology is a very flexible framework, and can give rise to a number of concrete
+applications whose shapes depend upon the purpose for which they are designed.
+One notable example of the AF methodology can be found in recent work by
+Alkire and Santos [8] on acute multidimensional poverty in developing countries.
+The Multidimensional Poverty Index (MPI) implements M0 for 104 developing
+countries using a set of 10 indicators for which internationally comparable data are
+available.13 It identifies people as poor depending upon achievements of household
+members. It applies cutoffs that are broadly related to international standards such as
+the MDGs. Nested weights are applied to the indicators, with the health, education
+and living standard categories receiving equal shares of the aggregate weights, and
+each indicator being allocated an equal share of the category’s weight. Consequently,
+each of the six living standard indicators has a deprivation value of 10/18, while each
+of the two health (and the two education) indicators has a deprivation value of 10/6.
+
+13 The MPI was produced collaboratively by OPHI researchers with the UNDP Human Development
+Report Office and was included in the 2010 Human Development Report as an experimental index.
+See UNDP [49]. Note that in the MPI literature, the term ‘indicator’ corresponds to ‘dimensions’ or
+columns in the data matrix, while the term ‘dimension’ is reserved for the three broader categories—
+health, education, and standard of living—containing these indicators.
+
+Understandings and misunderstandings of multidimensional poverty
+
+307
+
+A poverty cutoff k is chosen that identifies a person as poor if she is deprived in
+any two health or education indicators, in all six standard of living indicators, or in
+three standard of living and one health or education indicator. Note that the MPI
+is one particular application of the AF methodology that was designed for crosscountry purposes. Naturally it reflects the myriad of constraints that are often seen
+when constructing internationally comparable measures, yet does create meaningful
+comparisons across countries.
+The MPI demonstrates the operationality of the AF methodology even in the
+presence of rather limited datasets. The aim in implementing the MPI was not
+to suggest that this particular set of indicators, dimensions, cutoffs and weights
+is appropriate in every application. Rather, it was to apply the AF methodology
+fully with respect to one particular problem (cross-country evaluations of acute
+poverty based on DHS, MICS, and similar datasets). The existence of a practical
+cross country implementation can aid in the development of local, national and
+institutional methods that better reflect the particularities of poverty in different
+contexts and inform poverty reduction policies.
+Because the AF methodology is multidimensional, there is a chance it might
+be confused with the Human Development Index (HDI), which aggregates across
+achievements in health, education, and standard of living. In fact, the two measure
+very different things. The AF methodology (and its particular example of the MPI)
+measures poverty: it identifies who is poor and ignores the data of the nonpoor.
+In contrast the HDI is a welfare index based on three marginal distributions that
+combines the aggregate dimensional achievements of all people (not just the poor)
+into one overall score. While the HDI may be limited in terms of data, dimensions,
+and methodology, it has helped bring into view people’s achievements in nonmonetary spaces, and made it possible for other categories of multidimensional
+measures (such as poverty measures) to be envisioned.
+5.4 Underpinnings: poverty and welfare
+Our methodology has its roots in the literature on axiomatic poverty measurement
+[41], which—like related work in inequality and welfare indices—employs axioms to
+discern between measures. Within the axiomatic approach, a method is judged to
+be acceptable or unacceptable according to the properties it satisfies. To critique
+a method of measurement, one identifies desirable properties it fails to exhibit.
+Non-axiomatic arguments, by contrast, are considered less relevant. The axiomatic
+approach provides the foundational theoretical structure for the AF methodologies,
+and the paper devotes substantial effort to formulating and discussing the axioms
+that they satisfy.
+There is a clear difference between evaluating the axiomatic characteristics of
+a measurement method and questioning the calibrations underlying a particular
+implementation of the approach. For example, there may be broad agreement on
+the use of the squared gap FGT measure, but disagreement over using income or
+consumption as the variable, or about the specific poverty line, or which PPP rates
+to use. In the multidimensional case, there may be disagreement over deprivation
+values and cutoffs, even if the AF methodology is selected. Any critique that relies
+on a specific set of implementation choices is contingent on those choices and may
+
+308
+
+S. Alkire, J. Foster
+
+not reveal much about the general methodology—which is more properly evaluated
+in axiomatic terms.14
+Another way that poverty measures have been interpreted is through their link
+with some concept of welfare. For example, the Watts unidimensional poverty measure is related to the geometric mean—one of Atkinson’s social welfare functions—in
+the following way. All incomes above the poverty line are censored to the poverty
+line level to create the censored distribution. The geometric mean is applied to the
+censored distribution to obtain the censored welfare level. The Watts measure is the
+difference between the log of the poverty line and the log of the censored welfare
+level. Perhaps an analogous link could be invoked to evaluate the AF methodology
+or other multidimensional measures.15
+One difficulty in grounding poverty measurement in welfare is that welfare
+itself is so challenging to measure in practice. A welfare function must be able to
+make meaningful evaluations at all levels of achievements across all persons. This
+requires strong assumptions about the measurement properties of data16 and on the
+functional form to get anywhere; and although data analysis might help constrain the
+possibilities somewhat over certain dimensions (e.g., those traded in markets), much
+of the exercise of selecting a welfare function is by definition normative and has
+many degrees of freedom. There will likely be a multiplicity of acceptable functions,
+and even if a unique welfare function could be agreed upon there is no unique
+transformation from welfare function to poverty measure. Moreover, if one could
+settle on a specific function to measure welfare, with a meaningful welfare indicator
+for each individual, this would more naturally suggest the unidimensional approach
+to poverty measurement with welfare as the aggregator and a welfare cutoff as the
+target. It is the absence of such an aggregator that encourages the consideration of
+the multidimensional approach.
+An alternative exercise might be to see whether the tradeoffs implied by a poverty
+measure are broadly consistent with some underlying notion of social welfare. This
+is indeed a reasonable approach, but one whose conclusions are often ignored in
+practice in deference to other favorable aspects of a measure. For example, the
+headcount ratio, so commonly used in traditional poverty measurement exercises,
+has the interesting property that any decrease in the income of a poor person (no
+matter how large a decrease) paired with any increase in income for a nonpoor
+person (no matter how small the increase) will leave poverty unchanged. This, of
+course, is rather untenable from a welfare perspective. Likewise, any decrease in the
+income of a poor person (no matter how large the decrease) paired with an increase
+in the income of another poor person sufficient to lift the person to the poverty line
+income (no matter how small the increase) will decrease poverty. Again, this would
+
+14 It would be another matter to assert that a methodology is impossible to implement. This would
+indeed be a type of general critique, but would require an evaluation of all calibrations, not just one.
+15 Note that certain commonly-used unidimensional poverty measures, such as the FGT squared gap
+index, do not have a direct welfare interpretation—hence this is not viewed as a requirement within
+the literature. On the other hand, the FGT class is closely linked to welfare dominance [15, 30, 37].
+16 See for example the discussion in Alkire and Foster [5] on the assumptions underlying the
+Inequality Adjusted Human Development Index. In particular, ordinal or categorical variables can
+be especially troubling.
+
+Understandings and misunderstandings of multidimensional poverty
+
+309
+
+appear to go against the judgement of any reasonable welfare function censored at
+the poverty line. Note, though, that the fact that these tradeoffs are not justified in
+welfare terms has not forced the removal of this measure from consideration. The
+headcount ratio is a remarkably intuitive, if somewhat crude, measure that takes
+the identification process very seriously and then reports a meaningful number: the
+prevalence of poverty. The fact that it is at variance with notions of welfare would
+appear to be of second order importance to practitioners who continue to highlight
+it as the “headline” statistic.17
+Similarly, the poverty gap implies a constant and unitary marginal rate of substitution between any two poor incomes (i.e., a marginal equal-sized transfer between
+any two poor persons leaves the poverty gap unchanged). One might rather expect
+that a progressive marginal transfer should result in a lower poverty level; or
+equivalently, that the amount of income that needs to be given to a poorer poor
+person to compensate for a $1 decrease in a richer poor person’s income would be
+less than $1. This welfare-based argument would direct one instead to the distribution
+sensitive poverty indices like the FGT, the Watts or the Sen index. And yet, the
+poverty gap, which ignores the distribution or severity of poverty, is reported with
+much greater frequency. The revealed preference evidence about practitioners’ use
+of unidimensional measures suggests that simplicity or informational content of
+certain poverty measures often trumps the favorable “marginal rate of substitution”
+properties of others.
+The main margin of analysis for unidimensional poverty measures is across people.
+For multidimensional poverty measures there is another margin to be considered:
+across the different dimensions of poverty. But how can we credibly account for
+the deprivations of the poor if there is no aggregation system across dimensional
+attainments (as was posited in the multidimensional case)? The AF methodology
+takes the simplest way forward: it requires a positive value to be set for each
+deprivation and then adds up (or averages) across these values to determine the
+breadth of deprivations for the identification step and also for the adjusted headcount
+ratio M0 . The other two measures figure in the depth or severity of deprivations, in
+cases where the variables allow it. The values or weights afforded each deprivation
+are straightforward in interpretation and lead to measures whose numerical values
+convey meaning. As noted in the next section, they can be set in a variety of ways
+suitable to the purpose of the poverty measurement methodology. Information on
+how individuals themselves value deprivations can be part of the mix, as might a
+broader perspective of society’s priorities, in arriving at this key subset of parameters
+used to calibrate the AF methodology.
+5.5 Calibration: who will choose parameters?
+Our methodology is a general framework for measuring multidimensional poverty—
+an open source technology that can be freely altered by the user to best match the
+measure’s context and evaluative purpose. As with most measurement exercises,
+
+17 When data have lower level measurement properties, such as when the variable is ordinal or
+categorical, we may be forced to use the headcount ratio of some other counting measure that is
+still meaningful in this context.
+
+310
+
+S. Alkire, J. Foster
+
+it will be the designers who will have to make and defend the specific decisions
+underlying the implementation, limited and guided by the purpose of the exercise
+and by commonly held understandings of what that purpose entails. Traditional
+unidimensional measures require decisions that are qualitatively similar. For example, should the variable be expenditure or income? What should the poverty cutoff
+be? Other implementation choices are less apparent but can likewise be important
+for final results, as we have seen with the recent updating of PPP values and the
+subsequent impact on world poverty counts. Robustness tests are crucial both for
+ensuring that the results obtained are not unduly dependent upon the calibration
+choices and for allowing these choices to be made in the first place.18
+For example, the multidimensional measure could seek to reflect capability
+poverty. In this case then, following Sen [42, 44], the selection of relevant functionings is a value judgement, as is the selection of weights and cutoffs. There are various
+procedures for making such value judgements. Ideally, recurrent participatory and
+deliberative processes could be used to choose them, because done well (and if
+inequalities in power and voice are managed well) these procedures have the
+potential to facilitate the exchange of reasons, build consensus, and create legitimacy.
+In other cases the choices might be made by a technical committee, and might
+reflect participatory processes in other ways—for example by drawing on recent
+participatory studies, a national plan, or the constitution. In any case, Sen stresses
+the need to communicate the chosen parameters explicitly in the media and other
+outlets, so they could be improved by public discussion and debate in the future.
+The calibration choices will depend upon the purpose of the measure, such as the
+space in which poverty is evaluated, the relevant comparisons across time or populations that the measure will inform, or the particular programmes or institutions which
+will be evaluated. Calibration choices will also reflect data and resource constraints.
+The flexibility in choice of parameters makes the AF methodology particularly
+useful at the country level where measurement decisions can be made locally to
+embody prevailing norms of what it means to be poor. For example, if dimensions,
+weights and cutoffs are specified in a legal document such as the Constitution, the
+identification function might be developed using an axiomatic approach, as was done
+in Mexico.19 The weights can be developed by a range of process: expert opinion,
+coherence with a consensus document such as a national plan, or the MDGs. And the
+poverty cutoff, which is analogous to poverty lines in unidimensional space, could be
+chosen so as to reflect policy needs and resources.20
+It is helpful to subject measures to a series of robustness tests that check whether
+the results obtained for an initial set of parameters are upheld for other plausible
+parameter values. The tools can include formal dominance orderings, which indicate
+when agreement exists for all values of one or more parameters, or simple empirical
+robustness checks, which re-evaluate results for a finite number of alternative
+
+18 For example, the variable poverty line robustness methods such as those found in [30] have helped
+make the fundamentally arbitrary US$1.25 a day poverty line much more palatable.
+19 See
+20 On
+
+Alkire and Foster [6].
+
+the choice of dimensions see Alkire [1, 2]; on the choice of weights see Decancq and Lugo [25],
+Alkire [3]; on the choice of poverty cutoffs see Alkire and Foster [7].
+
+Understandings and misunderstandings of multidimensional poverty
+
+311
+
+values.21 Clearly, the initial choice of parameters would be more difficult if important
+comparisons were sensitive to small adjustments in them. By applying robustness
+tests this sensitivity can be explored transparently.
+In our view, enabling people to choose parameters according to a range of
+processes provides an essential flexibility and adaptability to allow the measures
+to be tailored to institutional, cultural, and data-specific circumstances. Also, the
+AF methodology is relatively transparent, and this feature can be helpful when
+parameters are set by (or at least opened to) public debate. It uses explicit indicators,
+weights and cutoffs, so that serious shortcomings in the choice of parameters could
+be debated and changed. To counterbalance and inform this flexibility, we suggest
+the use of dominance results and of robustness and sensitivity tests, which will show
+whether the key points of comparison are robust to a range of plausible parameter
+choices.
+
+6 Concluding remarks
+The literature on unidimensional poverty measurement provides the bedrock for
+wider approaches. This paper opened by observing how multidimensional measures
+build upon and depart from these roots, for example through the application of
+deprivation cutoffs in each dimension prior to the identification step. We then
+introduced one particular methodology of multidimensional poverty measurement.
+The AF methodology introduces a dual-cutoff identification method, while its aggregation methodology builds on the traditional FGT approach. The overall measures
+as well as their sub-indices are intuitive and easy to interpret, and satisfy a set of
+desirable properties such as decomposability. Although the AF methodology has a
+specific structure for identification and aggregation, its implementation is flexible:
+parameters such as dimensions, cutoffs, and weights can be chosen to reflect the
+purpose of the measure and its context.
+The value of having a poverty measure like M0 is that it can show change over time
+in a unified and internally consistent framework. This overall picture of change can
+be coherently and consistently deepened and sharpened by the more specific insights
+contained in decompositions and partial indices. Understanding this combination—
+an overview indicator that can give rise to a range of more specific analyses—is key
+to our measurement approach.
+We also clarified five misunderstandings that may arise when the AF methodology
+is initially encountered. The first pertains to our fundamental use of the joint
+distribution in constructing our measures. We require information on all of a person’s
+achievements in order to determine if the person is poor. The joint distribution
+is likewise incorporated into our measures of poverty, each of which may be
+
+21 For example see Alkire and Foster [7] and Lasso de la Vega [36]; see also Alkire and Santos [8]
+and Alkire et al. [11]. A stringent and full set of dominance conditions that ensure the robustness
+of comparisons to widely varying weights, deprivation cutoffs, and poverty cutoffs, has been derived
+in Yalonetzky [51]. Statistical tests for these conditions are available in Yalonetzky [53] for discrete
+variables; and in Anderson [13], for continuous variables. Bennett and Singh [18] propose a test for
+multiple hypotheses that allows the researcher to check the robustness of the cutoffs and compare
+two groups. Yalonetzky [52] derives asymptotic standard errors for the basic statistics of the AF
+family (H, A and M0 ), and their percentage changes for various sampling procedures.
+
+312
+
+S. Alkire, J. Foster
+
+disaggregated by population subgroup or (after identification) by dimension to better
+understand the structure of poverty. Note, though, that the dimensional decomposition creates dimensional sub-indices (like the censored headcount ratios) that also
+rely fundamentally on achievements and deprivations across all dimensions—or the
+joint distribution. In contrast, marginal methods aggregate up from the marginal
+distributions, and decompose by dimension back to dimensional indices (like the
+uncensored headcount ratios) where they began. A second misunderstanding is
+related to implementation and data sources: because each variable must be linked
+to a particular household, all variables normally must come from the same survey
+source. We echo, therefore, the call of the Stiglitz, Sen and Fitoussi Committee
+for better multi-topic household survey data. We also note that our methods can
+incorporate qualitative or ordinal data, which are commonly available.
+In 2010 our M0 methodology was used by Alkire and Santos [8] to develop a
+Multidimensional Poverty Index (MPI) reflecting acute poverty in 104 developing
+countries. That exercise revealed the applicability of this methodology, and stimulated interest in similar analyses. But it is easy to fall into a third misunderstanding:
+that the particular MPI dimensions, indicators, cutoffs, and weights, are part of
+the general methodology, instead of recognising the range of calibration choices
+that are possible. The parameters chosen for the international MPI reflect acute
+poverty across developing countries within strongly binding data constraints; other
+specifications could be considered—for example to measure national poverty, target
+beneficiaries, or evaluate a particular intervention.
+Fourth, it might be assumed that multidimensional poverty methods have been
+constructed without reference to a theoretical framework. In fact there is a mature
+literature on axiomatic poverty measurement that has been brought over into
+the multidimensional environment for evaluating prospective methodologies. While
+links with welfare can provide a helpful way of interpreting poverty measures,
+requiring such links can be detrimental: it drives poverty measurement towards
+the economic variables that are the arguments of traditional welfare functions and
+unidimensional poverty measures and away from new approaches to well-being and
+capability. Conceptions and empirical measures of multidimensional welfare must be
+improved before their potential implications for multidimensional poverty measurement become clear. In the meantime, axioms can imbue poverty methodologies with
+welfare-related considerations, and likewise such methodologies can be criticised if
+they fail to exhibit key properties.
+Fifth and finally, multidimensional poverty measures can and often do take
+form in active relationship with participatory and deliberative processes about what
+poverty is and what current priorities might be. In particular, because the dimensions,
+indicators, weights and cutoffs of our methodology are flexible, they can be filled in
+in many ways. Robustness checks should normally be implemented to ensure that
+key points of analysis are robust to a range of plausible parameters.
+“Measurement...” as Sen put it, “is not an easy task.” In this paper we elucidate the
+strengths, limitations, and misunderstandings of multidimensional poverty methods
+in order to clarify the debate and to catalyse further research. Of particular importance is ongoing clarification of what a multidimensional poverty methodology
+is, what value-added it provides, and how axiomatic multidimensional poverty
+methodologies are best evaluated. Naturally, there are many other topics of interest
+including those related to preferences, weights, functional forms, data sources, and
+statistical methods. One can anticipate a sustained and vigorous exchange of ideas.
+
+Understandings and misunderstandings of multidimensional poverty
+
+313
+
+Acknowledgements The authors would like to thank Angus Deaton, Jean-Yves Duclos,
+Chrysanthi Hatzimasoura, Nora Lustig, Nicole Rippin, Maria Emma Santos, Shabana Singh, Gaston
+Yalonetzky, and the participants of the IIEP Development Lunch for helpful comments, and
+especially Martin Ravallion for helping to motivate the present piece.
+
+References
+1. Alkire, S.: Valuing Freedoms. Sen’s Capability Approach and Poverty Reduction. Oxford
+University Press, New York (2002)
+2. Alkire, S.: Choosing dimensions: the capability approach and multidimensional poverty. In:
+Kakwani, N., Silber, J. (eds.) The Many Dimensions of Poverty, pp. 89–119. Macmillan,
+New York (2008)
+3. Alkire, S.: Multidimensional poverty and its discontents. (OPHI working paper series, 44) (2011)
+4. Alkire, S., Foster, J.: Counting and multidimensional poverty measures. (OPHI working paper
+series, 7) (2007)
+5. Alkire, S., Foster, J.E.: Designing the Inequality-Adjusted Human Development Index.
+(OPHI working paper series, 37) (2010)
+6. Alkire, S., Foster, J.E.: An axiomatic approach to identification and measurement of multidimensional poverty. (OPHI Research in Progress, 21a) (2010)
+7. Alkire, S., Foster, J.E.: Counting and multidimensional poverty measurement. J. Public Econ.
+95(7–8), 476–487 (2011)
+8. Alkire, S., Santos, M.E.: Acute multidimensional poverty: a new index for developing countries.
+OPHI working paper series, 38 (2010)
+9. Alkire, S., Seth, S.: Determining BPL status: some methodological improvements. Indian J. Hum.
+Dev. 2(2), 407–24 (2009)
+10. Alkire, S., Seth, S.: Decomposing India’s MPI by state and caste: examples and comparisons.
+OPHI Research in Progress (2011)
+11. Alkire, S., Santos, M.E., Seth, S., Yalonetzky, G.: Is the Multidimensional Poverty Index robust
+to different weights? OPHI Research in Progress (2010)
+12. Anand, S., Sen, A.: Concepts of Human Development and Poverty: A Multidimensional
+Perspective. UNDP, New York (1997)
+13. Anderson, G.: The empirical assessment of multidimensional welfare, inequality and poverty:
+sample weighted multivariate generalizations of the Kolmogorov–Smirnov two sample tests for
+stochastic dominance. J. Econ. Inequality Springer 6(1), 73–87 (2008)
+14. Apablaza, M., Ocampo, J.P., Yalonetzky, G.: Decomposing changes in multidimensional poverty
+for 10 countries. mimeo. (2010)
+15. Atkinson, A.B.: On the measurement of poverty. Econometrica 55(4), 749–764 (1987)
+16. Atkinson, A.: Poverty and Social Security. Harvester Wheatsheaf, New York (1989)
+17. Atkinson, A.B.: Multidimensional deprivation: contrasting social welfare and counting approaches. J. Econ. Inequality 1(1), 51–65 (2003)
+18. Bennett, C., Singh, S.: Multidimensional poverty: measurement, estimation and inference. Econ.
+Rev. (2010, in press)
+19. Bossert, W., Chakravarty, S.R., D’Ambrosio, D.: Multidimensional poverty and material deprivation. Working Papers 129, ECINEQ, Society for the Study of Economic Inequality (2009)
+20. Bourguignon, F., Chakravarty, S.R.: The measurement of multidimensional poverty. J. Econ.
+Inequality 1(1), 25–49 (2003)
+21. Brandolini, A., D’Alessio, G.: Measuring Well-Being in the Functioning Space. Banco d’Italia
+Reseach Department, Rome (1998)
+22. Chakravarty, S.R., D’Ambrosio, C.: The measurement of social exclusion. Rev. Income Wealth
+53(3), 377–398 (2006)
+23. Chakravarty, S.R., Silber, J.: Measuring multidimensional poverty: the axiomatic approach. In:
+Kakwani, N., Silber, J. (eds.) Quantitative Approaches to Multidimensional Poverty Measurement. Macmillan, Basingstoke (2008)
+24. Chakravarty, S., Mukherjee, D., Renade, R.R.: On the family of subgroup and factor decomposable measures of multidimensional poverty. Res. Econ. Inequality 8, 175–194 (1998)
+25. Decancq, K., Lugo, M.A.: Weights of multidimensional indices of well-being: an overview. Econ.
+Rev. (2011, in press)
+
+314
+
+S. Alkire, J. Foster
+
+26. Deutsch, J., Silber, J.: Measuring multidimensional poverty. An empirical comparison of various
+approaches. Rev. Income Wealth 51, 145–174 (2005)
+27. Duclos, J.-Y., Sahn, D.E., Younger, S.D.: Robust multidimensional poverty comparisons. Econ.
+J. 116(514), 943–968 (2006)
+28. Foster, J.E.: Poverty indices, in poverty, inequality and development. In: de Janvry, A., Kanbur,
+R. (eds.) Essays in Honor of Erik Thorbecke. Academic, Dordrecht (2005)
+29. Foster, J.E., Sen, A.K.: After a quarter century. In: Sen, A.K. (ed.) On Economic Inequality.
+Clarendon, Oxford (1997)
+30. Foster, J., Shorrocks, A.: Poverty orderings and welfare dominance. Soc. Choice Welf. 5(2–3),
+179–198 (1988)
+31. Foster, J., Greer, J., Thorbecke, E.: A class of decomposable poverty measures. Econometrica
+52(3), 761–766 (1984)
+32. Foster, J.E., McGillivray, M., Seth, S.: Rank robustness of composite indices. OPHI working
+paper series, 26 (2009)
+33. Foster, J.E., McGillivray, M., Seth, S.: Composite indices: rank robustness, statistical association,
+and redundancy, mimeo (2011)
+34. Kakwani, N., Silber, J.: The Many Dimensions of Poverty. MacMillan, Basingstoke (2008)
+35. Kakwani, N., Silber, J.: Quantitative Approaches to Multidimensional Poverty Measurement.
+Macmillan, Basingstoke (2008)
+36. Lasso de la Vega, C.: Counting poverty orderings and deprivation curves. Res. Econ. Inequality
+18, 153–172 (2010)
+37. Ravallion, M.: Poverty Comparisons. Harwood, Switzerland (1994)
+38. Ravallion, M.: Mashup indices of development. World Bank Policy Research Working Paper,
+5432 (2010)
+39. Ravallion, M.: On multidimensional indices of poverty. World Bank Policy Research Working
+Papers, 5580 (2011)
+40. Rippin, N.: Poverty Severity in a Multidimensional Framework: The Issue of Inequality Between
+Dimensions. Courant Research Centre (CRC) Discussion Paper No. 47 (2010)
+41. Sen, A.K.: Poverty: an ordinal approach to measurement. Econometrica 44(2), 219–231 (1976)
+42. Sen, A.K.: In: Hawthorn, G. (ed.) The Standard of Living: The Tanner Lectures, pp. xiv, 125.
+Cambridge University Press, Cambridge (1987)
+43. Sen, A.: Social progress index: some methodological issues. First Report to UNDP/Latin
+America Bureau, mimeo (1989)
+44. Sen, A.K.: Inequality Re-examined. Sage, New York (1992)
+45. Stiglitz, J.E., Sen, A., Fitoussi, J.-P.: Report by the Commission on the Measurement of Economic
+Performance and Social Progress (2009)
+46. Thorbecke, E.: Multidimensional poverty: conceptual and measurement issues. In: Kakwani, N.,
+Silber, J. (eds.) The Many Dimensions of Poverty. MacMillan, New York (2008)
+47. Tsui, K.: Multidimensional poverty indices. Soc. Choice Welf. 19(1), 69–93 (2002)
+48. UNDP: Human Development Report 1997: Human Development to Eradicate Poverty. Oxford
+University Press, New York (1997)
+49. UNDP: Human Development Report 2010: the Real Wealth of Nations: Pathways to Human
+Development. Macmillan, New York (2010)
+50. World Bank: World Development Report 2000/2001: Attacking Poverty. Oxford University
+Press, New York (2000)
+51. Yalonetzky, G.: Conditions for the most robust poverty comparisons using the Alkire-Foster
+family of measures. mimeo, (2010)
+52. Yalonetzky, G.: A note on the standard errors of the members of the Alkire-Foster family and
+its components. (OPHI Research in Progress 25) (2011)
+53. Yalonetzky, G.: Stochastic dominance with ordinal variables: conditions and a test. Econ. Rev.
+(2011, in press)
+
+
